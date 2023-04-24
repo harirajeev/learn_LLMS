@@ -1,23 +1,23 @@
 
 # learn_LLMS
 
-A Catalog and family tree of all major transformers to date by Xavier Amatriain;
+## A Catalog and family tree of all major transformers to date by Xavier Amatriain
 
 - [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/?utm_source=substack&utm_medium=email)
 - [TRANSFORMER MODELS: AN INTRODUCTION AND CATALOG](https://arxiv.org/pdf/2302.07730.pdf)
 - [Transformer Catalog](https://docs.google.com/spreadsheets/d/1XI-iRulxbFQL3hB2wIrJ5xxP1XwGqiQtLQklDvA4tmo/edit#gid=0)
 
-Understanding the Main Architecture and Tasks
+## Understanding the Main Architecture and Tasks
 If you are new to transformers / large language models, it makes the most sense to start at the beginning.
 
-(1) Neural Machine Translation by Jointly Learning to Align and Translate (2014) by Bahdanau, Cho, and Bengio, https://arxiv.org/abs/1409.0473
+### (1) Neural Machine Translation by Jointly Learning to Align and Translate (2014) by Bahdanau, Cho, and Bengio, https://arxiv.org/abs/1409.0473
 
 I recommend beginning with the above paper if you have a few minutes to spare. It introduces an attention mechanism for recurrent neural networks (RNN) to improve long-range sequence modeling capabilities. This allows RNNs to translate longer sentences more accurately – the motivation behind developing the original transformer architecture later.
 ![image](https://user-images.githubusercontent.com/13446418/232326713-bf8e3603-661b-4790-b424-ad815ebcbba4.png)
 
 Source: https://arxiv.org/abs/1409.0473
 
-2) Attention Is All You Need (2017) by Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin, https://arxiv.org/abs/1706.03762
+### 2) Attention Is All You Need (2017) by Vaswani, Shazeer, Parmar, Uszkoreit, Jones, Gomez, Kaiser, and Polosukhin, https://arxiv.org/abs/1706.03762
 
 The paper above introduces the original transformer architecture consisting of an encoder- and decoder part that will become relevant as separate modules later. Moreover, this paper introduces concepts such as the scaled dot product attention mechanism, multi-head attention blocks, and positional input encoding that remain the foundation of modern transformers.
 
@@ -25,7 +25,7 @@ The paper above introduces the original transformer architecture consisting of a
 
 Source: https://arxiv.org/abs/1706.03762
 
-3) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018) by Devlin, Chang, Lee, and Toutanova, https://arxiv.org/abs/1810.04805
+### 3) BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding (2018) by Devlin, Chang, Lee, and Toutanova, https://arxiv.org/abs/1810.04805
 
 Following the original transformer architecture, large language model research started to bifurcate in two directions: encoder-style transformers for predictive modeling tasks such as text classification and decoder-style transformers for generative modeling tasks such as translation, summarization, and other forms of text creation.
 
@@ -35,21 +35,6 @@ The BERT paper above introduces the original concept of masked-language modeling
 
 
 	
-Open in app or online
-
-Understanding Large Language Models
-A Cross-Section of the Most Relevant Literature To Get Up to Speed
-SEBASTIAN RASCHKA
-APR 16
-
- 
-
-
-
-SHARE
- 
-Note: Next to the monthly Ahead of AI series that discusses the latest research and trends, I plan to post some additional articles related to machine learning and AI once in a while. I am curious to hear what you think — do you like this idea, or should I stick to the main newsletter series? Please let me know in the comments!
-
 Large language models have taken the public attention by storm – no pun intended. In just half a decade large language models – transformers – have almost completely changed the field of natural language processing. Moreover, they have also begun to revolutionize fields such as computer vision and computational biology.
 
 Since transformers have such a big impact on everyone’s research agenda, I wanted to flesh out a short reading list (an extended version of my comment yesterday) for machine learning researchers and practitioners getting started.
