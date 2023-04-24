@@ -56,3 +56,16 @@ If you are interested in this research branch, I recommend following up with the
 As mentioned earlier, BERT-type encoder-style LLMs are usually preferred for predictive modeling tasks, whereas GPT-type decoder-style LLMs are better at generating texts. To get the best of both worlds, the BART paper above combines both the encoder and decoder parts (not unlike the original transformer – the second paper in this list).
 
 ![image](https://user-images.githubusercontent.com/13446418/233917112-a9ac4fac-8920-4135-a5fa-7818c51994d3.png)
+
+<br>
+
+## Scaling Laws and Improving Efficiency
+
+If you want to learn more about the various techniques to improve the efficiency of transformers, 
+I recommend the 
+[2020 Efficient Transformers: A Survey paper](https://arxiv.org/abs/2009.06732)
+followed by the 2023 [A Survey on Efficient Training of Transformers paper.](https://arxiv.org/abs/2302.01107)
+
+read more from this blog
+
+https://magazine.sebastianraschka.com/p/understanding-large-language-models?utm_source=substack&utm_medium=email
