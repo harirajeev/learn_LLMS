@@ -1,11 +1,11 @@
 
 # learn_LLMS
 
-a catalog and family tree of all major transformers to date by Xavier Amatriain;
+A Catalog and family tree of all major transformers to date by Xavier Amatriain;
 
-- https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/?utm_source=substack&utm_medium=email
-- https://arxiv.org/pdf/2302.07730.pdf
-- https://docs.google.com/spreadsheets/d/1XI-iRulxbFQL3hB2wIrJ5xxP1XwGqiQtLQklDvA4tmo/edit#gid=0
+- [Transformer models: an introduction and catalog — 2023 Edition](https://amatriain.net/blog/transformer-models-an-introduction-and-catalog-2d1e9039f376/?utm_source=substack&utm_medium=email)
+- [TRANSFORMER MODELS: AN INTRODUCTION AND CATALOG](https://arxiv.org/pdf/2302.07730.pdf)
+- [Transformer Catalog](https://docs.google.com/spreadsheets/d/1XI-iRulxbFQL3hB2wIrJ5xxP1XwGqiQtLQklDvA4tmo/edit#gid=0)
 
 Understanding the Main Architecture and Tasks
 If you are new to transformers / large language models, it makes the most sense to start at the beginning.
