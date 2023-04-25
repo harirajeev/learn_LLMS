@@ -13,3 +13,5 @@
     8. [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
 6.  Vector DB
     1. [tutorial on how to talk to your vector database.- ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+7.  Langchain
+    1. [Building LLM Powered Applications - Gregory Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
