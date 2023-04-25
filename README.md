@@ -9,3 +9,4 @@
     4. [Latest papers on prompt engineering](https://www.promptingguide.ai/papers)
     5. [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903)
     6. [self-consistency technique](https://arxiv.org/abs/2203.11171)
+    7. [Prompt tuning -The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
