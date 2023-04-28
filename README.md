@@ -30,3 +30,5 @@
     1. [tutorial on how to talk to your vector database.- ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 7.  Langchain
     1. [Building LLM Powered Applications - Gregory Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
+8.  Blogs
+    1. [Jason Wei](https://www.jasonwei.net/)
