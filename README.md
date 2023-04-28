@@ -1,3 +1,8 @@
+[The architecture nomenclature for LLMs is somewhat confusing and unfortunate.](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2?utm_source=share&utm_medium=member_desktop)
+- What's called "encoder only" actually has an encoder and a decoder (just not an auto-regressive decoder).
+- What's called "encoder-decoder" really means "encoder with auto-regressive decoder"
+- What's called "decoder only" really means "auto-regressive encoder-decoder"
+
 1.  [Learn LLM](https://github.com/harirajeev/learn_LLMS/blob/main/Learn%20LLM.md)
     1. [GPT-2 (Radford, Ilya Sutskever et al. OPENAI)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
     2. [GPT-3 (Brown et al. OPENAI)](https://arxiv.org/pdf/2005.14165.pdf)
