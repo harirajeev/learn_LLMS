@@ -37,3 +37,5 @@
     1. [Building LLM Powered Applications - Gregory Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
 8.  Blogs
     1. [Jason Wei](https://www.jasonwei.net/)
+9.  LLM Ecosystem
+    1. [ecosystem graphs stanford](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
