@@ -39,3 +39,5 @@
     1. [Jason Wei](https://www.jasonwei.net/)
 9.  LLM Ecosystem
     1. [ecosystem graphs stanford](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
+10. Open Source LLM
+    1. [LLaMA, Meta’s Open Source LLM](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
