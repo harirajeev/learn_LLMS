@@ -42,8 +42,4 @@
 9.  LLM Ecosystem
     1. [ecosystem graphs stanford](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
 10. Open Source LLM
-    1. [LLaMA, Meta’s Open Source LLM](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
-    2. From a business perspective, I can see this being useful from at least two angles: 
-       1. how can we be better than the competition if we use the same off-the-shelf solution others are using and 
-       2. if it's open source, we have full control and are not affected by API changes and restrictions
-    3. https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_source=bensbites&utm_medium=newsletter&utm_campaign=knighty-byte-open-source-crusade
+    
