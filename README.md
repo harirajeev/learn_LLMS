@@ -43,4 +43,7 @@
 9.  [LLM Ecosystem](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem.md)
     
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
+
+11. Responsible LLMs
+    1. [red Teaming](https://huggingface.co/blog/red-teaming)
     
