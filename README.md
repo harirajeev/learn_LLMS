@@ -2,6 +2,7 @@
 - What's called "encoder only" actually has an encoder and a decoder (just not an auto-regressive decoder).
 - What's called "encoder-decoder" really means "encoder with auto-regressive decoder"
 - What's called "decoder only" really means "auto-regressive encoder-decoder"
+- autoregressive decoder-style (aka GPT-like)
 
 1.  [Learn LLM](https://github.com/harirajeev/learn_LLMS/blob/main/Learn%20LLM.md)
     1. [Transformers from Scratch](https://e2eml.school/transformers.html#resources)
