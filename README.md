@@ -46,4 +46,7 @@
 
 11. Responsible LLMs
     1. [red Teaming](https://huggingface.co/blog/red-teaming)
+    2. [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
+           NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. Guardrails (or "rails" for short) are specific ways of controlling the output of a large language model, such as not talking about politics, responding in a particular way to specific user requests, following a predefined dialog path, using a particular language style, extracting structured data, and more.
+           
     
