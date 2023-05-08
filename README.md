@@ -41,6 +41,6 @@
     2. [Chip Huyen](https://huyenchip.com/blog/)
     3. [Sebastian Raschka ](https://sebastianraschka.com/blog/index.html)
 9.  LLM Ecosystem
-    1. [ecosystem graphs stanford](https://crfm.stanford.edu/ecosystem-graphs/index.html?mode=table)
+    
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
     
