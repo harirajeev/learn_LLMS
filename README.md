@@ -44,11 +44,10 @@
     
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
-11. [LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 11. Responsible LLMs
     1. [red Teaming](https://huggingface.co/blog/red-teaming)
     2. [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
            NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. Guardrails (or "rails" for short) are specific ways of controlling the output of a large language model, such as not talking about politics, responding in a particular way to specific user requests, following a predefined dialog path, using a particular language style, extracting structured data, and more.
     3. [Improve AI Output Using the Guardrails Library with Custom Validators](https://www.mikulskibartosz.name/guardrails-ai-advanced-validators/)    
        
-    
+12. [LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)    
