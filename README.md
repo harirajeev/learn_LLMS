@@ -44,6 +44,7 @@
     
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
+11. [LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 11. Responsible LLMs
     1. [red Teaming](https://huggingface.co/blog/red-teaming)
     2. [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
