@@ -6,6 +6,7 @@
        2. if it's open source, we have full control and are not affected by API changes and restrictions
 
 3. https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_source=bensbites&utm_medium=newsletter&utm_campaign=knighty-byte-open-source-crusade
+4. [PrivatGPT](https://github.com/imartinez/privateGPT)
 
 #*****************************************************************************************************************************************************
 
