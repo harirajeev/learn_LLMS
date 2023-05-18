@@ -52,6 +52,7 @@
     3. [Improve AI Output Using the Guardrails Library with Custom Validators](https://www.mikulskibartosz.name/guardrails-ai-advanced-validators/)    
     4. [OpenAI Moderation tool](https://platform.openai.com/docs/guides/moderation/overview).
        The moderation endpoint is a tool you can use to check whether content complies with OpenAI's usage policies. Developers can thus identify content that our usage policies prohibits and take action, for instance by filtering it. The moderation endpoint is free to use when monitoring the inputs and outputs of OpenAI APIs.
+    4. [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226). “watermarking framework” proposed by a group of researchers. This involves embedding signals into generated text that are invisible to humans but algorithmically detectable. The watermark selects a randomized set of “green” tokens before a word is generated and softly promotes using those tokens during sampling.
        
 12. [LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)    
 
