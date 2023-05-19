@@ -66,3 +66,7 @@
     2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
     3. [Large Language Models - Class Central](https://lnkd.in/exVh6g-K)
     4. [Large Language Models - The Stanford CS324](https://lnkd.in/eJKfDTHK)
+    5. [Deploying GPT and Large Language Models - Oreilly](https://lnkd.in/eDDivjB6)
+    6. [Understanding Large Language Models - Princeton University](https://lnkd.in/eE44cmza)
+    
+
