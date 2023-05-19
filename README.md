@@ -13,8 +13,7 @@
     6. [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)  <b>SUPER</b>
     7. [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) <b>SUPER</b>
     8. [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
-    9. [Large Language Models - The Stanford CS324](https://lnkd.in/eJKfDTHK)
-    10. Context Length
+    9. Context Length
        1. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
 2.  [Building LLM applications for production - Chip Huyen](https://huyenchip.com/2023/04/11/llm-engineering.html)
 3.  [Training own LLM](https://blog.replit.com/llm-training)
@@ -62,6 +61,8 @@
 
 13. [In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/InContextLearning.md)
 14. [LLM Metric](https://github.com/ray-project/llm-numbers)
-15. LLM Repos
+15. LLM Repos & Learning Resources
     1. [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 
     2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+    3. [Large Language Models - Class Central](https://lnkd.in/exVh6g-K)
+    4. [Large Language Models - The Stanford CS324](https://lnkd.in/eJKfDTHK)
