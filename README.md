@@ -61,3 +61,6 @@
 
 13. [In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/InContextLearning.md)
 14. [LLM Metric](https://github.com/ray-project/llm-numbers)
+15. LLM Repos
+    1. [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 
+    2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
