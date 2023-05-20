@@ -44,6 +44,13 @@
     1. [Jason Wei](https://www.jasonwei.net/)
     2. [Chip Huyen](https://huyenchip.com/blog/)
     3. [Sebastian Raschka ](https://sebastianraschka.com/blog/index.html)
+    4. [OpenAI Blog](https://openai.com/blog/)
+    5. [Google AI Blog](https://ai.googleblog.com/)
+    6. [Microsoft Research Blog](https://lnkd.in/g2SRv3Nv)
+    7. [NVIDIA Generative AI Blog](https://lnkd.in/gD2ExmPa)
+    8. [Meta AI Research](https://lnkd.in/g93iGDyA)
+    9. [DeepMind Blog](https://deepmind.com/blog)
+    10.[IBM Research Blog](https://lnkd.in/g4wXsu4u)
 9.  [LLM Ecosystem](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem.md)
     
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
