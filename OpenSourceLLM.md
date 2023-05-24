@@ -1,4 +1,5 @@
 1. [LLaMA, Meta’s Open Source LLM](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
+   - [LLaMa](https://aman.ai/primers/ai/LLaMA/)
 
 2. From a business perspective, I can see this being useful from at least two angles: 
 
