@@ -4,6 +4,8 @@
 - What's called "decoder only" really means "auto-regressive encoder-decoder"
 - autoregressive decoder-style (aka GPT-like)
 
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/07c93d37-5ee2-4d4f-8a49-16295d426d7a)
+
 1.  [Learn LLM](https://github.com/harirajeev/learn_LLMS/blob/main/Learn%20LLM.md)
     1. [Transformers from Scratch](https://e2eml.school/transformers.html#resources)
     2. [GPT-2 (Radford, Ilya Sutskever et al. OPENAI)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
