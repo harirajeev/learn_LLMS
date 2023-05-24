@@ -21,7 +21,7 @@
 2.  [Building LLM applications for production - Chip Huyen](https://huyenchip.com/2023/04/11/llm-engineering.html)
 3.  [Training own LLM](https://blog.replit.com/llm-training)
 4.  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-    1. [Parameter-Efficient Finetuning - PEFT]
+    1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)
         Over the years, researchers developed several techniques (Lialin et al.) to finetune LLM with high modeling performance while only requiring the training of only a small number of parameters. These methods are usually referred to as parameter-efficient finetuning techniques (PEFT).
         Some of the most widely used PEFT techniques are summarized in the figure below.
         ![image](https://user-images.githubusercontent.com/13446418/234774400-d31d4c2d-7000-45ed-a384-103f00dd11a6.png)
