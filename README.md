@@ -23,6 +23,7 @@
 4.  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
     1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
     2. [Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/Quantization.md)
+    3. [Example Models](https://github.com/harirajeev/learn_LLMS/blob/main/ExampleModels.md)
 5.  Prompt Engineering
     1. [Prompt Engineering - lilianweng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
     2. [Techniques to impprove PE - openai](https://github.com/openai/openai-cookbook/blob/main/techniques_to_improve_reliability.md#how-to-improve-reliability-on-complex-tasks)
