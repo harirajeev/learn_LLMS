@@ -15,3 +15,6 @@ perplexity, known to be a very stringent accuracy metric
     - QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes.
     - Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3% 
 of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU
+  - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
+  
+ ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/41f0694a-5178-4a64-9123-9c932d9ee6a2)
