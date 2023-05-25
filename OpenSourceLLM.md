@@ -8,7 +8,11 @@
 
 3. https://www.semianalysis.com/p/google-we-have-no-moat-and-neither?utm_source=bensbites&utm_medium=newsletter&utm_campaign=knighty-byte-open-source-crusade
 4. [PrivatGPT](https://github.com/imartinez/privateGPT)
-
+5. [Build, customize and control your own personal LLMs xTuring](https://github.com/stochasticai/xturing)
+   - xTuring provides fast, efficient and simple fine-tuning of LLMs, such as LLaMA, GPT-J, Galactica, and more
+   - [LLaMA_lora_int4 - LLaMA INT4 efficient fine-tuning tutorial](https://github.com/stochasticai/xturing/blob/main/examples/int4_finetuning/LLaMA_lora_int4.ipynb)
+   - [INT4 fine-tuning of LLMs with only 6GB of memory](https://github.com/stochasticai/xturing/blob/main/examples/int4_finetuning/README.md)
+   
 #*****************************************************************************************************************************************************
 
 The Timeline
