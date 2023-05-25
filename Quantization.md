@@ -16,7 +16,7 @@ perplexity, known to be a very stringent accuracy metric
     - Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3% 
 of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU
   - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
-    - Int8 inference that does not degrade predictive performance of large models and reduces the memory footprint of large models by a factor or 2x
+    - Int8 (LLM.int8()) inference that does not degrade predictive performance of large models and reduces the memory footprint of large models by a factor or 2x
     
  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/41f0694a-5178-4a64-9123-9c932d9ee6a2)
  
