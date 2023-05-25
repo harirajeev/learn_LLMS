@@ -72,5 +72,6 @@
     4. [Large Language Models - The Stanford CS324](https://lnkd.in/eJKfDTHK)
     5. [Deploying GPT and Large Language Models - Oreilly](https://lnkd.in/eDDivjB6)
     6. [Understanding Large Language Models - Princeton University](https://lnkd.in/eE44cmza)
+16. [Knowledge Graphs & LLMS]()
     
 
