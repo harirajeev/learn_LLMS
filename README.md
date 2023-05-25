@@ -51,7 +51,9 @@
     9. [DeepMind Blog](https://deepmind.com/blog)
     10. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
 9.  [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem.md)
-    
+
+    LM Evaluation Frameworks
+    1. [EleutherAI - LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
 11. Responsible LLMs
