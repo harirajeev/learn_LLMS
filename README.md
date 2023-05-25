@@ -47,7 +47,7 @@
     7. [NVIDIA Generative AI Blog](https://lnkd.in/gD2ExmPa)
     8. [Meta AI Research](https://lnkd.in/g93iGDyA)
     9. [DeepMind Blog](https://deepmind.com/blog)
-    10.[IBM Research Blog](https://lnkd.in/g4wXsu4u)
+    10. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
 9.  [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem.md)
     
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
