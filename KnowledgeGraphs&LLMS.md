@@ -1,0 +1,1 @@
+- [The Future of Knowledge Graphs in a World of Large Language Models - Denny Vrandečić](https://www.youtube.com/watch?v=WqYBx2gB6vA)
