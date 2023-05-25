@@ -19,7 +19,8 @@
     10. Context Length
        1. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
 2.  [Building LLM applications for production - Chip Huyen](https://huyenchip.com/2023/04/11/llm-engineering.html)
-3.  [Training own LLM](https://blog.replit.com/llm-training)
+3.  [Training own LLM](https://blog.replit.com/llm-training)                    
+    - [Build, customize and control your own personal LLMs - stochatic AI](https://github.com/stochasticai/xturing)
 4.  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
     1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
     2. [Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/Quantization.md)
