@@ -1,4 +1,4 @@
-# Mixed Precission Training
+# Mixed Precision Training
 - [Accelerating Large Language Models with Mixed-Precision Techniques](https://lightning.ai/pages/community/tutorial/accelerating-large-language-models-with-mixed-precision-techniques/)  
  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/41f0694a-5178-4a64-9123-9c932d9ee6a2)
  
