@@ -26,8 +26,7 @@
     1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
     2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
     3. [Example Models](https://github.com/harirajeev/learn_LLMS/blob/main/ExampleModels.md)
-5.  Prompt Engineering
-    
+5.  [Prompt Engineering](https://github.com/harirajeev/learn_LLMS/blob/main/PromptEngineering.md)    
 6.  Vector DB
     1. [tutorial on how to talk to your vector database.- ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
 7.  Langchain
