@@ -24,7 +24,7 @@
     - [lit-llama, Independent implementation of LLaMA pretraining, finetuning, and inference code](https://github.com/Lightning-AI/lit-llama)
 4.  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
     1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
-    2. [Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/Quantization.md)
+    2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
     3. [Example Models](https://github.com/harirajeev/learn_LLMS/blob/main/ExampleModels.md)
 5.  Prompt Engineering
     1. [Prompt Engineering - lilianweng](https://lilianweng.github.io/posts/2023-03-15-prompt-engineering/)
