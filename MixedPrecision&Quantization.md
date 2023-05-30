@@ -38,6 +38,10 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
         - (c) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and 
         - (d) Paged Optimizers to manage memory spikes.
       - [How to propely load a model in 4bit with all its variants](https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing#scrollTo=VPD7QS_DR-mw)
+         - how to load a model in 4bit, understand all its variants and how to run them for inference.
+         - convert a model by just adding the argument load_in_4bit [model = AutoModelForCausalLM.from_pretrained(model_id, load_in_4bit=True, device_map="auto")]
+         - nn.Linear layers are replaced by bnb.nn.Linear4bit layers  Linear4bit(in_features=1024, out_features=512, bias=False)
+         - The compute dtype is used to change the dtype that will be used during computation. For example, hidden states could be in float32 but computation can be set to bf16 for speedups. By default, the compute dtype is set to float32. bnb_4bit_compute_dtype=torch.bfloat16
       - [Fine tuning Google Colab notebook](https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing) 
          - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. 
            - Hugging Face ecosystem
