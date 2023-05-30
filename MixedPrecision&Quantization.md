@@ -33,8 +33,9 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
       - QLORA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance.
       - QLORA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters (LoRA).
       - QLORA introduces a number of innovations to save memory without sacrificing performance: 
-        - (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights 
-        - (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and 
-        - (c) Paged Optimizers to manage memory spikes.
+        - (a) The recent QLoRA paper explores different data types, 4-bit Float and 4-bit NormalFloat.
+        - (b) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights 
+        - (c) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and 
+        - (d) Paged Optimizers to manage memory spikes.
       - [Fine tuning Google Colab notebook](https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing) - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune GPT-neo-X 20B on a Google Colab instance!
-      - 
+      - computation is not done in 4bit, the weights and activations are compressed to that format and the computation is still kept in the desired or native dtype
