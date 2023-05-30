@@ -26,7 +26,7 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
   - [LLM.int8() and Emergent Features by Tim Dettmers](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
      - I had two pitches for my LLM.int8() paper. 
        - One pitch is about how I use advanced quantization methods to achieve no performance degradation transformer inference at scale that makes large models more accessible. 
-       - The other pitch talks about emergent outliers in transformers and how they radically change what transformers learn and how they function.
+       - The other pitch talks about emergent outliers in transformers and how they radically change what transformers learn and how they function.  (Emergent features that were discovered in language model at scale].
     - [int8 paper - LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)  
     - How quantization is done for you through the bitsandbytes library with Hugging Face integration so that you can easily run OPT-175B and BLOOM-176B on a single machine 
       - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
