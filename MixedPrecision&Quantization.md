@@ -48,6 +48,7 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
              - accelerate
            - Load the model - GPT-neo-x-20B! Note that the model itself is around 40GB in half precision
            - Apply some preprocessing to the model to prepare it for training. For that use the prepare_model_for_kbit_training method from PEFT.
-           - 
+           - load a common dataset, english quotes, to fine tune our model on famous quotes.
+           - train
          - We show that it is possible to fine tune GPT-neo-X 20B on a Google Colab instance!
       - computation is not done in 4bit, the weights and activations are compressed to that format and the computation is still kept in the desired or native dtype
