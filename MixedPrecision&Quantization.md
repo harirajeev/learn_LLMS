@@ -21,8 +21,13 @@ perplexity, known to be a very stringent accuracy metric
     - QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes.
     - Our best model family, which we name Guanaco, outperforms all previous openly released models on the Vicuna benchmark, reaching 99.3% 
 of the performance level of ChatGPT while only requiring 24 hours of finetuning on a single GPU
-  - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
-    - Int8 (LLM.int8()) inference that does not degrade predictive performance of large models and reduces the memory footprint of large models by a factor or 2x
   
- 
+    - Int8 (LLM.int8()) inference that does not degrade predictive performance of large models and reduces the memory footprint of large models by a factor or 2x
+  - [LLM.int8() and Emergent Features by Tim Dettmers](https://timdettmers.com/2022/08/17/llm-int8-and-emergent-features/)
+     - I had two pitches for my LLM.int8() paper. 
+       - One pitch is about how I use advanced quantization methods to achieve no performance degradation transformer inference at scale that makes large models more accessible. 
+       - The other pitch talks about emergent outliers in transformers and how they radically change what transformers learn and how they function.
+    - [int8 paper - LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)  
+    - How quantization is done for you through the bitsandbytes library with Hugging Face integration so that you can easily run OPT-175B and BLOOM-176B on a single machine 
+      - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
     
