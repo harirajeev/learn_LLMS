@@ -29,6 +29,7 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
       - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
       
   - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA - 4bit-transformers-bitsandbytes](https://huggingface.co/blog/4bit-transformers-bitsandbytes)  
+    - The 4bit integration comes with 2 different quantization types: FP4 and NF4. The NF4 dtype stands for Normal Float 4 and is introduced in the QLoRA paper
     - [QLORA: Efficient Finetuning of Quantized LLMs 23/5/2023](https://arxiv.org/pdf/2305.14314.pdf)
       - QLORA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance.
       - QLORA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters (LoRA).
