@@ -37,5 +37,6 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
         - (b) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights 
         - (c) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and 
         - (d) Paged Optimizers to manage memory spikes.
+      - [How to propely load a model in 4bit with all its variants](https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing#scrollTo=VPD7QS_DR-mw)
       - [Fine tuning Google Colab notebook](https://colab.research.google.com/drive/1VoYNfYDKcKRQRor98Zbf2-9VQTtGJ24k?usp=sharing) - This notebook shows how to fine-tune a 4bit model on a downstream task using the Hugging Face ecosystem. We show that it is possible to fine tune GPT-neo-X 20B on a Google Colab instance!
       - computation is not done in 4bit, the weights and activations are compressed to that format and the computation is still kept in the desired or native dtype
