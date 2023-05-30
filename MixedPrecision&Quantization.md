@@ -32,4 +32,7 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
     - [QLORA: Efficient Finetuning of Quantized LLMs 23/5/2023](https://arxiv.org/pdf/2305.14314.pdf)
       - QLORA, an efficient finetuning approach that reduces memory usage enough to finetune a 65B parameter model on a single 48GB GPU while preserving full 16-bit finetuning task performance.
       - QLORA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters (LoRA).
-      - QLORA introduces a number of innovations to save memory without sacrificing performance: (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and (c) Paged Optimizers to manage memory spikes.
+      - QLORA introduces a number of innovations to save memory without sacrificing performance: 
+        - (a) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights 
+        - (b) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and 
+        - (c) Paged Optimizers to manage memory spikes.
