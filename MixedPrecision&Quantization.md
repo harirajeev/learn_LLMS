@@ -35,7 +35,7 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
       - QLORA backpropagates gradients through a frozen, 4-bit quantized pretrained language model into Low Rank Adapters (LoRA).
       - QLORA introduces a number of innovations to save memory without sacrificing performance: 
         - (a) The recent QLoRA paper explores different data types, 4-bit Float and 4-bit NormalFloat.
-        - (b) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights 
+        - (b) 4-bit NormalFloat (NF4), a new data type that is information theoretically optimal for normally distributed weights. bnb_4bit_quant_type="nf4" 
         - (c) Double Quantization to reduce the average memory footprint by quantizing the quantization constants, and 
         - (d) Paged Optimizers to manage memory spikes.
       - [How to propely load a model in 4bit with all its variants](https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing#scrollTo=VPD7QS_DR-mw)
