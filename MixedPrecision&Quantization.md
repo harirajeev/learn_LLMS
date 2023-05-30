@@ -30,4 +30,5 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
     - [int8 paper - LLM.int8(): 8-bit Matrix Multiplication for Transformers at Scale](https://arxiv.org/abs/2208.07339)  
     - How quantization is done for you through the bitsandbytes library with Hugging Face integration so that you can easily run OPT-175B and BLOOM-176B on a single machine 
       - [A Gentle Introduction to 8-bit Matrix Multiplication for transformers at scale using Hugging Face Transformers, Accelerate and bitsandbytes](https://huggingface.co/blog/hf-bitsandbytes-integration)
-    
+      
+  - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA - 4bit-transformers-bitsandbytes](https://huggingface.co/blog/4bit-transformers-bitsandbytes)  
