@@ -8,6 +8,8 @@ If we want to increase the model performance during inference even more, we can 
 Quantization is a model size reduction technique that converts model weights from high-precision floating-point representation to low-precision floating-point (FP) or integer (INT) representations, such as 16-bit or 8-bit
 
   - [How does Quantization Work ?](https://www.youtube.com/watch?v=IxrlHAJtqKE)
+    - [8-BIT OPTIMIZERS VIA BLOCK-WISE QUANTIZATION](https://arxiv.org/pdf/2110.02861.pdf)
+    - [8-bit Methods for Efficient Deep Learning with Tim Dettmers](https://www.youtube.com/watch?v=jyOqtw4ry2w)
   - [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers 22/3/2023](https://arxiv.org/pdf/2210.17323.pdf)
     - GPT3-175B, have in the order of 175 billion parameters and require tens-to-hundreds of GPU years to train
 the parameters of GPT3-175B occupy 326GB (counting in multiples of 1024) of memory when stored in a compact float16 format
