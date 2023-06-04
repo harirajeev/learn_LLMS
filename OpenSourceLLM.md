@@ -24,7 +24,17 @@
    -  Hold Your LLaMAs - [The False Promise of Imitating Proprietary LLMs.](https://arxiv.org/pdf/2305.15717.pdf)
       -   imitation models only tend to mimic the style of the upstream LLMs on whose data they were trained on, not their factuality
       -   LIMA paper does not use imitation data. Instead, it uses a carefully curated dataset
-   -  Can We Improve LLM Base Models By Pretraining for Multiple Epochs?[To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis](https://arxiv.org/pdf/2305.13230.pdf) 
+   -  Can We Improve LLM Base Models By Pretraining for Multiple Epochs?
+      -   [To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis](https://arxiv.org/pdf/2305.13230.pdf) 
+      -   The finetuned models all require a pretrained base model. So, it's natural to ask how we can create better base models as well.
+      -   It's quite common to train classic machine learning models and deep neural networks, as well as the latest vision transformers for hundreds of epochs, so what happens if we do the same for LLMs, which are commonly trained for only a single epoch?
+      -   high-quality text data on the internet is slower than required.if copyrighted material is removed in the future, this could even shrink the datasets further
+      -   The result is that training for multiple epochs leads to overfitting.
+      -   dropout can help reduce overfitting (no surprise), but other techniques, such as weight decay, can't
+      -   popular large models like LLaMA, Gopher, Chinchilla, GPT-3, and PaLM did not use dropout, since it can slow down learning
+      -   Repeating only high quality data(like LLaMA data) , is it helpful ? (repeating with Wikipedia data alone was causing degradation)
+      -   Does data augmentation help?       -   
+      -   for finetuning, is multiple epoch helpful ?
 2. From a business perspective, I can see this being useful from at least two angles: 
 
        1. how can we be better than the competition if we use the same off-the-shelf solution others are using and 
