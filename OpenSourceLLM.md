@@ -9,6 +9,10 @@
       - The two main ingredients for success behind Goat are
         - supervised finetuning of a good LLM (here: LLaMA) on a target task (versus general pretraining or instruction finetuning);
         - LLaMA's digit tokenization (splits each digit into an individual token).LLaMA's specific tokenization scheme has been an essential contributor to the success of Goat
+        - The Goat model was finetuned using low-rank adaptation (LoRA) to make the finetuning more parameter-efficient, which allows for finetuning a 7B-parameter LLaMA model using a single 24 Gb GPU.
+        - how about training a 65B (instead of 7B) parameter LLaMA model on a single GPU Related to LoRA, using a new method called QLoRA (quantized LoRA).
+        - QLORA reduces the memory requirements of a 65B LLaMA model such that it fits onto a single 48 GB GPU (like an A100)
+        - The resulting 65B Guanaco model, from quantized 4-bit training, maintains full 16-bit finetuning task performance, reaching 99.3% of the ChatGPT performance after only 24h of finetuning.
 
 2. From a business perspective, I can see this being useful from at least two angles: 
 
