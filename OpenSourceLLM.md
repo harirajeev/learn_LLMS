@@ -1,5 +1,14 @@
 1. [LLaMA, Meta’s Open Source LLM](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
+   - So far, LLaMA might be the most impactful LLM model of 2023.
    - [LLaMa](https://aman.ai/primers/ai/LLaMA/)
+   - Goat model
+      - A finetuned 7B LLaMA model that outperforms GPT-4 on arithmetic tasks, Goat: Fine-tuned LLaMA Outperforms GPT-4 on Arithmetic Tasks paper.
+      - 7B Goat model outperformed a ~75x larger 540B PaLM model and GPT-4 in zero-shot settings
+      - The Goat model is a special-purpose finetuned LLM that has been trained to perform well on this specific task
+      - task-specific finetuned model outperforms a more general-purpose chatbot like GPT-4,well-finetuned models will always maintain an edge
+      - The two main ingredients for success behind Goat are
+        - supervised finetuning of a good LLM (here: LLaMA) on a target task (versus general pretraining or instruction finetuning);
+        - LLaMA's digit tokenization (splits each digit into an individual token).LLaMA's specific tokenization scheme has been an essential contributor to the success of Goat
 
 2. From a business perspective, I can see this being useful from at least two angles: 
 
