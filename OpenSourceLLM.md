@@ -24,6 +24,7 @@
    -  Hold Your LLaMAs - [The False Promise of Imitating Proprietary LLMs.](https://arxiv.org/pdf/2305.15717.pdf)
       -   imitation models only tend to mimic the style of the upstream LLMs on whose data they were trained on, not their factuality
       -   LIMA paper does not use imitation data. Instead, it uses a carefully curated dataset
+   -  Can We Improve LLM Base Models By Pretraining for Multiple Epochs?[To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis](https://arxiv.org/pdf/2305.13230.pdf) 
 2. From a business perspective, I can see this being useful from at least two angles: 
 
        1. how can we be better than the competition if we use the same off-the-shelf solution others are using and 
