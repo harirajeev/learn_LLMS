@@ -13,7 +13,14 @@
         - how about training a 65B (instead of 7B) parameter LLaMA model on a single GPU Related to LoRA, using a new method called QLoRA (quantized LoRA).
         - QLORA reduces the memory requirements of a 65B LLaMA model such that it fits onto a single 48 GB GPU (like an A100)
         - The resulting 65B Guanaco model, from quantized 4-bit training, maintains full 16-bit finetuning task performance, reaching 99.3% of the ChatGPT performance after only 24h of finetuning.
-
+   -  LIMA: Less Is More for Alignment
+        - How Much Data Do We Need For Finetuning LLMs Anyways?
+        - LIMA a 65B LLaMA model finetuned on only 1000 examples
+        - about half of the time, LIMA outperforms the GPT-4 predecessor ChatGPT/GPT3.5 (also referred to as DaVinci003)
+        - LIMA outperforms Alpaca by such a large margin. Both are LLaMA models after supervised finetuning
+        - LIMA is based on a 65B LLaMA model, whereas the original Alpaca model is based on the 7B LLaMA base model
+        - the authors reproduced the Alpaca training using a 65B base model, training it on 52,000 samples
+        - the difference is really in the quality of the training set that the authors carefully curated for LIMA, as it beats the same 65B LLaMA base model trained on 52x more data (i.e., Alpaca).    
 2. From a business perspective, I can see this being useful from at least two angles: 
 
        1. how can we be better than the competition if we use the same off-the-shelf solution others are using and 
