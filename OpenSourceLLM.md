@@ -21,6 +21,9 @@
         - LIMA is based on a 65B LLaMA model, whereas the original Alpaca model is based on the 7B LLaMA base model
         - the authors reproduced the Alpaca training using a 65B base model, training it on 52,000 samples
         - the difference is really in the quality of the training set that the authors carefully curated for LIMA, as it beats the same 65B LLaMA base model trained on 52x more data (i.e., Alpaca).    
+   -  Hold Your LLaMAs - [The False Promise of Imitating Proprietary LLMs.](https://arxiv.org/pdf/2305.15717.pdf)
+      -   imitation models only tend to mimic the style of the upstream LLMs on whose data they were trained on, not their factuality
+      -   LIMA paper does not use imitation data. Instead, it uses a carefully curated dataset
 2. From a business perspective, I can see this being useful from at least two angles: 
 
        1. how can we be better than the competition if we use the same off-the-shelf solution others are using and 
