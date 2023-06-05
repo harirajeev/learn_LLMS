@@ -22,8 +22,11 @@
         - the authors reproduced the Alpaca training using a 65B base model, training it on 52,000 samples
         - the difference is really in the quality of the training set that the authors carefully curated for LIMA, as it beats the same 65B LLaMA base model trained on 52x more data (i.e., Alpaca).    
    -  Hold Your LLaMAs - [The False Promise of Imitating Proprietary LLMs.](https://arxiv.org/pdf/2305.15717.pdf)
+      -   can open-source fine-tuned LLMs compete with proprietary models such as GPT-4, PaLM 2, etc? 
+      -   The researchers initially found that these ‘imitation models’ – the likes of Alpaca, Vicuna, GPT4All, etc – performed impressively. However, upon further investigation, it revealed a significant gap in the performance on tasks not heavily supported in the imitation data.  
       -   imitation models only tend to mimic the style of the upstream LLMs on whose data they were trained on, not their factuality
       -   LIMA paper does not use imitation data. Instead, it uses a carefully curated dataset
+      -   Imitation data refers to the outputs from a more advanced language model (GPT-4) used to train a weaker model with the aim of achieving the performance of the powerful model. 
    -  Can We Improve LLM Base Models By Pretraining for Multiple Epochs?
       -   [To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis](https://arxiv.org/pdf/2305.13230.pdf) 
       -   The finetuned models all require a pretrained base model. So, it's natural to ask how we can create better base models as well.
@@ -35,6 +38,7 @@
       -   Repeating only high quality data(like LLaMA data) , is it helpful ? (repeating with Wikipedia data alone was causing degradation)
       -   Does data augmentation help?       -   
       -   for finetuning, is multiple epoch helpful ?
+      -   
 2. From a business perspective, I can see this being useful from at least two angles: 
 
        1. how can we be better than the competition if we use the same off-the-shelf solution others are using and 
