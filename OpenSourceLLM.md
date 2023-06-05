@@ -1,3 +1,10 @@
+- There has been a push for building up the open source developer ecosystem in the AI landscape. 
+  - Meta pushed LLaMa 
+  - Microsoft calls everyone a developer now 
+  - Google thinks open source is the real winner in the AI race. 
+  - With these open source smaller models that do not require heavy computation resources, the generative AI landscape will get even more democratised. 
+  - The future would be just how Yann LeCun, Meta AI chief, visioned it – multiple smaller models working together for better performance, calling it the world model. This is what Altman predicts and wishes as well. We are headed in the right direction
+
 1. [LLaMA, Meta’s Open Source LLM](https://thenewstack.io/why-open-source-developers-are-using-llama-metas-ai-model/)
    - So far, LLaMA might be the most impactful LLM model of 2023.
    - [LLaMa](https://aman.ai/primers/ai/LLaMA/)
