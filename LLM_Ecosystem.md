@@ -10,5 +10,9 @@
         ⦿ Evals and LLM datasets for fine-tuning to be added.
 5. 
 ![image](https://user-images.githubusercontent.com/13446418/236732476-89289ad9-f315-4823-b344-0ea78323746d.png)
+6. 
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/d7d8d4fc-6f40-4c0e-b206-8bffd912a4b1)
+
+
 
 
