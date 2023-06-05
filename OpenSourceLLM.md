@@ -13,7 +13,7 @@
         - how about training a 65B (instead of 7B) parameter LLaMA model on a single GPU Related to LoRA, using a new method called QLoRA (quantized LoRA).
         - QLORA reduces the memory requirements of a 65B LLaMA model such that it fits onto a single 48 GB GPU (like an A100)
         - The resulting 65B Guanaco model, from quantized 4-bit training, maintains full 16-bit finetuning task performance, reaching 99.3% of the ChatGPT performance after only 24h of finetuning.
-   -  LIMA: Less Is More for Alignment
+   -  LIMA: [Less Is More for Alignment](https://arxiv.org/pdf/2305.11206.pdf)
         - How Much Data Do We Need For Finetuning LLMs Anyways?
         - LIMA a 65B LLaMA model finetuned on only 1000 examples
         - about half of the time, LIMA outperforms the GPT-4 predecessor ChatGPT/GPT3.5 (also referred to as DaVinci003)
@@ -24,9 +24,10 @@
    -  Hold Your LLaMAs - [The False Promise of Imitating Proprietary LLMs.](https://arxiv.org/pdf/2305.15717.pdf)
       -   can open-source fine-tuned LLMs compete with proprietary models such as GPT-4, PaLM 2, etc? 
       -   The researchers initially found that these ‘imitation models’ – the likes of Alpaca, Vicuna, GPT4All, etc – performed impressively. However, upon further investigation, it revealed a significant gap in the performance on tasks not heavily supported in the imitation data.  
-      -   imitation models only tend to mimic the style of the upstream LLMs on whose data they were trained on, not their factuality
+      -   imitation models only tend to mimic the style of the upstream LLMs on whose data they were trained on, not their factuality and problem-solving
       -   LIMA paper does not use imitation data. Instead, it uses a carefully curated dataset
       -   Imitation data refers to the outputs from a more advanced language model (GPT-4) used to train a weaker model with the aim of achieving the performance of the powerful model. 
+      -   large-scale instruction tuning, i.e. RLHF based model
    -  Can We Improve LLM Base Models By Pretraining for Multiple Epochs?
       -   [To Repeat or Not To Repeat: Insights from Scaling LLM under Token-Crisis](https://arxiv.org/pdf/2305.13230.pdf) 
       -   The finetuned models all require a pretrained base model. So, it's natural to ask how we can create better base models as well.
