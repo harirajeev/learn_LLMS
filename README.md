@@ -47,25 +47,22 @@
     10. [DeepMind Blog](https://deepmind.com/blog)
     11. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
 9.  [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem.md)
-
+    [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)   
     LM Evaluation Frameworks
     1. [EleutherAI - LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
-11. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)
-           
-12. [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)    
-
-13. [In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/InContextLearning.md)
-14. [LLM Metric](https://github.com/ray-project/llm-numbers)
-15. LLM Repos & Learning Resources
+11. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
+12. [In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/InContextLearning.md)
+13. [LLM Metric](https://github.com/ray-project/llm-numbers)
+14. LLM Repos & Learning Resources
     1. [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 
     2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
     3. [Large Language Models - Class Central](https://lnkd.in/exVh6g-K)
     4. [Large Language Models - The Stanford CS324](https://lnkd.in/eJKfDTHK)
     5. [Deploying GPT and Large Language Models - Oreilly](https://lnkd.in/eDDivjB6)
     6. [Understanding Large Language Models - Princeton University](https://lnkd.in/eE44cmza)
-16. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
-17. [LLM Ops](https://home.mlops.community/home/content)
+15. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
+16. [LLM Ops](https://home.mlops.community/home/content)
     
 
