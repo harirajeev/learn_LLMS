@@ -3,6 +3,10 @@
 
 - [the Illustrated Transformer by Jay Alammar;](http://jalammar.github.io/illustrated-transformer/)
 
+- [Transformers with Lucas Beyer, Google Brain, Video](https://www.youtube.com/watch?v=EixI6t5oif0) 
+
+- [Transformers with Lucas Beyer, Google Brain, PDF](https://docs.google.com/presentation/d/1ZXFIhYczos679r70Yu8vV9uO6B1J0ztzeDxbnBxD1S0/edit#slide=id.g31364026ad_3_2)
+
 - [a more technical blog article by Lilian Weng;](https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/)
 
 - [a minimal code implementation of a generative language model for educational purposes by Andrej Karpathy;](https://github.com/karpathy/nanoGPT)
