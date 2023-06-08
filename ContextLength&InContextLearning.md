@@ -12,6 +12,7 @@ From OpenAI
 3. [LARGER LANGUAGE MODELS DO IN-CONTEXT LEARNING DIFFERENTLY](https://arxiv.org/pdf/2303.03846.pdf)
 4. https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
 5. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
+6. [Blockwise Parallel Transformer for Long Context Large Models](https://arxiv.org/pdf/2305.19370.pdf)
 
 Waitlist link: https://magic.dev/waitlist
 
