@@ -54,7 +54,7 @@
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
 11. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
-12. [In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/InContextLearning.md)
+12. [In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
 13. [LLM Metric](https://github.com/ray-project/llm-numbers)
 14. LLM Repos & Learning Resources
     1. [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 
