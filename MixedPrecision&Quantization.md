@@ -3,6 +3,9 @@
  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/41f0694a-5178-4a64-9123-9c932d9ee6a2)
  
 # Quantization
+
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/38a0636f-8feb-443e-be40-55631441919a)
+
 If we want to increase the model performance during inference even more, we can also move beyond lower floating point precision and use quantization. Quantization converts the model weights from floats to low-bit integer representations, for example, 8-bit integers (and, recently, even 4-bit integers).
 
 Quantization is a model size reduction technique that converts model weights from high-precision floating-point representation to low-precision floating-point (FP) or integer (INT) representations, such as 16-bit or 8-bit
