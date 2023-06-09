@@ -11,6 +11,18 @@
 - It also helps in portability wherein users can tune models using PEFT methods to get tiny checkpoints worth a few MBs compared to the large checkpoints of full fine-tuning
 - The small trained weights from PEFT approaches are added on top of the pretrained LLM.
 
+```python
+from peft import LoraConfig, get_peft_model
+config = LoraConfig(
+    r=8, 
+    lora_alpha=32, 
+    target_modules=["query_key_value"], 
+    lora_dropout=0.05, 
+    bias="none", 
+    task_type="CAUSAL_LM"
+)
+model = get_peft_model(model, config)
+```
 1. [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2303.15647.pdf)    
 2. [Understanding Parameter-Efficient Finetuning of Large Language Models: From Prefix Tuning to LLaMA-Adapters](https://lightning.ai/pages/community/article/understanding-llama-adapters/)
 3. [Prompt Tuning And Prefix Tuning](https://magazine.sebastianraschka.com/p/understanding-parameter-efficient)
