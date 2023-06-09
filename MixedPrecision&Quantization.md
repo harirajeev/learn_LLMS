@@ -1,3 +1,8 @@
+# Gradient Checkpointing
+- One way to use significantly less GPU memory is to enabled “Gradient Checkpointing” (also known as “activation checkpointing”)
+- When enabled, a lot of memory can be freed at the cost of small decrease in the training speed due to recomputing parts of the graph during back-propagation.
+- This technique was first shared in the paper: Training Deep Nets with Sublinear Memory Cost. 
+- model.gradient_checkpointing_enable()
 # Mixed Precision Training
 - [Accelerating Large Language Models with Mixed-Precision Techniques](https://lightning.ai/pages/community/tutorial/accelerating-large-language-models-with-mixed-precision-techniques/)  
  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/41f0694a-5178-4a64-9123-9c932d9ee6a2)
