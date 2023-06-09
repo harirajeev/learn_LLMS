@@ -1,3 +1,6 @@
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/6a49827a-f2e8-4e00-a0dd-9dd1db9bac32)
+
+
 - There has been a push for building up the open source developer ecosystem in the AI landscape. 
   - Meta pushed LLaMa 
   - Microsoft calls everyone a developer now 
