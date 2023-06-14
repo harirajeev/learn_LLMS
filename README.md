@@ -51,6 +51,7 @@
     - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)   
     - [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
     - [Weight watcher LLM Leaderboard](https://weightwatcher.ai/leaderboard.html)
+    - [Can foundation models label data like humans? From HF](https://huggingface.co/blog/llm-leaderboard)
     - LM Evaluation Frameworks
         1. [EleutherAI - LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
