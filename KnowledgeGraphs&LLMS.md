@@ -15,3 +15,4 @@
 ◽ KG + LLM = Happily Ever After: https://lnkd.in/ekkeA8pE
 https://www.linkedin.com/posts/tonyseale_networks-networkeffects-dataarchitecture-activity-7060161205662887936-biX8/?utm_source=share&utm_medium=member_android
 https://www.linkedin.com/posts/tomaz-bratanic-a58891127_the-newest-version-of-the-langchain-library-activity-7066437044985544705-68Lo/?utm_source=share&utm_medium=member_android
+- [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/pdf/2306.08302.pdf)
