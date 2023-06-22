@@ -75,7 +75,9 @@
     7. [Machine Learning for High-Risk Applications](https://books.google.co.in/books?id=pgu6EAAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
 15. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
 16. [Aman Interview](https://aman.ai/primers/ai/interview/)
-17. [LLM Ops](https://home.mlops.community/home/content)
+17. LLM Ops 
+    -  [LLM Ops](https://home.mlops.community/home/content)
+    -  [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
 18. Generating dataset
     - [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions 25/5/23 - Yizhong Wang](https://arxiv.org/pdf/2212.10560.pdf)
     - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision - 4/5/23](https://arxiv.org/pdf/2305.03047v1.pdf)
