@@ -82,7 +82,7 @@
     - [How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources - 7/6/23 - Yizhong Wang](https://arxiv.org/pdf/2306.04751.pdf)
       - We introduce Tülu, a hybrid camel from interbreeding between different species 🐪x🐫.
 Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa on a combination of 7 datasets.
-19.  Financial LLMs
+19. Financial LLMs
     - FinGPT
       - [paper](https://arxiv.org/pdf/2306.06031.pdf)
       - [code](https://github.com/AI4Finance-Foundation/FinGPT)   
