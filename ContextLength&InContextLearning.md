@@ -13,6 +13,9 @@ From OpenAI
 4. https://transformer-circuits.pub/2022/in-context-learning-and-induction-heads/index.html
 5. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
 6. [Blockwise Parallel Transformer for Long Context Large Models](https://arxiv.org/pdf/2305.19370.pdf)
+7. ["𝗘𝘅𝘁𝗲𝗻𝗱𝗶𝗻𝗴 𝗖𝗼𝗻𝘁𝗲𝘅𝘁 𝗶𝘀 𝗛𝗮𝗿𝗱…𝗯𝘂𝘁 𝗻𝗼𝘁 𝗜𝗺𝗽𝗼𝘀𝘀𝗶𝗯𝗹𝗲” explores and tests how to extend LLaMa to 8k](https://kaiokendev.github.io/context)
+8. ["𝗧𝗵𝗲 𝗦𝗲𝗰𝗿𝗲𝘁 𝗦𝗮𝘂𝗰𝗲 𝗯𝗲𝗵𝗶𝗻𝗱 𝟭𝟬𝟬𝗞 𝗰𝗼𝗻𝘁𝗲𝘅𝘁 𝘄𝗶𝗻𝗱𝗼𝘄 𝗶𝗻 𝗟𝗟𝗠𝘀: 𝗮𝗹𝗹 𝘁𝗿𝗶𝗰𝗸𝘀 𝗶𝗻 𝗼𝗻𝗲 𝗽𝗹𝗮𝗰𝗲” explores main paint points and tricks to extend the context length.](https://blog.gopenai.com/how-to-speed-up-llms-and-use-100k-context-window-all-tricks-in-one-place-ffd40577b4c)
+
 
 Waitlist link: https://magic.dev/waitlist
 
