@@ -44,7 +44,8 @@
         1. [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/)  
         2. [LlamaIndex overview & use cases | LangChain integration](https://www.youtube.com/watch?v=cNMYeW2mpBs)
         3. [What is Llama Index?](https://www.youtube.com/shorts/cOqRTkkaDn8)
-        4. [LlamaIndex: the ultimate LLM framework for indexing and retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)           
+        4. [LlamaIndex: the ultimate LLM framework for indexing and retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)
+        5. [A Primer to using LlamaIndex](https://gpt-index.readthedocs.io/en/latest/guides/primer.html)
     3. [RAG](https://github.com/harirajeev/learn_LLMS/blob/main/RAG)
 8.  Blogs
     1. [Jason Wei](https://www.jasonwei.net/)
