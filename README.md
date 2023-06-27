@@ -45,7 +45,7 @@
         2. [LlamaIndex overview & use cases | LangChain integration](https://www.youtube.com/watch?v=cNMYeW2mpBs)
         3. [What is Llama Index?](https://www.youtube.com/shorts/cOqRTkkaDn8)
         4. [LlamaIndex: the ultimate LLM framework for indexing and retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)           
-    3. [RAG]
+    3. [RAG](https://github.com/harirajeev/learn_LLMS/blob/main/RAG)
 8.  Blogs
     1. [Jason Wei](https://www.jasonwei.net/)
     2. [Chip Huyen](https://huyenchip.com/blog/)
