@@ -41,9 +41,11 @@
 7.  Langchain & LlamaIndex
     1. [Building LLM Powered Applications - Gregory Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
     2. LlamaIndex
-        1. [LlamaIndex overview & use cases | LangChain integration](https://www.youtube.com/watch?v=cNMYeW2mpBs)
-        2. [What is Llama Index?](https://www.youtube.com/shorts/cOqRTkkaDn8)
-        3. [LlamaIndex: the ultimate LLM framework for indexing and retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)
+        1. [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/)  
+        2. [LlamaIndex overview & use cases | LangChain integration](https://www.youtube.com/watch?v=cNMYeW2mpBs)
+        3. [What is Llama Index?](https://www.youtube.com/shorts/cOqRTkkaDn8)
+        4. [LlamaIndex: the ultimate LLM framework for indexing and retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)           
+    3. [RAG]
 8.  Blogs
     1. [Jason Wei](https://www.jasonwei.net/)
     2. [Chip Huyen](https://huyenchip.com/blog/)
