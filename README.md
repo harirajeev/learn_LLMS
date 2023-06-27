@@ -38,8 +38,12 @@
 5.  [Prompt Engineering](https://github.com/harirajeev/learn_LLMS/blob/main/PromptEngineering.md)    
 6.  Vector DB
     1. [tutorial on how to talk to your vector database.- ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
-7.  Langchain
+7.  Langchain & LlamaIndex
     1. [Building LLM Powered Applications - Gregory Kamradt](https://www.youtube.com/playlist?list=PLqZXAkvF1bPNQER9mLmDbntNfSpzdDIU5)
+    2. LlamaIndex
+        1. [LlamaIndex overview & use cases | LangChain integration](https://www.youtube.com/watch?v=cNMYeW2mpBs)
+        2. [What is Llama Index?](https://www.youtube.com/shorts/cOqRTkkaDn8)
+        3. [LlamaIndex: the ultimate LLM framework for indexing and retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)
 8.  Blogs
     1. [Jason Wei](https://www.jasonwei.net/)
     2. [Chip Huyen](https://huyenchip.com/blog/)
