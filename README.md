@@ -46,6 +46,9 @@
         3. [What is Llama Index?](https://www.youtube.com/shorts/cOqRTkkaDn8)
         4. [LlamaIndex: the ultimate LLM framework for indexing and retrieval](https://towardsdatascience.com/llamaindex-the-ultimate-llm-framework-for-indexing-and-retrieval-fa588d8ca03e)
         5. [A Primer to using LlamaIndex](https://gpt-index.readthedocs.io/en/latest/guides/primer.html)
+        6. Use cases
+           - https://github.com/jerryjliu/llama_index/blob/main/docs/guides/tutorials/building_a_chatbot.md
+           - https://medium.com/@jerryjliu98/how-unstructured-and-llamaindex-can-help-bring-the-power-of-llms-to-your-own-data-3657d063e30d
     3. [RAG](https://github.com/harirajeev/learn_LLMS/blob/main/RAG)
 8.  Blogs
     1. [Jason Wei](https://www.jasonwei.net/)
