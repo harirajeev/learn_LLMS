@@ -1,0 +1,30 @@
+LLM/AI-generated text can be detected using LLM watermarks. However, can watermarks be easily scrubbed off by paraphrasing or editing the #AI generated text? 
+New research from University of Maryland researchers shows watermark removal is way harder than one thinks!
+
+👉What are LLM watermarks? 
+LLM watermarks are word patterns embedded in LLM outputs such that the content can be proven to be machine-generated. 
+Since LLMs sample words from probability distributions, the word selection can be done in a manner that encodes a hidden pattern, i.e., a watermark. 
+High accuracy of machine-generated text detection usually requires 50-ish words.
+
+👉Can watermarks be scrubbed off? 
+To answer this question, the researchers generated watermarked text and then asked people to remove the watermark. 
+In another experiment, they used a GPT model to rewrite to remove the watermark.
+
+👉Findings: 
+1) Completely scrubbing off watermarks is way harder than one thinks.
+2) When humans rewrite AI-generated text, they can not completely eliminate the watermark, but make it harder to detect. Detecting watermarks in rewritten text requires 1100 tokens for accurate detection, 
+i.e., 22x more than the original. 
+3) Humans can't de-watermark well because it is hard for them to know which words are part of the watermark. 
+4) Rewriting LLM-generated text using GPT is not as successful. Detecting watermarks in GPT-rewritten text needs 500 tokens, i.e., 10x more than the original text. 
+5) GPT models dont scrub off watermarks well because they reuse several original phrases when rewriting.  
+6) This doesn't mean that watermarks can not be removed. One can very meticulously scrub off watermarks or use specialized LLMs to do so.
+
+👉Why is this finding important? 
+Watermarks have been suggested as a reliable technique to discern human-written from machine-generated text. 
+This becomes important, for example, when flagging machine-generated harmful content, spam campaigns, or targeted advertisements. 
+The ability to remove watermarks will reduce their usability in practice.
+
+More details in the paper: https://lnkd.in/gMpZf8Dz
+"On the Reliability of Watermarks for Large Language Models" 
+by John Kirchenbauer, Jonas Geiping, Yuxin Wen, Manli Shu, Khalid Saifullah, Kezhi Kong, Kasun Fernando, Aniruddha Saha, Micah Goldblum, Tom Goldstein
+
