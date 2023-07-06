@@ -63,20 +63,18 @@
 12. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
 13. [Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
 14. [LLM Metric](https://github.com/ray-project/llm-numbers)
-15. [LLM Repos & Learning Resources](https://github.com/harirajeev/learn_LLMS/blob/main/Blogs.md)
-  
-16. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
-17. [Aman Interview](https://aman.ai/primers/ai/interview/)
-18. LLM Ops 
+15. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
+16. [Aman Interview](https://aman.ai/primers/ai/interview/)
+17. LLM Ops 
     -  [LLM Ops](https://home.mlops.community/home/content)
     -  [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-19. Generating dataset
+18. Generating dataset
     - [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions 25/5/23 - Yizhong Wang](https://arxiv.org/pdf/2212.10560.pdf)
     - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision - 4/5/23](https://arxiv.org/pdf/2305.03047v1.pdf)
     - [How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources - 7/6/23 - Yizhong Wang](https://arxiv.org/pdf/2306.04751.pdf)
       - We introduce Tülu, a hybrid camel from interbreeding between different species 🐪x🐫.
 Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa on a combination of 7 datasets.
-20. Financial LLMs
+19. Financial LLMs
     - FinGPT
       - [paper](https://arxiv.org/pdf/2306.06031.pdf)
       - [code](https://github.com/AI4Finance-Foundation/FinGPT)   
