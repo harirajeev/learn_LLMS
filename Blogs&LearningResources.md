@@ -1,1 +1,12 @@
-
+ 1. [Jason Wei](https://www.jasonwei.net/)
+ 2. [Chip Huyen](https://huyenchip.com/blog/)
+ 3. [Sebastian Raschka ](https://sebastianraschka.com/blog/index.html)
+ 4. [Tim Dettmers - quantization](https://timdettmers.com/)
+ 5. [Aman.ai](https://aman.ai/primers/ai/)
+ 6. [OpenAI Blog](https://openai.com/blog/)
+ 7. [Google AI Blog](https://ai.googleblog.com/)
+ 8. [Microsoft Research Blog](https://lnkd.in/g2SRv3Nv)
+ 9. [NVIDIA Generative AI Blog](https://lnkd.in/gD2ExmPa)
+ 10. [Meta AI Research](https://lnkd.in/g93iGDyA)
+ 11. [DeepMind Blog](https://deepmind.com/blog)
+ 12. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
