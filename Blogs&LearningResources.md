@@ -1,3 +1,5 @@
+Blogs
+
  1. [Jason Wei](https://www.jasonwei.net/)
  2. [Chip Huyen](https://huyenchip.com/blog/)
  3. [Sebastian Raschka ](https://sebastianraschka.com/blog/index.html)
@@ -10,3 +12,4 @@
  10. [Meta AI Research](https://lnkd.in/g93iGDyA)
  11. [DeepMind Blog](https://deepmind.com/blog)
  12. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
+
