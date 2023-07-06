@@ -13,3 +13,12 @@ Blogs
  11. [DeepMind Blog](https://deepmind.com/blog)
  12. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
 
+Learning Resources
+
+ 1. [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 
+ 2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
+ 3. [Large Language Models - Class Central](https://lnkd.in/exVh6g-K)
+ 4. [Large Language Models - The Stanford CS324](https://lnkd.in/eJKfDTHK)
+ 5. [Deploying GPT and Large Language Models - Oreilly](https://lnkd.in/eDDivjB6)
+ 6. [Understanding Large Language Models - Princeton University](https://lnkd.in/eE44cmza)
+ 7. [Machine Learning for High-Risk Applications](https://books.google.co.in/books?id=pgu6EAAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
