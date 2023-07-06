@@ -74,7 +74,7 @@
 12. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
 13. [Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
 14. [LLM Metric](https://github.com/ray-project/llm-numbers)
-15. LLM Repos & Learning Resources
+15. [LLM Repos & Learning Resources](https://github.com/harirajeev/learn_LLMS/blob/main/Blogs.md)
     1. [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 
     2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
     3. [Large Language Models - Class Central](https://lnkd.in/exVh6g-K)
