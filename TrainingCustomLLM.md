@@ -11,7 +11,13 @@ Training
 -  [Training Working Group](https://mlcommons.org/en/groups/training/)  <b>*Try this when time permits</b>
 -  
 Fine Tuning
-
+-  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
+- Finetuning pre-trained large language models (LLMs) is an effective method to tailor these models to suit specific business requirements and align them with target domain data.
+    - This process involves adjusting the model parameters using a smaller dataset relevant to the desired domain, which enables the model to learn domain-specific knowledge and vocabulary.
+- However, as LLMs are “large,” updating multiple layers in a transformer model can be very expensive, so researchers started developing parameter-efficient alternatives.
+  1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
+  2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
+  3. [Example Models](https://github.com/harirajeev/learn_LLMS/blob/main/ExampleModels.md)
 
 Inference
 -  [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
