@@ -48,6 +48,7 @@
     - LM Evaluation Frameworks
         1. [EleutherAI - LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
         2. [Optimum benchmarking utility](https://github.com/huggingface/optimum-benchmark)
+        3. [Open LLM-Perf Leaderboard ](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
 10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
 11. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
