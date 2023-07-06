@@ -10,3 +10,7 @@
 7. [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 8. [Machine Unlearning](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)  *ToDO
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/20cfa986-fd5d-4dd0-a02d-4a877b4eed94)
+
+Data Privacy
+- [Mapping privacy-enhancing technologies to your use cases](https://www.tmlt.io/resources/mapping-privacy-enhancing-technologies-to-your-use-cases)
+- 
