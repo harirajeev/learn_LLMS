@@ -62,7 +62,7 @@
     10. [Meta AI Research](https://lnkd.in/g93iGDyA)
     11. [DeepMind Blog](https://deepmind.com/blog)
     12. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
-10.  [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem.md)
+10. [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem&Evalution.md)
     - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)   
     - [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
     - [Weight watcher LLM Leaderboard](https://weightwatcher.ai/leaderboard.html)
