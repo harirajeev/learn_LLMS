@@ -28,13 +28,13 @@
        1. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
 2.  [Training own LLM](https://github.com/harirajeev/learn_LLMS/blob/main/TrainingCustomLLM.md)  
 
-6.  [Prompt Engineering](https://github.com/harirajeev/learn_LLMS/blob/main/PromptEngineering.md)    
+3.  [Prompt Engineering](https://github.com/harirajeev/learn_LLMS/blob/main/PromptEngineering.md)    
 
-7.  [Langchain & LlamaIndex & RAG](https://github.com/harirajeev/learn_LLMS/blob/main/LangchainLlamaIndexRAG.md)
+4.  [Langchain & LlamaIndex & RAG](https://github.com/harirajeev/learn_LLMS/blob/main/LangchainLlamaIndexRAG.md)
    
-8.  [Blogs & Learning Resources](https://github.com/harirajeev/learn_LLMS/blob/main/Blogs&LearningResources.md)
+5.  [Blogs & Learning Resources](https://github.com/harirajeev/learn_LLMS/blob/main/Blogs&LearningResources.md)
    
-9. [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem&Evalution.md)
+6. [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem&Evalution.md)
     - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)   
     - [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
     - [Weight watcher LLM Leaderboard](https://weightwatcher.ai/leaderboard.html)
@@ -43,23 +43,23 @@
         1. [EleutherAI - LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
         2. [Optimum benchmarking utility](https://github.com/huggingface/optimum-benchmark)
         3. [Open LLM-Perf Leaderboard ](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
-10. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
+7. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
-11. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
-12. [Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
-13. [LLM Metric](https://github.com/ray-project/llm-numbers)
-14. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
-15. [Aman Interview](https://aman.ai/primers/ai/interview/)
-16. LLM Ops 
+8. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
+9. [Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
+10. [LLM Metric](https://github.com/ray-project/llm-numbers)
+11. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
+12. [Aman Interview](https://aman.ai/primers/ai/interview/)
+13. LLM Ops 
     -  [LLM Ops](https://home.mlops.community/home/content)
     -  [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
-17. Generating dataset
+14. Generating dataset
     - [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions 25/5/23 - Yizhong Wang](https://arxiv.org/pdf/2212.10560.pdf)
     - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision - 4/5/23](https://arxiv.org/pdf/2305.03047v1.pdf)
     - [How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources - 7/6/23 - Yizhong Wang](https://arxiv.org/pdf/2306.04751.pdf)
       - We introduce Tülu, a hybrid camel from interbreeding between different species 🐪x🐫.
 Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa on a combination of 7 datasets.
-18. Financial LLMs
+15. Financial LLMs
     - FinGPT
       - [paper](https://arxiv.org/pdf/2306.06031.pdf)
       - [code](https://github.com/AI4Finance-Foundation/FinGPT)   
