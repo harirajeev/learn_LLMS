@@ -64,13 +64,7 @@
 13. [Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
 14. [LLM Metric](https://github.com/ray-project/llm-numbers)
 15. [LLM Repos & Learning Resources](https://github.com/harirajeev/learn_LLMS/blob/main/Blogs.md)
-    1. [Awesome-LLMOps](https://github.com/tensorchord/Awesome-LLMOps) 
-    2. [Awesome-LLM](https://github.com/Hannibal046/Awesome-LLM)
-    3. [Large Language Models - Class Central](https://lnkd.in/exVh6g-K)
-    4. [Large Language Models - The Stanford CS324](https://lnkd.in/eJKfDTHK)
-    5. [Deploying GPT and Large Language Models - Oreilly](https://lnkd.in/eDDivjB6)
-    6. [Understanding Large Language Models - Princeton University](https://lnkd.in/eE44cmza)
-    7. [Machine Learning for High-Risk Applications](https://books.google.co.in/books?id=pgu6EAAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+  
 16. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
 17. [Aman Interview](https://aman.ai/primers/ai/interview/)
 18. LLM Ops 
