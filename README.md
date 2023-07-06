@@ -26,7 +26,7 @@
     12. [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
     13. Context Length
        1. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
-2.  [Training own LLM](https://github.com/harirajeev/learn_LLMS/blob/main/Training%20Custom%20LLM)  
+2.  [Training own LLM](https://github.com/harirajeev/learn_LLMS/blob/main/TrainingCustomLLM.md)  
 4.  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
     - Finetuning pre-trained large language models (LLMs) is an effective method to tailor these models to suit specific business requirements and align them with target domain data.
     - This process involves adjusting the model parameters using a smaller dataset relevant to the desired domain, which enables the model to learn domain-specific knowledge and vocabulary.
