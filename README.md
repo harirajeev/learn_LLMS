@@ -27,13 +27,7 @@
     13. Context Length
        1. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
 2.  [Training own LLM](https://github.com/harirajeev/learn_LLMS/blob/main/TrainingCustomLLM.md)  
-4.  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-    - Finetuning pre-trained large language models (LLMs) is an effective method to tailor these models to suit specific business requirements and align them with target domain data.
-    - This process involves adjusting the model parameters using a smaller dataset relevant to the desired domain, which enables the model to learn domain-specific knowledge and vocabulary.
-    - However, as LLMs are “large,” updating multiple layers in a transformer model can be very expensive, so researchers started developing parameter-efficient alternatives.
-    1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
-    2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
-    3. [Example Models](https://github.com/harirajeev/learn_LLMS/blob/main/ExampleModels.md)
+
 6.  [Prompt Engineering](https://github.com/harirajeev/learn_LLMS/blob/main/PromptEngineering.md)    
 
 7.  [Langchain & LlamaIndex & RAG](https://github.com/harirajeev/learn_LLMS/blob/main/LangchainLlamaIndexRAG.md)
