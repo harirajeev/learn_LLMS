@@ -49,19 +49,8 @@
            - https://github.com/jerryjliu/llama_index/blob/main/docs/guides/tutorials/building_a_chatbot.md
            - https://medium.com/@jerryjliu98/how-unstructured-and-llamaindex-can-help-bring-the-power-of-llms-to-your-own-data-3657d063e30d
     3. [RAG](https://github.com/harirajeev/learn_LLMS/blob/main/RAG)
-9.  Blogs
-    1. [Jason Wei](https://www.jasonwei.net/)
-    2. [Chip Huyen](https://huyenchip.com/blog/)
-    3. [Sebastian Raschka ](https://sebastianraschka.com/blog/index.html)
-    4. [Tim Dettmers - quantization](https://timdettmers.com/)
-    5. [Aman.ai](https://aman.ai/primers/ai/)
-    6. [OpenAI Blog](https://openai.com/blog/)
-    7. [Google AI Blog](https://ai.googleblog.com/)
-    8. [Microsoft Research Blog](https://lnkd.in/g2SRv3Nv)
-    9. [NVIDIA Generative AI Blog](https://lnkd.in/gD2ExmPa)
-    10. [Meta AI Research](https://lnkd.in/g93iGDyA)
-    11. [DeepMind Blog](https://deepmind.com/blog)
-    12. [IBM Research Blog](https://lnkd.in/g4wXsu4u)
+9.  [Blogs & Learning Resources](https://github.com/harirajeev/learn_LLMS/blob/main/Blogs&LearningResources.md)
+   
 10. [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem&Evalution.md)
     - [Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)   
     - [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
