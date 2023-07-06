@@ -9,6 +9,10 @@
 6. [Introducing Google’s Secure AI Framework](https://blog.google/technology/safety-security/introducing-googles-secure-ai-framework/)
 7. [Do Foundation Model Providers Comply with the EU AI Act?](https://crfm.stanford.edu/2023/06/15/eu-ai-act.html)
 8. [Machine Unlearning](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)  *ToDO
+9. [Auditing large language models: a three-layered approach](https://link.springer.com/article/10.1007/s43681-023-00289-2)
+10. [Policies, data and analysis for trustworthy artificial intelligence](https://oecd.ai/en/)
+11. [GRACE Governance for Large Language Models (LLMs)](https://2021.ai/grace-governance-llm/)
+12. [Catalogue of Tools & Metrics for Trustworthy AI](https://oecd.ai/en/catalogue/tools) <b>GOOD</b>
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/20cfa986-fd5d-4dd0-a02d-4a877b4eed94)
 
 Data Privacy
