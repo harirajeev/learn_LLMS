@@ -6,6 +6,7 @@ From OpenAI
 - Since, 500 words ~= 1 A4 page
 - 4k ~= 6 A4 pages of text
 - 5M Tokens is equal to entire GitHub repositories and thousands of documents.
+- Typical LLM input today is max 15-60 pages of text (8k-32k tokens)
 
 1. https://thegradient.pub/in-context-learning-in-context/
 2. http://ai.stanford.edu/blog/understanding-incontext/
