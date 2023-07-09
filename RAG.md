@@ -18,3 +18,4 @@
 - If you aim to teach the model an entirely new task and have the necessary data science expertise, Fine-Tuning could be a suitable choice. 
 - On the other hand, if the focus is on adapting the model to a new domain with constraints and a limited budget, RAG could offer a more efficient and accessible solution.
 
+https://medium.com/@pandey.vikesh/rag-ing-success-guide-to-choose-the-right-components-for-your-rag-solution-on-aws-223b9d4c7280
