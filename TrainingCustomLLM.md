@@ -29,7 +29,13 @@ Fine Tuning
    - Tensor Parallelism - In tensor parallelism, specific model weights, gradients and optimizer states are split across devices and each device is responsible for processing a different portion of the parameters.In contrast to pipeline parallelism, which splits the model layer by layer, tensor parallelism splits individual weights. ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/cb2ac36b-082a-4b8c-bcee-8d7ab1bba35a)
    - Sequence Parallelism - Another method to parallelize computation across multiple devices is Sequence Parallelism (Li et al. 2021), a technique for training Transformer models on very long sequences by breaking them up into smaller chunks and processing each chunk in parallel across multiple GPUs.
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0ef8836f-b0ae-4ec1-a5b6-2940bf1a7e06)
+   - Mixture-of-experts - The fundamental concept behind the Mixture-of-Experts method (MoE, Shazeer et al. 2017) is ensemble learning. To go into more detail, the MoE layer consists of a set of n  feed-forward expert networks E1,E2,…,En  (which can be distributed across GPUs) and the gating network G  whose output is a sparse n-dimensional vector.
+   - Activation checkpointing - Suppose we partition a neural network into k partitions. In Activation Checkpointing (Chen et al. 2016), only the activations at the boundaries of each partition are saved and shared between workers during training. The intermediate activations of the neural network are recomputed on-the-fly during the backward pass of the training process rather than storing them in memory during the forward pass.
+   - Mixed Precision Training - The concept of Mixed Precision Training (Narang & Micikevicius et al. 2018) bridges the gap between reducing memory usage during training and maintaining good accuracy.
+Mixed Precision Training involves utilizing FP16 to store weights, activations, and gradients. However, to maintain accuracy similar to that of FP32 networks, an FP32 version of the weights (the master weights) is also kept and modified using the weight gradient during the optimizer step. In each iteration, a copy of the master weights in FP16 is utilized in both the forward and backward passes, which reduces storage and bandwidth requirements by half compared to FP32 training.
+     ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/ff18abe9-9ecd-4b57-afdb-7689a8b54aa4)
 
+   
 - BLOOM-176B
    - to fine-tune BLOOM-176B, one would require almost 3 TB of GPU memory (approximately 72 80GB A100 GPUs).
    - In addition to the model weights, the cost of storing intermediate computation outputs (optimizer states and gradients) is typically even higher
