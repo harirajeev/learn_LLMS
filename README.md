@@ -65,3 +65,10 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
     - PIXIU
       - [paper](https://arxiv.org/abs/2306.05443)
       - [code](https://github.com/chancefocus/PIXIU)
+
+     - Datasets
+      - CONVFINQ
+        - [CONVFINQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering](https://arxiv.org/pdf/2210.03849.pdf)
+        - https://github.com/czyssrs/ConvFinQA
+        - Aiming to study the chain of numerical reasoning in conversational question answering
+
