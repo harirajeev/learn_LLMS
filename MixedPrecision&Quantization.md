@@ -21,6 +21,7 @@ Quantization is a model size reduction technique that converts model weights fro
     - [Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
     - [QLoRa: Fine-Tune a Large Language Model on Your GPU](https://towardsdatascience.com/qlora-fine-tune-a-large-language-model-on-your-gpu-27bed5a03e2b)
     - [https://saturncloud.io/blog/how-to-fine-tune-quantized-llms/](https://saturncloud.io/blog/how-to-fine-tune-quantized-llms/)
+    - [Here’s why quantization matters for AI](https://www.qualcomm.com/news/onq/2019/03/heres-why-quantization-matters-ai#:~:text=Besides%20the%20performance%20benefit%2C%20quantized,bandwidth%20and%20saves%20significant%20energy.)
   - [GPTQ: Accurate Post-Training Quantization for Generative Pre-trained Transformers 22/3/2023](https://arxiv.org/pdf/2210.17323.pdf)
     - GPT3-175B, have in the order of 175 billion parameters and require tens-to-hundreds of GPU years to train
 the parameters of GPT3-175B occupy 326GB (counting in multiples of 1024) of memory when stored in a compact float16 format
