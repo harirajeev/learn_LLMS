@@ -26,7 +26,7 @@
     12. [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
     13. Context Length
        1. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
-2.  [Training own LLM](https://github.com/harirajeev/learn_LLMS/blob/main/TrainingCustomLLM.md)  
+2.  [Training own LLM](https://github.com/harirajeev/learn_LLMS/blob/main/TrainFinetuneInference.md)  
 
 3.  [Prompt Engineering](https://github.com/harirajeev/learn_LLMS/blob/main/PromptEngineering.md)    
 
