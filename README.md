@@ -67,6 +67,9 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
       - [code](https://github.com/chancefocus/PIXIU)
 
 15. Financial Datasets
+      - FinQA - May 2022
+        - [FINQA: A Dataset of Numerical Reasoning over Financial Data](https://arxiv.org/pdf/2109.00122v3.pdf)
+        - https://github.com/czyssrs/FinQA
       - CONVFINQ - Oct 2022
         - [CONVFINQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering](https://arxiv.org/pdf/2210.03849.pdf)
         - https://github.com/czyssrs/ConvFinQA
