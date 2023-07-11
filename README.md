@@ -70,10 +70,13 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
       - FinQA - May 2022
         - [FINQA: A Dataset of Numerical Reasoning over Financial Data](https://arxiv.org/pdf/2109.00122v3.pdf)
         - https://github.com/czyssrs/FinQA
+        - FinQA consists of question-answering pairs annotated by experts and their corresponding earnings reports (including unstructured documents and tables) from S&P 500
+companies
       - CONVFINQ - Oct 2022
         - [CONVFINQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering](https://arxiv.org/pdf/2210.03849.pdf)
         - https://github.com/czyssrs/ConvFinQA
         - Aiming to study the chain of numerical reasoning in conversational question answering
+        - ConvFinQA is an expansion on FinQA that has conversations with the multi-turn question and answering over earnings reports
       - PACIFIC - March 2023
         - [PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance](https://arxiv.org/pdf/2210.08817.pdf)
         - https://github.com/dengyang17/PACIFIC/
