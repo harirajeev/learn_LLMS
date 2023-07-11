@@ -67,8 +67,12 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
       - [code](https://github.com/chancefocus/PIXIU)
 
      - Datasets
-      - CONVFINQ
+      - CONVFINQ - Oct 2022
         - [CONVFINQA: Exploring the Chain of Numerical Reasoning in Conversational Finance Question Answering](https://arxiv.org/pdf/2210.03849.pdf)
         - https://github.com/czyssrs/ConvFinQA
         - Aiming to study the chain of numerical reasoning in conversational question answering
-
+      - PACIFIC - March 2023
+        - [PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance](https://arxiv.org/pdf/2210.08817.pdf)
+        - https://github.com/dengyang17/PACIFIC/
+        - https://github.com/dengyang17/PACIFIC/tree/main/data 
+        
