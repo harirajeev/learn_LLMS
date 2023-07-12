@@ -3,7 +3,8 @@
 - Scaling
   ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/bf66a7f9-f1c8-4ac1-8c9d-b6f87199de18)
   - [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
-    - DeepSpeed enables scale through the introduction of the Zero Redundancy Optimizer (ZERO)
+    - DeepSpeed is a technique created by Microsoft to train massive billion-parameter models at scale.
+    - The crux of how DeepSpeed enables scale is through the introduction of the Zero Redundancy Optimizer (ZERO).
     - two major memory consumption of large model training:
       1. The majority is occupied by model states,
          - including optimizer states (e.g. Adam momentums and variances), gradients and parameters.
