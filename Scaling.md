@@ -5,6 +5,7 @@
   - [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
     - DeepSpeed is a technique created by Microsoft to train massive billion-parameter models at scale.
     - The crux of how DeepSpeed enables scale is through the introduction of the Zero Redundancy Optimizer (ZERO).
+    - ZERO is a memory optimization method
     - two major memory consumption of large model training:
       1. The majority is occupied by model states,
          - including optimizer states (e.g. Adam momentums and variances), gradients and parameters.
