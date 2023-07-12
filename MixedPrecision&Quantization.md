@@ -4,7 +4,8 @@
 - This technique was first shared in the paper: Training Deep Nets with Sublinear Memory Cost. 
 - model.gradient_checkpointing_enable()
 # Mixed Precision Training
-- [Accelerating Large Language Models with Mixed-Precision Techniques](https://lightning.ai/pages/community/tutorial/accelerating-large-language-models-with-mixed-precision-techniques/)  
+- [Accelerating Large Language Models with Mixed-Precision Techniques](https://lightning.ai/pages/community/tutorial/accelerating-large-language-models-with-mixed-precision-techniques/)
+- [MIXED PRECISION TRAINING](https://arxiv.org/pdf/1710.03740.pdf)
  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/41f0694a-5178-4a64-9123-9c932d9ee6a2)
  
 # Quantization
