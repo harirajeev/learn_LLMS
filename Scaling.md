@@ -35,4 +35,8 @@
   
 - Fully-sharded data-parallel (FSDP)
   - FSDP is Meta’s version of sharding, inspired by DeepSpeed (stage 3) optimized for PyTorch compatibility
-  - 
+  - FSDP is a type of data-parallel training which, unlike traditional data-parallel processing,
+    - shards the model’s parameters,
+    - gradients and
+    - optimizer states across data-parallel workers and
+    - can optionally offload the sharded model parameters to the CPUs
