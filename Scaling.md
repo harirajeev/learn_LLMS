@@ -1,11 +1,22 @@
-![](https://github.com/harirajeev/learn_LLMS/blob/main/deepspeed.gif)
+![blah](https://github.com/harirajeev/learn_LLMS/blob/main/deepspeed.gif)
+
 - Scaling
+  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/bf66a7f9-f1c8-4ac1-8c9d-b6f87199de18)
   - [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
     - DeepSpeed enables scale is through the introduction of the Zero Redundancy Optimizer (ZERO)
     - ZERO has 3 stages:
       1. Optimizer states are partitioned across processes.
       2. Gradients are partitioned across processes.
       3. Model parameters are partitioned across the processes.
+    - Optimizers use a lot of memory.
+      - For example, while using the Adam optimizer,
+      - we need to save four times the memory of model weights,
+      - as it stores momentums and variances which are as big as the gradients and model parameters
+    - Parallelism Paradigms discussed earlier stores all the model parameters, tho not everything is required for training
+    - ZERO aims to eliminate redundant memory usage resulting in better training speed.
+    - It eliminates memory redundancies in Data Parallel processes
+    - Three optimization stages of ZeRO compared with the data parallelism
+     ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f3351b56-d892-49fa-8970-d98a62b2b985)
 
   - [PyTorch Lightning vs DeepSpeed vs FSDP vs FFCV vs …](https://towardsdatascience.com/pytorch-lightning-vs-deepspeed-vs-fsdp-vs-ffcv-vs-e0d6b2a95719)
 - [How to train a large language model using limited hardware?](https://deepsense.ai/how-to-train-a-large-language-model-using-limited-hardware/)
