@@ -32,4 +32,7 @@
       - ZeRO-R optimizes the memory consumption of residual states, using partitioned activation recomputation, constant buffer size and on-the-fly memory defragmentation.
       
 - [Different parallelism paradigms](https://github.com/harirajeev/learn_LLMS/blob/main/ParallelismParadigms.md)
-- FSDP
+  
+- Fully-sharded data-parallel (FSDP)
+  - FSDP is Meta’s version of sharding, inspired by DeepSpeed (stage 3) optimized for PyTorch compatibility
+  - 
