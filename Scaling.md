@@ -1,5 +1,12 @@
 - Scaling
   - [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
+    - DeepSpeed enables scale is through the introduction of the Zero Redundancy Optimizer (ZERO)
+    - ZERO has 3 stages:
+      1. Optimizer states are partitioned across processes.
+      2. Gradients are partitioned across processes.
+      3. Model parameters are partitioned across the processes.
+    ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/d1da56ea-4f72-4174-b1a2-892ba337deac)
+ 
   - [PyTorch Lightning vs DeepSpeed vs FSDP vs FFCV vs …](https://towardsdatascience.com/pytorch-lightning-vs-deepspeed-vs-fsdp-vs-ffcv-vs-e0d6b2a95719)
 - [How to train a large language model using limited hardware?](https://deepsense.ai/how-to-train-a-large-language-model-using-limited-hardware/)
   - Different parallelism paradigms
