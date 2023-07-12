@@ -17,12 +17,13 @@ Fine Tuning
   1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
   2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
   3. [Example Models](https://github.com/harirajeev/learn_LLMS/blob/main/ExampleModels.md)
-- [Simple LLM Finetuner Utility](https://github.com/lxe/simple-llm-finetuner)
-- [A Hacker's Guide to LLM Optimization](https://matt-rickard.com/a-hackers-guide-to-llm-optimization)
-- [Techniques for optimizing LLM performance - Prompt Eng](https://www.mlexpert.io/prompt-engineering/llm-optimization)
-- [Strategies for optimizing infrastructure costs of large NLP models](https://neptune.ai/blog/nlp-models-infrastructure-cost-optimization)
 - [Scaling](https://github.com/harirajeev/learn_LLMS/blob/main/Scaling.md)
-- Memory 
+- [Memory Optimization Methods](https://github.com/harirajeev/learn_LLMS/blob/main/MemoryOptimizationMethods.md)
+- Good Reads
+  - [Simple LLM Finetuner Utility](https://github.com/lxe/simple-llm-finetuner)
+  - [A Hacker's Guide to LLM Optimization](https://matt-rickard.com/a-hackers-guide-to-llm-optimization)
+  - [Techniques for optimizing LLM performance - Prompt Eng](https://www.mlexpert.io/prompt-engineering/llm-optimization)
+  - [Strategies for optimizing infrastructure costs of large NLP models](https://neptune.ai/blog/nlp-models-infrastructure-cost-optimization)
 - BLOOM-176B
    - to fine-tune BLOOM-176B, one would require almost 3 TB of GPU memory (approximately 72 80GB A100 GPUs).
    - In addition to the model weights, the cost of storing intermediate computation outputs (optimizer states and gradients) is typically even higher
