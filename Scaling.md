@@ -1,3 +1,4 @@
+![](https://github.com/harirajeev/learn_LLMS/blob/main/deepspeed.gif)
 - Scaling
   - [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
     - DeepSpeed enables scale is through the introduction of the Zero Redundancy Optimizer (ZERO)
@@ -5,8 +6,7 @@
       1. Optimizer states are partitioned across processes.
       2. Gradients are partitioned across processes.
       3. Model parameters are partitioned across the processes.
-    <img src="https://github.com/harirajeev/learn_LLMS/blob/main/deepspeed.gif" width="40" height="40" />
- 
+
   - [PyTorch Lightning vs DeepSpeed vs FSDP vs FFCV vs …](https://towardsdatascience.com/pytorch-lightning-vs-deepspeed-vs-fsdp-vs-ffcv-vs-e0d6b2a95719)
 - [How to train a large language model using limited hardware?](https://deepsense.ai/how-to-train-a-large-language-model-using-limited-hardware/)
   - Different parallelism paradigms
