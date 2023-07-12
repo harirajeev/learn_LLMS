@@ -3,7 +3,15 @@
 - Scaling
   ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/bf66a7f9-f1c8-4ac1-8c9d-b6f87199de18)
   - [DeepSpeed: Extreme-scale model training for everyone](https://www.microsoft.com/en-us/research/blog/deepspeed-extreme-scale-model-training-for-everyone/)
-    - DeepSpeed enables scale is through the introduction of the Zero Redundancy Optimizer (ZERO)
+    - DeepSpeed enables scale through the introduction of the Zero Redundancy Optimizer (ZERO)
+    - two major memory consumption of large model training:
+      1. The majority is occupied by model states,
+         - including optimizer states (e.g. Adam momentums and variances), gradients and parameters.
+         - Mixed-precision training demands a lot of memory since the optimizer needs to keep a copy of FP32 parameters and other optimizer states, besides the FP16 version.
+      3. The remaining is consumed by
+         - activations,
+         - temporary buffers and
+         - unusable fragmented memory (named residual states in the paper).
     - ZERO has 3 stages:
       1. Optimizer states are partitioned across processes.
       2. Gradients are partitioned across processes.
@@ -17,7 +25,12 @@
     - It eliminates memory redundancies in Data Parallel processes
     - Three optimization stages of ZeRO compared with the data parallelism
      ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f3351b56-d892-49fa-8970-d98a62b2b985)
-
+    - memory reduction is directly proportional to the degree of data parallelism.
+    - For instance, partitioning across 8 GPUs will lead to an 8-fold reduction in memory usage.
+    - ZeRO combines two approaches, ZeRO-DP and ZeRO-R.
+      - ZeRO-DP is an enhanced data parallelism to avoid simple redundancy over model states. It partitions optimizer state, gradients and parameters across multiple data parallel processes via a dynamic communication schedule to minimize the communication volume.
+      - ZeRO-R optimizes the memory consumption of residual states, using partitioned activation recomputation, constant buffer size and on-the-fly memory defragmentation.
+      
   - [PyTorch Lightning vs DeepSpeed vs FSDP vs FFCV vs …](https://towardsdatascience.com/pytorch-lightning-vs-deepspeed-vs-fsdp-vs-ffcv-vs-e0d6b2a95719)
 - [How to train a large language model using limited hardware?](https://deepsense.ai/how-to-train-a-large-language-model-using-limited-hardware/)
   - Different parallelism paradigms
