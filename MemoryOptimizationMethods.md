@@ -11,3 +11,5 @@ ZeRO aims to train very large models efficiently by eliminating redundant memory
 Offloading is the general technique of moving data to the CPU in order to free up GPU memory, which can result in training larger models and the ability to use a larger batch size with a smaller number of GPUs. Parameter and gradient offloading is one such technique in which parameters or parameter gradients that are currently not in use are offloaded to the CPU in order to free up GPU memory.
 
 CPU offloading parameters are implemented as part of PyTorch FSDP API, and non-blocking data transfer on separated streams is implemented to improve performance. Please see Trace1 at the end of this note; it demonstrates that the data transfer between host and device is small in 1T experiments.
+
+- Attention
