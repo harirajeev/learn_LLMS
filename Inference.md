@@ -44,7 +44,13 @@
         -  Here are a couple of approaches to model pruning:
            -    Post-training pruning: In this approach, the LLM is first trained using standard techniques and then pruned using one of the pruning algorithms. The pruned LLM is then fine-tuned to preserve its accuracy.
            -    Iterative pruning: Here, the model is trained using standard training techniques and then pruned iteratively over several rounds of training and pruning. This approach can achieve higher levels of pruning while preserving accuracy.
-   
+
+  - <b>Model distillation</b>
+     -  (MD) is a technique used to transfer knowledge from an LLM called a teacher to a smaller, more efficient model called the student.
+     -  It is used in the context of model compression.
+     -  In a nutshell, the teacher model provides guidance and feedback to the student model during training. See the image below.
+       ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/23767b06-a4ee-4c07-80b8-01f8ab8bdbda)
+
 
 - [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
 - [Large Transformer Model Inference Optimization - Lilian Weng](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
