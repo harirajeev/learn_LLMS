@@ -19,6 +19,25 @@
   -  model compression involves several steps     
      - Graph optimization: The high-level LLM graph is transformed and optimized using graph optimization techniques such as <b>pruning</b> and <b>quantization</b> to reduce the computational complexity and memory footprint of the model. This, in turn, makes the model small while preserving its accuracy. 
      - Hardware-specific optimization: The optimized LLM graph is further optimized to leverage hardware-specific optimizations. For instance, Amazon Sagemaker provides model serving containers for various popular ML frameworks, including XGBoost, scikit-learn, PyTorch, TensorFlow, and Apache MXNet, along with software development kits (SDKs) for each container.     
+  -  model compression techniques
+     -  to reduce the memory footprint and computation requirements of an LLM
+     -  MQ essentially transforms the model parameters and activations with lower-precision data types.
+     -  The goal of model quantization is to improve the efficiency of LLM during inference by reducing the memory bandwidth requirements
+     -  exploiting hardware-specific optimizations optimized for lower-precision arithmetic.
+     -  reduction of model parameters by a factor of 4
+     -  while the memory bandwidth required by the model by the factor 2 to 4 times
+     -  As a result of these improvements, the inference speed can increase by 2 to 4 times, owing to the reduction in memory bandwidth requirements and faster computations using int8 arithmetic
+     -  trade-offs between reduced precision and model accuracy, as well as the hardware-specific optimizations that can be leveraged with lower-precision arithmetic
+     -  There are several approaches to model quantization for LLMs, including:
+         -     Post-training quantization:
+               -   In this approach, the LLM is first trained using floating-point data types, and then the weights and activations are quantized to lower-precision data types post-training. This approach is simple to implement and can achieve good accuracy with a careful selection of quantization parameters.
+         -     Quantization-aware training:
+               -   Here, the LLM is quantized during training, allowing the model to adapt to the reduced precision during training. This approach can achieve higher accuracy than post-training quantization but requires more computation during training.
+         -     Hybrid quantization:
+               -   It combines both post-training quantization and quantization-aware training, allowing the LLM to adapt to lower-precision data types during training while also applying post-training quantization to further reduce the memory footprint and computational complexity of the model.
+
+  
+   
 
 - [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
 - [Large Transformer Model Inference Optimization - Lilian Weng](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
