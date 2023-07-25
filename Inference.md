@@ -10,8 +10,15 @@
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/9e179b1f-8c56-4f29-94cd-1aa83d0be153)
 
-
-
+<b>Model compression</b>
+  -  Model compression is a technique used to optimize and transform an LLM into an efficient executable model that can be run on specialized hardware or software platforms
+  -  The goal of model compression is to improve the performance and efficiency of LLM inference by leveraging hardware-specific optimizations, such as
+     - reduced memory footprint,
+     - improved computation parallelism, and
+     - reduced latency.
+  -  model compression involves several steps     
+     - Graph optimization: The high-level LLM graph is transformed and optimized using graph optimization techniques such as <b>pruning</b> and <b>quantization</b> to reduce the computational complexity and memory footprint of the model. This, in turn, makes the model small while preserving its accuracy. 
+     - Hardware-specific optimization: The optimized LLM graph is further optimized to leverage hardware-specific optimizations. For instance, Amazon Sagemaker provides model serving containers for various popular ML frameworks, including XGBoost, scikit-learn, PyTorch, TensorFlow, and Apache MXNet, along with software development kits (SDKs) for each container.     
 
 - [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
 - [Large Transformer Model Inference Optimization - Lilian Weng](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
