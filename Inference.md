@@ -54,7 +54,7 @@
         -  Knowledge distillation: In this approach, the smaller model is trained to mimic the output probabilities of the larger LLM using a temperature scaling factor. The temperature scaling factor is used to soften the output probabilities of the teacher model, allowing the smaller model to learn from the teacher model’s behavior more effectively. 
         -  Self-distillation: In this approach, the larger LLM is used to generate training examples for the smaller model by applying the teacher model to unlabeled data. The smaller model is then trained on these generated examples, allowing it to learn from the behavior of the larger LLM without requiring labeled data.
         -  Ensemble distillation: In this approach, multiple smaller models are trained to mimic the behavior of different sub-components of the larger LLM. The outputs of these smaller models are combined to form an ensemble model that approximates the behavior of the larger LLM.
-
+        
 - [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
 - [Large Transformer Model Inference Optimization - Lilian Weng](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
   - Why is it hard to run inference for large language models ? There are 2 main factors contributing to the inference challenge
