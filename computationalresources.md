@@ -13,7 +13,7 @@ Once you have the details, you can actually calculate how much-accelerated compu
  - [How to measure FLOP/s for Neural Networks empirically?](https://www.lesswrong.com/posts/jJApGWG95495pYM7C/how-to-measure-flop-s-for-neural-networks-empirically)
  - [ a public spreadsheet with some info on different hardware](https://docs.google.com/spreadsheets/d/1AAIebjNsnJj_uKALHbXNfn3_YsT6sHXtCU0q7OIPuc4/edit#gid=0)
  - [Deep Learning GPU Benchmarks](https://lambdalabs.com/gpu-benchmarks)
- - 
+ - [Training Compute-Optimal Large Language Models - Mar 2022](https://arxiv.org/pdf/2203.15556.pdf)
 
 You can see the table below, which will give you an idea of how many FLOPs you might need for your model. Once you have an estimation, you can then go ahead and find the relevant GPU in your preferred cloud platform. 
 
