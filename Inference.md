@@ -19,7 +19,7 @@
   -  model compression involves several steps     
      - Graph optimization: The high-level LLM graph is transformed and optimized using graph optimization techniques such as <b>pruning</b> and <b>quantization</b> to reduce the computational complexity and memory footprint of the model. This, in turn, makes the model small while preserving its accuracy. 
      - Hardware-specific optimization: The optimized LLM graph is further optimized to leverage hardware-specific optimizations. For instance, Amazon Sagemaker provides model serving containers for various popular ML frameworks, including XGBoost, scikit-learn, PyTorch, TensorFlow, and Apache MXNet, along with software development kits (SDKs) for each container.     
-  -  model compression techniques
+  -  <b>model compression techniques</b>
      -  to reduce the memory footprint and computation requirements of an LLM
      -  MQ essentially transforms the model parameters and activations with lower-precision data types.
      -  The goal of model quantization is to improve the efficiency of LLM during inference by reducing the memory bandwidth requirements
@@ -36,7 +36,14 @@
          -     Hybrid quantization:
                -   It combines both post-training quantization and quantization-aware training, allowing the LLM to adapt to lower-precision data types during training while also applying post-training quantization to further reduce the memory footprint and computational complexity of the model.
 
-  
+  -  <b>[Model Pruning](https://colab.research.google.com/github/pytorch/tutorials/blob/gh-pages/_downloads/7126bf7beed4c4c3a05bcc2dac8baa3c/pruning_tutorial.ipynb)</b>
+     -  Model pruning (MP) is again a technique used to reduce the size and computational complexity of an LLM by removing redundant or unnecessary model parameters. MP is to improve the efficiency of LLM inference without sacrificing accuracy.
+     -  MP involves identifying and removing redundant or unnecessary model parameters using various pruning algorithms.
+        -  Weight pruning: In weight pruning, individual weights in the LLM are removed based on their magnitude or importance, using techniques such as magnitude-based pruning or structured pruning. Weight pruning can significantly reduce the number of model parameters and the computational complexity of the LLM, but it may require fine-tuning of the pruned model to maintain its accuracy.
+        -  Neuron pruning: In neuron pruning, entire neurons or activations in the LLM are removed based on their importance, using techniques such as channel pruning or neuron-level pruning. Neuron pruning can also significantly reduce the number of model parameters and the computational complexity of the LLM, but it may be more difficult to implement and may require more extensive retraining and maybe fine-tuning to maintain accuracy.
+        -  Here are a couple of approaches to model pruning:
+           -    Post-training pruning: In this approach, the LLM is first trained using standard techniques and then pruned using one of the pruning algorithms. The pruned LLM is then fine-tuned to preserve its accuracy.
+           -    Iterative pruning: Here, the model is trained using standard training techniques and then pruned iteratively over several rounds of training and pruning. This approach can achieve higher levels of pruning while preserving accuracy.
    
 
 - [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
