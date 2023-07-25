@@ -1,4 +1,18 @@
-Inference
+<b>Inference</b>
+
+<b>Optimizing the model for serving</b>
+  - size of LLMs can pose a problem for deployment.
+  - When your model is too large, strategies like
+    -  model compilation,
+    -  model compression, and
+    -  model sharding can be used.
+  - These techniques reduce the size of the model while preserving accuracy, which allows easier deployment and reduce the associated expenses significantly. 
+
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/9e179b1f-8c56-4f29-94cd-1aa83d0be153)
+
+
+
+
 - [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
 - [Large Transformer Model Inference Optimization - Lilian Weng](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
   - Why is it hard to run inference for large language models ? There are 2 main factors contributing to the inference challenge
