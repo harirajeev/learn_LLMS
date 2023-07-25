@@ -36,4 +36,8 @@ Fine Tuning
         - Inference cost from the attention mechanism scales quadratically with input sequence length
     2. Low parallelizability. Inference generation is executed in an autoregressive fashion, making the decoding process hard to parallel.
 
+   <b>LLM Inference optimization techniques</b>
+   ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/8abda650-a576-4a44-aa60-cd523dd5d4e7)
+
+
 [Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
