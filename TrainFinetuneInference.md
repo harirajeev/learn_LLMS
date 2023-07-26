@@ -36,7 +36,7 @@ Fine Tuning
    -   https://github.com/Sakil786/text_generation_using_Llama-2/blob/main/text_generation_using_Llama.ipynb
    -   https://github.com/Sakil786/-meta_llama_2finetuned_text_generation_summarization/blob/main/fine_tunning_llama_2.ipynb
    -   [Running Llama 2 on CPU Inference Locally for Document Q&A](https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) || [github](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
-   -   
+   -   https://huggingface.co/TokenBender/llama2-7b-chat-hf-codeCherryPop-qLoRA-merged/tree/main
    
 
 
