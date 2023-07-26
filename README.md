@@ -72,6 +72,9 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
       - [code](https://github.com/chancefocus/PIXIU)
 
 15. Financial Datasets
+      - [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca  )
+        - combination of Stanford's Alpaca (https://github.com/tatsu-lab/stanford_alpaca) + FiQA (https://sites.google.com/view/fiqa/) + 1.3k pairs custom generated using GPT3.5
+        - 68.9k 
       - FinQA - May 2022
         - [FINQA: A Dataset of Numerical Reasoning over Financial Data](https://arxiv.org/pdf/2109.00122v3.pdf)
         - https://github.com/czyssrs/FinQA
