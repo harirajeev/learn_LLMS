@@ -70,6 +70,7 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
     - PIXIU
       - [paper](https://arxiv.org/abs/2306.05443)
       - [code](https://github.com/chancefocus/PIXIU)
+    - [BloombergGPT](https://github.com/harirajeev/learn_LLMS/blob/main/bloombergGPT.md)         
 
 15. Financial Datasets
       - [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca  )
