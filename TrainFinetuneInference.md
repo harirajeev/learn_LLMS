@@ -47,7 +47,9 @@ Fine Tuning
         - The KV cache should be stored in memory during decoding time. Eg: for a batch size of 512 and context length of 2048. The KV cache totals 3TB, that is 3X the model size
         - Inference cost from the attention mechanism scales quadratically with input sequence length
     2. Low parallelizability. Inference generation is executed in an autoregressive fashion, making the decoding process hard to parallel.
+  - [vLLM Easy, fast, and cheap LLM serving for everyone](https://vllm.readthedocs.io/en/latest/)
 
+    
    <b>LLM Inference optimization techniques</b>
    ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/8abda650-a576-4a44-aa60-cd523dd5d4e7)
 
