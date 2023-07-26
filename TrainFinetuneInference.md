@@ -27,7 +27,19 @@ Fine Tuning
 - BLOOM-176B
    - to fine-tune BLOOM-176B, one would require almost 3 TB of GPU memory (approximately 72 80GB A100 GPUs).
    - In addition to the model weights, the cost of storing intermediate computation outputs (optimizer states and gradients) is typically even higher
-  
+- LLaMa2
+   -   https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/
+   -   https://huggingface.co/docs/transformers/model_doc/llama2
+   -   https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference
+   -   https://github.com/facebookresearch/llama-recipes/tree/main
+   -   https://github.com/facebookresearch/llama-recipes/blob/main/quickstart.ipynb
+   -   https://github.com/Sakil786/text_generation_using_Llama-2/blob/main/text_generation_using_Llama.ipynb
+   -   https://github.com/Sakil786/-meta_llama_2finetuned_text_generation_summarization/blob/main/fine_tunning_llama_2.ipynb
+   -   [Running Llama 2 on CPU Inference Locally for Document Q&A](https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) || [github](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
+   -   
+   
+
+
 [Inference](https://github.com/harirajeev/learn_LLMS/blob/main/Inference.md)
   - Why is it hard to run inference for large language models ? There are 2 main factors contributing to the inference challenge
     1. Large Memoryfoot print
