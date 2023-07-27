@@ -4,7 +4,10 @@
       - Additionally, it can be possible to infer the use of personal data in model training with membership inference attacks.
       - Machine unlearning aims to address these concerns with the goal to remove information about some specific samples from a model.
       - [Machine Unlearning: A Survey](https://dl.acm.org/doi/pdf/10.1145/3603620)
-
+-  Privacy Risks in Language Models:
+      - [Extracting Training Data from Large Language Models - a training data extraction attack](https://www.usenix.org/system/files/sec21-carlini-extracting.pdf)
+      - [Deduplicating Training Data Mitigates Privacy Risks in Language Models](https://proceedings.mlr.press/v162/kandpal22a.html)
+        
 <b>Read on :</b>
 
 1. [red Teaming](https://huggingface.co/blog/red-teaming)
