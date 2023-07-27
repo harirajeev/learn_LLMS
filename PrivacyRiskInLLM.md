@@ -13,3 +13,4 @@
   - The authors highlight that to create privacy-preserving machine learning models, one must go beyond simply identifying privacy vulnerabilities and instead trace the causes of vulnerabilities back to the training algorithms, models, and datasets.
 - [Processing Data for Large Language Models - includes deduplication](https://wandb.ai/wandb_gen/llm-data-processing/reports/Processing-Data-for-Large-Language-Models--VmlldzozMDg4MTM2)
 - De-duplication can be done at different levels of granularity, ranging from exact matches to using fuzzy de-duplication tools like "deduplicate-text-datasets" and "datasketch" to reduce and eliminate redundant text from the corpus.
+- [Mapping privacy-enhancing technologies to your use cases](https://www.tmlt.io/resources/mapping-privacy-enhancing-technologies-to-your-use-cases)
