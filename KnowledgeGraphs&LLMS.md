@@ -15,3 +15,4 @@
 - [Unifying Large Language Models and Knowledge Graphs: A Roadmap](https://arxiv.org/pdf/2306.08302.pdf)
 - [Beyond Chain-of-Thought, Effective Graph-of-Thought Reasoning in Large Language Models](https://arxiv.org/pdf/2305.16582.pdf)
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0eaf2cd8-1175-4771-ad9b-40c480156188)
+- [Graph-Bert: Only Attention is Needed for Learning Graph Representations](https://arxiv.org/pdf/2001.05140.pdf)
