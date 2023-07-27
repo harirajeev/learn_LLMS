@@ -1,3 +1,12 @@
+<b>Literature Survey:</b>
+-  [Machine Unlearning](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
+      - Significant privacy challenges arise when parts of training data for ML models is supposed to be deleted, e.g. because of the right to be forgotten. Even after an individual's data is deleted from a database, the trained model will still benefit from the use of the personal data having been part of the training set.
+      - Additionally, it can be possible to infer the use of personal data in model training with membership inference attacks.
+      - Machine unlearning aims to address these concerns with the goal to remove information about some specific samples from a model.
+      - [Machine Unlearning: A Survey](https://dl.acm.org/doi/pdf/10.1145/3603620)
+
+<b>Read on :</b>
+
 1. [red Teaming](https://huggingface.co/blog/red-teaming)
 2. [NeMo Guardrails](https://github.com/NVIDIA/NeMo-Guardrails)
            NeMo Guardrails is an open-source toolkit for easily adding programmable guardrails to LLM-based conversational systems. Guardrails (or "rails" for short) are specific ways of controlling the output of a large language model, such as not talking about politics, responding in a particular way to specific user requests, following a predefined dialog path, using a particular language style, extracting structured data, and more.
