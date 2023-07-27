@@ -24,7 +24,3 @@
 11. [GRACE Governance for Large Language Models (LLMs)](https://2021.ai/grace-governance-llm/)
 12. [Catalogue of Tools & Metrics for Trustworthy AI](https://oecd.ai/en/catalogue/tools) <b>GOOD</b>
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/20cfa986-fd5d-4dd0-a02d-4a877b4eed94)
-
-Data Privacy
-- [Mapping privacy-enhancing technologies to your use cases](https://www.tmlt.io/resources/mapping-privacy-enhancing-technologies-to-your-use-cases)
-- 
