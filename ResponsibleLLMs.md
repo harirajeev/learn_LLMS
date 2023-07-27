@@ -5,6 +5,7 @@
       - Machine unlearning aims to address these concerns with the goal to remove information about some specific samples from a model.
       - [Machine Unlearning: A Survey](https://dl.acm.org/doi/pdf/10.1145/3603620)
 -  [Privacy Risks in Language Models:](https://github.com/harirajeev/learn_LLMS/blob/main/PrivacyRiskInLLM.md)
+-  [Prompt injection with control characters](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
      
 <b>Read on :</b>
 
