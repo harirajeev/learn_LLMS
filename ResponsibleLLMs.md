@@ -6,6 +6,8 @@
       - [Machine Unlearning: A Survey](https://dl.acm.org/doi/pdf/10.1145/3603620)
 -  [Privacy Risks in Language Models:](https://github.com/harirajeev/learn_LLMS/blob/main/PrivacyRiskInLLM.md)
 -  [Prompt injection with control characters](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
+-  Adversarial Attacks
+      - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)       
      
 <b>Read on :</b>
 
