@@ -41,6 +41,7 @@ model maximum context length
     2) Scaling Transformer to 1M tokens and beyond with RMT: https://arxiv.org/abs/2304.11062
     3) Hyena Hierarchy: Towards Larger Convolutional Language Models: https://arxiv.org/abs/2302.10866
     4) LongNet: LongNet: Scaling Transformers to 1,000,000,000 Tokens: https://arxiv.org/abs/2307.02486
+    5) [<b>Positional Interpolation</b> - Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
 
 Waitlist link: https://magic.dev/waitlist
 
