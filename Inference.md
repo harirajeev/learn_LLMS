@@ -58,6 +58,7 @@
 
 
         
+- [FlashAttention-2: Faster Attention with Better Parallelism and Work Partitioning](https://crfm.stanford.edu/2023/07/17/flash2.html)
 - [Optimizing LLM latency - An exploration of inference tools for open source LLMs focused on latency.](https://hamel.dev/notes/llm/03_inference.html) 
 - [How to Run LLMs Locally - GGML - CCP](https://wandb.ai/capecape/LLMs/reports/How-to-Run-LLMs-Locally--Vmlldzo0Njg5NzMx)
 - [Large Transformer Model Inference Optimization - Lilian Weng](https://lilianweng.github.io/posts/2023-01-10-inference-optimization/)
