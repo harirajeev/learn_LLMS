@@ -40,7 +40,11 @@ Fine Tuning
    -   <b>philschmid</b>
        - [LLaMA 2 - Every Resource you need](https://www.philschmid.de/llama-2) <b>GOOD</b>
        - [Extended Guide: Instruction-tune Llama 2](https://www.philschmid.de/instruction-tune-llama-2)
-   
+- More data is not always better when finetuning LLMs
+   -  LIMA
+   -  AlpaGasus
+      - Trimming 52k instruction-response pairs in the popular Aplaca dataset to 9k can improve the performance when finetuning 7B and 13B parameters LLMs
+      - [AlpaGasus: Training A Better Alpaca with Fewer Data](https://arxiv.org/abs/2307.08701)
 
 
 [Inference](https://github.com/harirajeev/learn_LLMS/blob/main/Inference.md)
