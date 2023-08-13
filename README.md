@@ -9,26 +9,27 @@
 1.  [Learn LLM](https://github.com/harirajeev/learn_LLMS/blob/main/Learn%20LLM.md)
     1. [LLMS_Paper_Summary_2023](https://github.com/rashmimarganiatgithub/LLMS_Library_2023)  ****READ THIS ****
     2. [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) ****READ THIS ****
-    3. Transformers from Scratch
+    3. [neurips2023-llm-efficiency-guide](https://lightning.ai/pages/community/tutorial/neurips2023-llm-efficiency-guide/) ****READ THIS ****
+    4. Transformers from Scratch
        - [Transformers from Scratch](https://e2eml.school/transformers.html#resources)
        - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch-sebastianraschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) <b>SUPER</b>
        - [Understanding Encoder And Decoder LLMs](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)
        - [Let's build GPT: from scratch - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)       - 
-    4. Aman Primers - Excellent
+    5. Aman Primers - Excellent
         1. [Primers • Transformers - Excellent Primer from Aman](https://aman.ai/primers/ai/transformers/)
         2. [Primers • Generative Pre-trained Transformer (GPT) - Aman](https://aman.ai/primers/ai/gpt/)
         3. [Primers • Bidirectional Encoder Representations from Transformers (BERT)](https://aman.ai/primers/ai/bert/)
-    5. [Google Brain's Lucas Beyer explaining Attention is all you need](https://www.youtube.com/watch?v=EixI6t5oif0)
-    6. [GPT-2 (Radford, Ilya Sutskever et al. OPENAI)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
-    7. [GPT-3 (Brown et al. OPENAI)](https://arxiv.org/pdf/2005.14165.pdf)
-    8. [GPT-4](https://aman.ai/primers/ai/GPT-4/)
-    9. [Compare LLM Models](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/)
-    10. [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
-    11. [LLMS_Paper_Summary_2023](https://github.com/rashmimarganiatgithub/LLMS_Library_2023) <b>SUPER</b>
-    12. [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)  <b>SUPER</b>
-    13. [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) <b>SUPER</b>
-    14. [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
-    15. Context Length
+    6. [Google Brain's Lucas Beyer explaining Attention is all you need](https://www.youtube.com/watch?v=EixI6t5oif0)
+    7. [GPT-2 (Radford, Ilya Sutskever et al. OPENAI)](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)
+    8. [GPT-3 (Brown et al. OPENAI)](https://arxiv.org/pdf/2005.14165.pdf)
+    9. [GPT-4](https://aman.ai/primers/ai/GPT-4/)
+    10. [Compare LLM Models](https://lightning.ai/pages/community/community-discussions/the-ultimate-battle-of-language-models-lit-llama-vs-gpt3.5-vs-bloom-vs/)
+    11. [A Survey of Large Language Models](https://arxiv.org/pdf/2303.18223.pdf)
+    12. [LLMS_Paper_Summary_2023](https://github.com/rashmimarganiatgithub/LLMS_Library_2023) <b>SUPER</b>
+    13. [How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)  <b>SUPER</b>
+    14. [The Practical Guides for Large Language Models](https://github.com/Mooler0410/LLMsPracticalGuide) <b>SUPER</b>
+    15. [Harnessing the Power of LLMs in Practice: A Survey on ChatGPT and Beyond](https://arxiv.org/pdf/2304.13712.pdf)
+    16. Context Length
        1. [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/pdf/2304.11062.pdf) 
 2.  [Training own LLM](https://github.com/harirajeev/learn_LLMS/blob/main/TrainFinetuneInference.md)  
 
