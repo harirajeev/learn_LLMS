@@ -17,3 +17,17 @@ The six ChatGPT risks that legal and compliance leaders should evaluate
   - applications that use LLM models, including ChatGPT, are also susceptible to prompt injection, a hacking technique in which malicious adversarial prompts are used to trick the model into performing tasks that it wasn’t intended
 - Risk 6 – Consumer Protection Risks
   - California chatbot law mandates that in certain consumer interactions, organizations must disclose clearly and conspicuously that a consumer is communicating with a bot.
+
+Gartner, Inc. has identified four critical areas for general counsel (GC) and legal leaders to address.
+
+- Embed Transparency in AI Use
+  - “Legal leaders need to think about how their organizations will make it clear to any humans when they are interacting with AI.”
+- Ensure Risk Management Is Continuous
+  -  put in place risk management controls that span the lifecycle of any high-risk AI tool,
+  -  algorithmic impact assessment (AIA) that documents decision making, demonstrates due diligence, and will reduce present and future regulatory risk and other liability
+- Build Governance That Includes Human Oversight and Accountability
+  - human oversight which should provide internal checks on the output of AI tools.
+  - designate an AI point person to help technical teams design and implement human controls
+- Guard Against Data Privacy Risks
+  -   privacy-by-design principles to AI initiatives. For example, require privacy impact assessments early in the project or assign privacy team members at the start to assess privacy risks.
+     
