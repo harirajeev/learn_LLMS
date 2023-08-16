@@ -1,3 +1,5 @@
+[<b>Risk</b>](https://github.com/harirajeev/learn_LLMS/blob/main/risk.md)
+
 <b>Literature Survey:</b>
 -  [Machine Unlearning](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
       - Significant privacy challenges arise when parts of training data for ML models is supposed to be deleted, e.g. because of the right to be forgotten. Even after an individual's data is deleted from a database, the trained model will still benefit from the use of the personal data having been part of the training set.
