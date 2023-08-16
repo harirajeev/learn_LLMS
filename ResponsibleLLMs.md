@@ -1,7 +1,7 @@
 [<b>Risk</b>](https://github.com/harirajeev/learn_LLMS/blob/main/risk.md)
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/a4ace62b-760e-4600-8979-09e98385f951)
-
+[source](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4_)
 
 <b>Literature Survey:</b>
 -  [Machine Unlearning](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
