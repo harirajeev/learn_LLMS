@@ -13,6 +13,11 @@
 -  [Prompt injection with control characters](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
 -  Adversarial Attacks
       - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://arxiv.org/pdf/2307.15043.pdf)       
+-  [Reporting standards for Machine Learning Based Science (REFORMS)](https://reforms.cs.princeton.edu/?utm_source=substack&utm_medium=email)
+      -  To provide clear reporting standards for ML-based science across disciplines.       
+      -  [REFORMS checklist template](https://reforms.cs.princeton.edu/appendices.pdf?utm_source=substack&utm_medium=email)
+      -  [Checklist for reporting ML-based science:](https://reforms.cs.princeton.edu/obermeyer-sample.pdf)
+      -        
      
 <b>Read on :</b>
 
