@@ -1,4 +1,6 @@
-  -   https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/
+   -   Open Source
+         -   [Meta’s LLaMa 2 license is not Open Source(https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
+   -   https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/
    -   https://huggingface.co/docs/transformers/model_doc/llama2
    -   https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference
    -   https://github.com/facebookresearch/llama-recipes/tree/main
