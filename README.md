@@ -94,5 +94,9 @@ companies
         - [PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance](https://arxiv.org/pdf/2210.08817.pdf)
         - https://github.com/dengyang17/PACIFIC/
         - https://github.com/dengyang17/PACIFIC/tree/main/data 
+16. Hardware
+      -   NVIDIA also announced its next generation of GPUs, the GH200, which is going to offer 141 GB of RAM (as opposed to 80 GB in the H100)
+      -   Maybe another way of solving the LLM long-context problem with brute (hardware) force
+   
         
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/fb87fa13-265b-4221-a013-7bd0467e4ebe)
