@@ -33,7 +33,7 @@ Fine Tuning
    -  AlpaGasus
       - Trimming 52k instruction-response pairs in the popular Aplaca dataset to 9k can improve the performance when finetuning 7B and 13B parameters LLMs
       - [AlpaGasus: Training A Better Alpaca with Fewer Data](https://arxiv.org/abs/2307.08701)
-
+- [Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
 
 [Inference](https://github.com/harirajeev/learn_LLMS/blob/main/Inference.md)
   - Why is it hard to run inference for large language models ? There are 2 main factors contributing to the inference challenge
@@ -51,4 +51,3 @@ Fine Tuning
    ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/8abda650-a576-4a44-aa60-cd523dd5d4e7)
 
 
-[Context Length & In Context Learning](https://github.com/harirajeev/learn_LLMS/blob/main/ContextLength&InContextLearning.md)
