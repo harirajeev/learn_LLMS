@@ -1,6 +1,11 @@
 - LLaMA
    -   Open Source
          -   [Meta’s LLaMa 2 license is not Open Source](https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
+  -   Issues
+         -   Llama2 report doesn't offer any insights into the training data besides the following short description:  more robust data cleaning, updated our data mixes, trained on 40% more total tokens . We can speculate that this is either due to
+             -  keeping a competitive advantage over other open source models or
+             -  avoiding copyright related lawsuits.
+         -   [Llama copyright drama: Meta stops disclosing what data it uses to train the company's giant AI models.](https://www.businessinsider.in/tech/news/llama-copyright-drama-meta-stops-disclosing-what-data-it-uses-to-train-the-companys-giant-ai-models/articleshow/101887460.cms)
    -   https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/
    -   https://huggingface.co/docs/transformers/model_doc/llama2
    -   https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference
