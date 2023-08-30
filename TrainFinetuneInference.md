@@ -44,6 +44,10 @@ Fine Tuning
    -   Llama Papers
        - [LLaMA: Open and Efficient Foundation Language Models, Touvron et al., Feb 2023](https://arxiv.org/abs/2302.13971)
        - [Llama 2: Open Foundation and Fine-Tuned Chat Models, Touvron et al., Jul 2023](https://arxiv.org/abs/2307.09288)
+
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f9bba525-40f6-47f0-b10c-a5b2db2910c1)
+
+         
 - More data is not always better when finetuning LLMs
    -  LIMA
    -  AlpaGasus
