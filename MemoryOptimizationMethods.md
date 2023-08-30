@@ -1,4 +1,5 @@
- - memory optimization methods (memory-saving techniques)
+-  [Attention](https://github.com/harirajeev/learn_LLMS/blob/main/Attention.md)
+-  memory optimization methods (memory-saving techniques)
       - Mixture-of-experts - The fundamental concept behind the Mixture-of-Experts method (MoE, Shazeer et al. 2017) is ensemble learning. To go into more detail, the MoE layer consists of a set of n  feed-forward expert networks E1,E2,…,En  (which can be distributed across GPUs) and the gating network G  whose output is a sparse n-dimensional vector.
       - Activation checkpointing - Suppose we partition a neural network into k partitions. In Activation Checkpointing (Chen et al. 2016), only the activations at the boundaries of each partition are saved and shared between workers during training. The intermediate activations of the neural network are recomputed on-the-fly during the backward pass of the training process rather than storing them in memory during the forward pass.
       - Mixed Precision Training - The concept of Mixed Precision Training (Narang & Micikevicius et al. 2018) bridges the gap between reducing memory usage during training and maintaining good accuracy.
@@ -12,4 +13,4 @@ Offloading is the general technique of moving data to the CPU in order to free u
 
 CPU offloading parameters are implemented as part of PyTorch FSDP API, and non-blocking data transfer on separated streams is implemented to improve performance. Please see Trace1 at the end of this note; it demonstrates that the data transfer between host and device is small in 1T experiments.
 
-- [Attention](https://github.com/harirajeev/learn_LLMS/blob/main/Attention.md)
+
