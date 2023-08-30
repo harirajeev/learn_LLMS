@@ -6,6 +6,13 @@
              -  keeping a competitive advantage over other open source models or
              -  avoiding copyright related lawsuits.
          -   [Llama copyright drama: Meta stops disclosing what data it uses to train the company's giant AI models.](https://www.businessinsider.in/tech/news/llama-copyright-drama-meta-stops-disclosing-what-data-it-uses-to-train-the-companys-giant-ai-models/articleshow/101887460.cms)
+              -   Meta has not disclosed the training data used to train Llama 2.
+              -   A major battle is brewing over generative AI and copyright. Publishers want to be paid if their work has been used to train large language models. Big tech companies would rather not pay.
+              -   One way to avoid the issue is to just not tell anyone what data you used to train your AI model. Meta seems to be trying that tactic.
+              -   Llama 1 in its research paper listed down a table of all the data that it used
+              -   Publishers, authors, and other creators have suddenly realized their work is being used to train all these AI models. Were they asked for permission? No.
+              -   A slew of lawsuits are already challenging tech companies' right to use this information for AI model training. [Sarah Silverman's complaint is probably the most famous so far](https://www.businessinsider.in/tech/news/this-is-why-comedian-sarah-silverman-is-suing-openai-the-company-behind-chatgpt/articleshow/101617635.cms) 
+             
    -   https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/
    -   https://huggingface.co/docs/transformers/model_doc/llama2
    -   https://www.mlexpert.io/machine-learning/tutorials/alpaca-and-llama-inference
