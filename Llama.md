@@ -11,7 +11,11 @@
               -   One way to avoid the issue is to just not tell anyone what data you used to train your AI model. Meta seems to be trying that tactic.
               -   Llama 1 in its research paper listed down a table of all the data that it used
               -   Publishers, authors, and other creators have suddenly realized their work is being used to train all these AI models. Were they asked for permission? No.
-              -   A slew of lawsuits are already challenging tech companies' right to use this information for AI model training. [Sarah Silverman's complaint is probably the most famous so far](https://www.businessinsider.in/tech/news/this-is-why-comedian-sarah-silverman-is-suing-openai-the-company-behind-chatgpt/articleshow/101617635.cms) 
+              -   A slew of lawsuits are already challenging tech companies' right to use this information for AI model training. [Sarah Silverman's complaint is probably the most famous so far](https://www.businessinsider.in/tech/news/this-is-why-comedian-sarah-silverman-is-suing-openai-the-company-behind-chatgpt/articleshow/101617635.cms)
+              -   Microsoft, backer of industry leader OpenAI, added this risk factor to its [quarterly SEC filing recently](https://www.sec.gov/Archives/edgar/data/789019/000095017023014423/msft-20230331.htm)
+              -   Google says , US law "supports using public information to create new beneficial uses." This argument might prevail in court.
+              -   Meta seems to have decided that not telling anyone what data it uses is a safe move until this fascinating new legal issue is decided.
+              -   As per Meta,  data mixes for Llama2 are intentionally withheld for competitive reasons, all models have gone through Meta's internal Privacy Review process to ensure responsible data usage in building our products
              
    -   https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/
    -   https://huggingface.co/docs/transformers/model_doc/llama2
