@@ -41,6 +41,9 @@ Fine Tuning
    -   <b>philschmid</b>
        - [LLaMA 2 - Every Resource you need](https://www.philschmid.de/llama-2) <b>GOOD</b>
        - [Extended Guide: Instruction-tune Llama 2](https://www.philschmid.de/instruction-tune-llama-2)
+   -   Llama Papers
+       - [LLaMA: Open and Efficient Foundation Language Models, Touvron et al., Feb 2023](https://arxiv.org/abs/2302.13971)
+       - [Llama 2: Open Foundation and Fine-Tuned Chat Models, Touvron et al., Jul 2023](https://arxiv.org/abs/2307.09288)
 - More data is not always better when finetuning LLMs
    -  LIMA
    -  AlpaGasus
