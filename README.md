@@ -97,6 +97,17 @@ companies
 16. Hardware
       -   NVIDIA also announced its next generation of GPUs, the GH200, which is going to offer 141 GB of RAM (as opposed to 80 GB in the H100)
       -   Maybe another way of solving the LLM long-context problem with brute (hardware) force
-   
+17. LLMs and Copyright Laws
+      -   "The copyright status of LLMs trained on copyrighted material is not yet fully understood."
+      -   The recent legal action taken by various authors against Meta, accusing the company of utilizing their copyrighted works in the training of LLaMA v1.
+      -   The reason for this lawsuit was the training data, which included Books3 section of The Pile, encompassing no less than 170,000 books. Notably, the same dataset was used for EleutherAI's GPT-J (a model similar to GPT-3) and BloombergGPT, Bloomberg's language model for finance
+      -   New York Times is preparing a lawsuit against OpenAI since it's concerned that ChatGPT generates text that responds to inquiries, drawing from the initial reporting and writing produced by the paper's team.
+      -   "fair use"
+          -    In the United States, the principle of "fair use" within copyright law may allow the utilization of copyrighted materials without authorization
+          -    Provided that the use involves a substantial transformation of the work and does not endanger the copyright owner's interests.
+          -    However, whether this concept of fair use extends to the training of machine learning models is still unresolved.
+          -    [Japan declared that it would permit generative AI training on any kind of data and that it will not enforce copyrights when it comes to training generative AI models.](https://petapixel.com/2023/06/05/japan-declares-ai-training-data-fair-game-and-will-not-enforce-copyright/)
+          -    AI Act in the EU requires companies to publicly disclose any copyrighted work used in training.not very clear on what happens if copyrights are violated
+          -    Overall, it seems that a lot of rules are still being drafted and amended
         
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/fb87fa13-265b-4221-a013-7bd0467e4ebe)
