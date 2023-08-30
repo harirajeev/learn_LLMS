@@ -21,3 +21,4 @@
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f9bba525-40f6-47f0-b10c-a5b2db2910c1)
 
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0d710b4b-82b1-4b1c-8a2c-cab6dd5e1f9a)
