@@ -1,3 +1,4 @@
+- LLaMA
    -   Open Source
          -   [Meta’s LLaMa 2 license is not Open Source(https://blog.opensource.org/metas-llama-2-license-is-not-open-source/)
    -   https://blog.ovhcloud.com/fine-tuning-llama-2-models-using-a-single-gpu-qlora-and-ai-notebooks/
