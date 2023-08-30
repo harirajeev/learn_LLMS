@@ -37,10 +37,10 @@ model maximum context length
 10. [Extending Context is Hard…but not Impossible](https://kaiokendev.github.io/context)
 
 11. LLMs for longer contexts: We had
-    1) Lost in the Middle: How Language Models Use Long Contexts: https://arxiv.org/abs//2307.03172
-    2) Scaling Transformer to 1M tokens and beyond with RMT: https://arxiv.org/abs/2304.11062
-    3) Hyena Hierarchy: Towards Larger Convolutional Language Models: https://arxiv.org/abs/2302.10866
-    4) LongNet: LongNet: Scaling Transformers to 1,000,000,000 Tokens: https://arxiv.org/abs/2307.02486
+    1) [Lost in the Middle: How Language Models Use Long Contexts](https://arxiv.org/abs//2307.03172)
+    2) [The RMT paper on scaling transformers to 1 million tokens - Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062)
+    3) [The convolutional Hyena LLM for 1 million tokens - Hyena Hierarchy: Towards Larger Convolutional Language Models](https://arxiv.org/abs/2302.10866)
+    4) [LongNet: scaling transformers to 1 billion tokens - LongNet: Scaling Transformers to 1,000,000,000 Tokens](https://arxiv.org/abs/2307.02486)
     5) [<b>Positional Interpolation</b> - Extending Context Window of Large Language Models via Positional Interpolation](https://arxiv.org/abs/2306.15595)
 
 Waitlist link: https://magic.dev/waitlist
