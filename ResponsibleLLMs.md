@@ -36,4 +36,7 @@
 10. [Policies, data and analysis for trustworthy artificial intelligence](https://oecd.ai/en/)
 11. [GRACE Governance for Large Language Models (LLMs)](https://2021.ai/grace-governance-llm/)
 12. [Catalogue of Tools & Metrics for Trustworthy AI](https://oecd.ai/en/catalogue/tools) <b>GOOD</b>
+13. [On the Opportunities and Risks of Foundation Models - This paper coined the term FOUNDATION MODELS](https://arxiv.org/pdf/2108.07258.pdf)
+14. [FRONTIER AI REGULATION: MANAGING EMERGING RISKS TO PUBLIC SAFETY - This paper coined the term FRONTIER AI MODELS](https://arxiv.org/pdf/2307.03718.pdf)
+    -  We define “frontier AI models” as highly capable foundation models that could exhibit dangerous capabilities    
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/20cfa986-fd5d-4dd0-a02d-4a877b4eed94)
