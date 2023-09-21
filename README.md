@@ -15,7 +15,7 @@
        - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch-sebastianraschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) <b>SUPER</b>
        - [Understanding Encoder And Decoder LLMs](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)
        - [Let's build GPT: from scratch - Andrej Karpathy](https://www.youtube.com/watch?v=kCc8FmEb1nY)
-       - [Llama](https://github.com/harirajeev/learn_LLMS/blob/main/Llama.md) 
+       - [Llama](https://github.com/harirajeev/learn_LLMS/blob/main/Llama.md)  <b>SUPER RESOURCES</b>
     5. Aman Primers - Excellent
         1. [Primers • Transformers - Excellent Primer from Aman](https://aman.ai/primers/ai/transformers/)
         2. [Primers • Generative Pre-trained Transformer (GPT) - Aman](https://aman.ai/primers/ai/gpt/)
