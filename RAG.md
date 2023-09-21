@@ -42,3 +42,4 @@
          - But the practical problem is there is no guarantee one model will handle all document lengths. There will always be outliers in spite of you throwing a boatload of money on say 2048 context still it’s not comprehensive.
          - So a better solution is to chunk documents and store them with smaller context-length models. You could save on storage costs and retrieval time.
      - When dealing with a vast corpus, beyond the embedding retrievals, a retrieval and re-ranking method is generally recommended and or maximal marginal relevance (MMR) criterion on all the document candidates.
+     - [TOP MISCONCEPTIONS OF RAG](https://media.licdn.com/dms/document/media/D561FAQFslxFrkRRp9A/feedshare-document-pdf-analyzed/0/1694709823484?e=1696464000&v=beta&t=6peZ0-W0TFFpnYaz3nh6TlvHuEOyB2i1p_aLHNzJFk4)
