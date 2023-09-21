@@ -36,7 +36,10 @@
    -   Improving Llama2
        -    suppose we want to improve models like Llama 2 further and outperform GPT-4-like offerings (by a large margin). In that case, we may not only have to scale the model to a similar size (in this case, 25x larger to be comparable) but also consider using MoE approaches  
 
-
+   -   <b>Umar Jamil</b>
+       -   [Coding LLaMA 2 from scratch in PyTorch - KV Cache, Grouped Query Attention, Rotary PE, RMSNorm](https://www.youtube.com/watch?v=oM4VmoabDAI)
+       -   [GitHub](https://github.com/hkproj/pytorch-llama)
+       -   [Pdf](https://github.com/hkproj/pytorch-llama/blob/main/Slides.pdf)
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f9bba525-40f6-47f0-b10c-a5b2db2910c1)
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0d710b4b-82b1-4b1c-8a2c-cab6dd5e1f9a)
