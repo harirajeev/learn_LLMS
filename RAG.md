@@ -17,7 +17,10 @@
 - In conclusion, the choice between Fine-Tuning and RAG depends on the specific goals and resources of your project. 
 - If you aim to teach the model an entirely new task and have the necessary data science expertise, Fine-Tuning could be a suitable choice. 
 - On the other hand, if the focus is on adapting the model to a new domain with constraints and a limited budget, RAG could offer a more efficient and accessible solution.
-
+- [RAG Paper](https://arxiv.org/pdf/2005.11401.pdf)
+- [RETRO Paper](https://arxiv.org/pdf/2112.04426.pdf)
+- [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)
+- [How to count tokens with tiktoken](https://github.com/openai/openai-cookbook/blob/main/examples/How_to_count_tokens_with_tiktoken.ipynb)
 - https://medium.com/@pandey.vikesh/rag-ing-success-guide-to-choose-the-right-components-for-your-rag-solution-on-aws-223b9d4c7280
 - [Deploying RAG to Production](https://haystack.deepset.ai/blog/rag-deployment)
 - [Why RAG is the key to safer applications with large language models](https://www.deepset.ai/blog/llms-retrieval-augmentation)
