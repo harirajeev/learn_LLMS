@@ -33,10 +33,10 @@
          3. Retrieve the relevant context from Vdb.
          4. Do RAG using pre-trained LLMs such as Google's PaLM or OpenAI's GPTx.
      - 𝗪𝗵𝘆 𝗥𝗔𝗚 & 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀 𝗮𝗿𝗲 𝗮 𝗺𝗮𝘁𝗰𝗵 𝗺𝗮𝗱𝗲 𝗶𝗻 𝗵𝗲𝗮𝘃𝗲𝗻?
-         • Flexibility:  What if a client is not authorized to see certain documents ?You need a Role-Based Authorization Control (RBAC). It is easier to do RBAC with a RAG solution.
-         • Practicality: It is easier to index new docs in VDBs, but retraining is expensive.
-         • Broader Coverage: Only Information Extraction cases necessitate longer contexts. if you dodge that with RAG, for other uses you can use fine-tuning with a shorter context.
-         • Interpretability: Retriever knows the exact documents.
+         1. Flexibility:  What if a client is not authorized to see certain documents ?You need a Role-Based Authorization Control (RBAC). It is easier to do RBAC with a RAG solution.
+         2. Practicality: It is easier to index new docs in VDBs, but retraining is expensive.
+         3. Broader Coverage: Only Information Extraction cases necessitate longer contexts. if you dodge that with RAG, for other uses you can use fine-tuning with a shorter context.
+         4. Interpretability: Retriever knows the exact documents.
      - Embedding model that can handle longer documents?
          - Owing to self-attention’s quadratic time and space complexity there will always be a context limitation original BERT had 512.
          - But the practical problem is there is no guarantee one model will handle all document lengths. There will always be outliers in spite of you throwing a boatload of money on say 2048 context still it’s not comprehensive.
