@@ -26,7 +26,16 @@
      - How can we build the same claim processing app w/o expensive training:  Enter Retrieval Augmented Generation (RAG).
      - Here is the step by step:
          1. Chunk, embed, & index documents in VectorDBs (Vdb) like Weaviate or Pinecone
-         2. Match the query embedding of the claim advisor.
+         2. Match the query embedding of the client.
          3. Retrieve the relevant context from Vdb.
          4. Do RAG using pre-trained LLMs such as Google's PaLM or OpenAI's GPTx.
-
+     - 𝗪𝗵𝘆 𝗥𝗔𝗚 & 𝗘𝗻𝘁𝗲𝗿𝗽𝗿𝗶𝘀𝗲𝘀 𝗮𝗿𝗲 𝗮 𝗺𝗮𝘁𝗰𝗵 𝗺𝗮𝗱𝗲 𝗶𝗻 𝗵𝗲𝗮𝘃𝗲𝗻?
+         • Flexibility:  What if a client is not authorized to see certain documents ?You need a Role-Based Authorization Control (RBAC). It is easier to do RBAC with a RAG solution.
+         • Practicality: It is easier to index new docs in VDBs, but retraining is expensive.
+         • Broader Coverage: Only Information Extraction cases necessitate longer contexts. if you dodge that with RAG, for other uses you can use fine-tuning with a shorter context.
+         • Interpretability: Retriever knows the exact documents.
+     - Embedding model that can handle longer documents?
+         - Owing to self-attention’s quadratic time and space complexity there will always be a context limitation original BERT had 512.
+         - But the practical problem is there is no guarantee one model will handle all document lengths. There will always be outliers in spite of you throwing a boatload of money on say 2048 context still it’s not comprehensive.
+         - So a better solution is to chunk documents and store them with smaller context-length models. You could save on storage costs and retrieval time.
+     - When dealing with a vast corpus, beyond the embedding retrievals, a retrieval and re-ranking method is generally recommended and or maximal marginal relevance (MMR) criterion on all the document candidates.
