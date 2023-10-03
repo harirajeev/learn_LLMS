@@ -74,3 +74,9 @@ of the performance level of ChatGPT while only requiring 24 hours of finetuning 
            - train
          - We show that it is possible to fine tune GPT-neo-X 20B on a Google Colab instance!
       - computation is not done in 4bit, the weights and activations are compressed to that format and the computation is still kept in the desired or native dtype
+  
+  - LoRA (low-rank adaptation) is awesome because it adapts only a small, low-rank subset of parameters of a base LLM.
+  - QLoRA is awesome because it lowered memory requirements even further by quantizing the base model weights.
+  - QA-LoRA is even more awesome as it takes QLoRA a step further and also quantizes the LoRA (adapter) weights, avoiding a costly conversion of the quantized base model weights back into 16-bit when adding the adapter weights.
+
+  - ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/63e55da0-fbe6-4351-be5d-2b1448683e3e)
