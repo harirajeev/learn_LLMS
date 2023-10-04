@@ -45,6 +45,13 @@
    -   <b>cameronr wolfe</b>
        -   [LLaMA-2 from the Ground Up](https://cameronrwolfe.substack.com/p/llama-2-from-the-ground-up)
        -   [practical-prompt-engineering-part](https://cameronrwolfe.substack.com/p/practical-prompt-engineering-part)
+    
+   -   <b>Fine Tuning</b>
+       -   [Fine-tuning with PEFT](https://huggingface.co/blog/llama2#fine-tuning-with-peft)
+       -   [Fine tuning script](https://github.com/huggingface/trl/blob/main/examples/scripts/sft_trainer.py)
+       -   [How to Prompt Llama 2](https://huggingface.co/blog/llama2#how-to-prompt-llama-2)
+       -   ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/a4a79b8c-ab82-4dd5-ac2b-92285e777e6a)
+
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f9bba525-40f6-47f0-b10c-a5b2db2910c1)
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0d710b4b-82b1-4b1c-8a2c-cab6dd5e1f9a)
