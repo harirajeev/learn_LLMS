@@ -52,6 +52,7 @@
        -   [How to Prompt Llama 2](https://huggingface.co/blog/llama2#how-to-prompt-llama-2)
        -   ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/a4a79b8c-ab82-4dd5-ac2b-92285e777e6a)
        -   The model is stateless and does not "remember" previous fragments of the conversation, we must always supply it with all the context so the conversation can continue. This is the reason why context length is a very important parameter to maximize, as it allows for longer conversations and larger amounts of information to be used.
+       -   To get the expected features and performance for the chat versions, a specific formatting needs to be followed, including the INST and <<SYS>> tags, BOS and EOS tokens, and the whitespaces and breaklines in between (we recommend calling strip() on inputs to avoid double-spaces)
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f9bba525-40f6-47f0-b10c-a5b2db2910c1)
 
