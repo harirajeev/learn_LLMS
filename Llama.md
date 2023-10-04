@@ -27,6 +27,7 @@
    -   [Running Llama 2 on CPU Inference Locally for Document Q&A](https://towardsdatascience.com/running-llama-2-on-cpu-inference-for-document-q-a-3d636037a3d8) || [github](https://github.com/kennethleungty/Llama-2-Open-Source-LLM-CPU-Inference)
    -   https://huggingface.co/TokenBender/llama2-7b-chat-hf-codeCherryPop-qLoRA-merged/tree/main
    -   [Llama from scratch (or how to implement a paper without crying)](https://blog.briankitano.com/llama-from-scratch/) <b>MUST TRY</b>
+   -   [LLaMA-2 from the Ground Up](https://cameronrwolfe.substack.com/p/llama-2-from-the-ground-up)
    -   <b>philschmid</b>
        - [LLaMA 2 - Every Resource you need](https://www.philschmid.de/llama-2) <b>GOOD</b>
        - [Extended Guide: Instruction-tune Llama 2](https://www.philschmid.de/instruction-tune-llama-2)
