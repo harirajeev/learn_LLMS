@@ -54,6 +54,7 @@
         1. [EleutherAI - LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
         2. [Optimum benchmarking utility](https://github.com/huggingface/optimum-benchmark)
         3. [Open LLM-Perf Leaderboard ](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
+        4. [Evaluating LLM Outputs](https://txt.cohere.com/evaluating-llm-outputs/#:~:text=Evaluating%20LLM%20outputs%20is%20especially,ensuring%20a%20great%20user%20experience.)
 7. [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 
 8. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
