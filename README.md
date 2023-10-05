@@ -20,7 +20,7 @@
         1. [Primers • Transformers - Excellent Primer from Aman](https://aman.ai/primers/ai/transformers/)
         2. [Primers • Generative Pre-trained Transformer (GPT) - Aman](https://aman.ai/primers/ai/gpt/)
         3. [Primers • Bidirectional Encoder Representations from Transformers (BERT)](https://aman.ai/primers/ai/bert/)
-        4.  [Primers • LLaMa](https://aman.ai/primers/ai/LLaMA/)
+        4. [Primers • LLaMa](https://aman.ai/primers/ai/LLaMA/)
     6.  Chip Huyen (huyenchip)
         1. [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
         2. [MLOps guide](https://huyenchip.com/mlops/)
