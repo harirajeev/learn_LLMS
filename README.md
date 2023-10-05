@@ -21,6 +21,7 @@
         2. [Primers • Generative Pre-trained Transformer (GPT) - Aman](https://aman.ai/primers/ai/gpt/)
         3. [Primers • Bidirectional Encoder Representations from Transformers (BERT)](https://aman.ai/primers/ai/bert/)
         4. [Primers • LLaMa](https://aman.ai/primers/ai/LLaMA/)
+        5. [Aman Interview](https://aman.ai/primers/ai/interview/)
     6.  Chip Huyen (huyenchip)
         1. [Open challenges in LLM research](https://huyenchip.com/2023/08/16/llm-research-open-challenges.html)
         2. [MLOps guide](https://huyenchip.com/mlops/)
@@ -60,19 +61,18 @@
 8. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
 9. [LLM Metric](https://github.com/ray-project/llm-numbers)
 10. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
-11. [Aman Interview](https://aman.ai/primers/ai/interview/)
-12. LLM Ops 
+11. LLM Ops 
     -  [LLM Ops](https://home.mlops.community/home/content)
     -  [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
     -  [ESG](https://github.com/harirajeev/learn_LLMS/blob/main/ESG.md)
     -  [computational resources](https://github.com/harirajeev/learn_LLMS/blob/main/computationalresources.md)
-13. Generating dataset
+12. Generating dataset
     - [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions 25/5/23 - Yizhong Wang](https://arxiv.org/pdf/2212.10560.pdf)
     - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision - 4/5/23](https://arxiv.org/pdf/2305.03047v1.pdf)
     - [How Far Can Camels Go? Exploring the State of Instruction Tuning on Open Resources - 7/6/23 - Yizhong Wang](https://arxiv.org/pdf/2306.04751.pdf)
       - We introduce Tülu, a hybrid camel from interbreeding between different species 🐪x🐫.
 Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa on a combination of 7 datasets.
-14. Financial LLMs
+13. Financial LLMs
     - FinGPT
       - [paper](https://arxiv.org/pdf/2306.06031.pdf)
       - [code](https://github.com/AI4Finance-Foundation/FinGPT)   
@@ -81,7 +81,7 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
       - [code](https://github.com/chancefocus/PIXIU)
     - [BloombergGPT](https://github.com/harirajeev/learn_LLMS/blob/main/bloombergGPT.md)         
 
-15. Financial Datasets
+14. Financial Datasets
       - [finance-alpaca](https://huggingface.co/datasets/gbharti/finance-alpaca  )
         - combination of Stanford's Alpaca (https://github.com/tatsu-lab/stanford_alpaca) + FiQA (https://sites.google.com/view/fiqa/) + 1.3k pairs custom generated using GPT3.5
         - 68.9k 
@@ -99,9 +99,9 @@ companies
         - [PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance](https://arxiv.org/pdf/2210.08817.pdf)
         - https://github.com/dengyang17/PACIFIC/
         - https://github.com/dengyang17/PACIFIC/tree/main/data 
-16. Hardware
+15. Hardware
       -   NVIDIA also announced its next generation of GPUs, the GH200, which is going to offer 141 GB of RAM (as opposed to 80 GB in the H100)
       -   Maybe another way of solving the LLM long-context problem with brute (hardware) force
-17. [LLMs and Copyright Laws](https://github.com/harirajeev/learn_LLMS/blob/main/LLMsAndCopyRightLaws.md)
+16. [LLMs and Copyright Laws](https://github.com/harirajeev/learn_LLMS/blob/main/LLMsAndCopyRightLaws.md)
         
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/fb87fa13-265b-4221-a013-7bd0467e4ebe)
