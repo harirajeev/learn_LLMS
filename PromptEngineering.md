@@ -7,3 +7,7 @@
 6. [self-consistency technique](https://arxiv.org/abs/2203.11171)
 7. [Prompt tuning -The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691)
 8. [Large Language Models Are Human-Level Prompt Engineers](https://arxiv.org/abs/2211.01910)
+
+KeyLLM
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0d02a324-9114-4102-8e74-e208ceeb1bc2)
+
