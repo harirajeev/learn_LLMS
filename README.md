@@ -7,7 +7,9 @@
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/07c93d37-5ee2-4d4f-8a49-16295d426d7a)
 
 Pretrained transformers and large language models (LLMs) like GPT and BERT can be excellent text classifiers. However, it often makes sense to fine-tune only the top few layers of the transformer while keeping the bottom layers frozen. The rationale is that the bottom layers have learned more general-purpose features, such as syntax and basic semantics, during pretraining, whereas the top layers can be adapted to capture task-specific information.
-![Uploading image.png…]()
+
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/83c86342-1bdc-4e1d-b073-5a38447a8524)
+
 
 1.  [Learn LLM](https://github.com/harirajeev/learn_LLMS/blob/main/Learn%20LLM.md)
     1. [LLMS_Paper_Summary_2023](https://github.com/rashmimarganiatgithub/LLMS_Library_2023)  ****READ THIS ****
