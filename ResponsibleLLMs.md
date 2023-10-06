@@ -18,7 +18,8 @@
       -  [REFORMS checklist template](https://reforms.cs.princeton.edu/appendices.pdf?utm_source=substack&utm_medium=email)
       -  [Checklist for reporting ML-based science:](https://reforms.cs.princeton.edu/obermeyer-sample.pdf)
       -        
-- [Challenges and Applications of Large Language Models](https://arxiv.org/pdf/2307.10169.pdf)     
+- [Challenges and Applications of Large Language Models](https://arxiv.org/pdf/2307.10169.pdf)
+- [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/pdf/2308.14840.pdf)
 <b>Read on :</b>
 
 1. [red Teaming](https://huggingface.co/blog/red-teaming)
