@@ -9,6 +9,7 @@
    7. Use cases
            - https://github.com/jerryjliu/llama_index/blob/main/docs/guides/tutorials/building_a_chatbot.md
            - https://medium.com/@jerryjliu98/how-unstructured-and-llamaindex-can-help-bring-the-power-of-llms-to-your-own-data-3657d063e30d
+   8. [Evaluation](https://docs.llamaindex.ai/en/latest/core_modules/supporting_modules/evaluation/modules.html)
 3. [RAG](https://github.com/harirajeev/learn_LLMS/blob/main/RAG.md)
 4. Vector DB
    1. [tutorial on how to talk to your vector database.- ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
