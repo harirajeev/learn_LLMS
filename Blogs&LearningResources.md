@@ -22,3 +22,8 @@ Learning Resources
  5. [Deploying GPT and Large Language Models - Oreilly](https://lnkd.in/eDDivjB6)
  6. [Understanding Large Language Models - Princeton University](https://lnkd.in/eE44cmza)
  7. [Machine Learning for High-Risk Applications](https://books.google.co.in/books?id=pgu6EAAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+
+
+To Read
+1. Optimizing your LLM in production - https://huggingface.co/blog/optimize-llm
+2. How to generate text: using different decoding methods for language generation with Transformers - https://huggingface.co/blog/how-to-generate
