@@ -22,6 +22,7 @@ Learning Resources
  5. [Deploying GPT and Large Language Models - Oreilly](https://lnkd.in/eDDivjB6)
  6. [Understanding Large Language Models - Princeton University](https://lnkd.in/eE44cmza)
  7. [Machine Learning for High-Risk Applications](https://books.google.co.in/books?id=pgu6EAAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
+ 8. [State of Open Source AI Book - 2023 Edition](https://book.premai.io/state-of-open-source-ai/)
 
 
 To Read
