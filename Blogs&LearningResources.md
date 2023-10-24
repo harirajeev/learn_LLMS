@@ -24,6 +24,7 @@ Learning Resources
  7. [Machine Learning for High-Risk Applications](https://books.google.co.in/books?id=pgu6EAAAQBAJ&newbks=1&newbks_redir=0&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false)
  8. [State of Open Source AI Book - 2023 Edition](https://book.premai.io/state-of-open-source-ai/)
  9. [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%88+How+DeepL+monitors+ML+in+production+%26+ML+observability+course+notes%20-%2012074149)
+ 10. [Open-source ML observability course notes](https://learn.evidentlyai.com/ml-observability-course/module-1-introduction)
 
 
 To Read
