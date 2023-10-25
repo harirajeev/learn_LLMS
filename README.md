@@ -16,6 +16,7 @@ Pretrained transformers and large language models (LLMs) like GPT and BERT can b
     2. [Catching up on the weird world of LLMs](https://simonwillison.net/2023/Aug/3/weird-world-of-llms/) ****READ THIS ****
     3. [neurips2023-llm-efficiency-guide](https://lightning.ai/pages/community/tutorial/neurips2023-llm-efficiency-guide/) ****READ THIS ****
     4. Transformers from Scratch
+       - [The Annotated Transformer](https://nlp.seas.harvard.edu/annotated-transformer/)
        - [Transformers from Scratch](https://e2eml.school/transformers.html#resources)
        - [Understanding and Coding the Self-Attention Mechanism of Large Language Models From Scratch-sebastianraschka](https://sebastianraschka.com/blog/2023/self-attention-from-scratch.html) <b>SUPER</b>
        - [Understanding Encoder And Decoder LLMs](https://magazine.sebastianraschka.com/p/understanding-encoder-and-decoder)
