@@ -1,2 +1,3 @@
 - [Semantic Answer Similarity: The Smarter Metric to Score Question Answering Predictions](https://www.deepset.ai/blog/semantic-answer-similarity-to-evaluate-qa)
 - [Semantic Answer Similarity for Evaluating Question Answering Models](https://arxiv.org/abs/2108.06130)
+- [LLM Eval: Guard Rails, Prompting](https://docs.google.com/document/d/1ndYxbN9O7dGKeVXR53B3xHFszniSyho6KLaq-aniDRo/edit#heading=h.j5cyenlrao7z)
