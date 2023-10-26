@@ -9,6 +9,7 @@
       - Additionally, it can be possible to infer the use of personal data in model training with membership inference attacks.
       - Machine unlearning aims to address these concerns with the goal to remove information about some specific samples from a model.
       - [Machine Unlearning: A Survey](https://dl.acm.org/doi/pdf/10.1145/3603620)
+      - [IN-CONTEXT UNLEARNING: LANGUAGE MODELS AS FEW SHOT UNLEARNERS](https://arxiv.org/pdf/2310.07579.pdf)
 -  [Privacy Risks in Language Models:](https://github.com/harirajeev/learn_LLMS/blob/main/PrivacyRiskInLLM.md)
 -  [Prompt injection with control characters](https://dropbox.tech/machine-learning/prompt-injection-with-control-characters-openai-chatgpt-llm)
 -  Adversarial Attacks
