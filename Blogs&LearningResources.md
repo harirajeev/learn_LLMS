@@ -31,3 +31,4 @@ To Read
 1. Optimizing your LLM in production - https://huggingface.co/blog/optimize-llm
 2. How to generate text: using different decoding methods for language generation with Transformers - https://huggingface.co/blog/how-to-generate
 3. [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%88+How+DeepL+monitors+ML+in+production+%26+ML+observability+course+notes%20-%2012074149)
+4. [Getting started with Llama](https://ai.meta.com/llama/get-started/)
