@@ -13,3 +13,4 @@
 3. [RAG](https://github.com/harirajeev/learn_LLMS/blob/main/RAG.md)
 4. Vector DB
    1. [tutorial on how to talk to your vector database.- ChatGPT Retrieval Plugin](https://github.com/openai/chatgpt-retrieval-plugin)
+5. [Embeddings](https://github.com/harirajeev/learn_LLMS/blob/main/Embeddings)
