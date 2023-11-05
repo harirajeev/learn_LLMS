@@ -21,6 +21,7 @@
       -        
 - [Challenges and Applications of Large Language Models](https://arxiv.org/pdf/2307.10169.pdf)
 - [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/pdf/2308.14840.pdf)
+- [Generative AI meets Responsible AI (Tutorial)](https://sites.google.com/view/responsible-gen-ai-tutorial/home?authuser=0)
 - 
 <b>Read on :</b>
 
