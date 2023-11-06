@@ -1,4 +1,5 @@
 - [RAG CHALLENGES](https://github.com/harirajeev/learn_LLMS/blob/main/RAG%20Challenges.md)
+-  [ Chunking Strategies ]()
 - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 
 🧠Fine-Tuning vs 🔍RAG: A short comparison
