@@ -1,4 +1,7 @@
 - A good chunking strategy is to use smaller chunks for embedding and an expanded window for the LLM
+  - using the same big text chunk for retrieval and synthesis is not optimal when there is a lot of filler text in the text chunk.
+  - small-to-big-retrieval
+     -  concept is to use smaller text chunks during the retrieval process and subsequently provide the larger text chunk to which the retrieved text belongs to the large language model.
 - simplest approach is to use fixed-size chunking.
   -   CharacterTextSplitter(separator = "\n\n", chunk_size = 1000, chunk_overlap = 100, length_function = len, is_separator_regex = False)
   -   split recursively by the number of characters until the resulting chunks are small enough , RecursiveCharacterTextSplitter(
