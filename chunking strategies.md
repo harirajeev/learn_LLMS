@@ -1,1 +1,2 @@
-
+- A good chunking strategy is to use smaller chunks for embedding and an expanded window for the LLM
+- 
