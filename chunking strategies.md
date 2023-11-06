@@ -13,3 +13,11 @@
 - ParentDocumentRetriever
   -   the chunking is performed with smaller chunks, but the link to the original (parent) document is maintained, so that larger chunks surrounding the matching piece of text are available as input to the LLM summarization step.
   -   LangChain’s ParentDocumentRetriever and LLamaIndex’s SentenceWindowNodeParser.
+- “Content-aware” chunking.
+  -   Set of methods for taking advantage of the nature of the content we’re chunking and applying more sophisticated chunking to it.
+  -   parsing PDFs along with hierarchical layout information
+      -  Identifying sections and subsections, along with their respective hierarchy levels.
+      -  Merging lines into coherent paragraphs.
+      -  Establishing connections between sections and paragraphs.
+      -  Recognizing tables and associating them with their corresponding sections.
+      -  Handling lists and nested list structures with precision.
