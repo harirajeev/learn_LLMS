@@ -6,6 +6,12 @@
     - Additionally we also break down the document's hierarchy for more accurate results.
        - https://unstructured-io.github.io/unstructured/bricks/chunking.html
        - https://github.com/Unstructured-IO/unstructured/blob/main/unstructured/chunking/title.py
+     
+    - scope of information
+        - While LLMs are powerful, they have certain limitations in terms of the amount of text they can process at once and the scope of information they can reference.
+        - Further recent research have suggested LLM performance is often highest when relevant information occurs at the beginning or end of the input context,
+        - and significantly degrades when models must access relevant information in the middle of long contexts.
+        - Techniques like RAG help overcome these limitations, enabling more effective and efficient processing of large documents and broader information retrieval.
 
 - challenge 2: Many of our documents have a hierarchical structure, with sections, subsections, and sub-subsections. To create robust embeddings, it's essential to convert this hierarchical structure into a flat structure.
     - filtering or even nested filtering https://qdrant.tech/documentation/concepts/filtering/#nested-key
