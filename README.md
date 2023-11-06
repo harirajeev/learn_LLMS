@@ -47,8 +47,8 @@ Pretrained transformers and large language models (LLMs) like GPT and BERT can b
 
 3.  [Prompt Engineering](https://github.com/harirajeev/learn_LLMS/blob/main/PromptEngineering.md)    
 
-4.  [Langchain & LlamaIndex & RAG](https://github.com/harirajeev/learn_LLMS/blob/main/LangchainLlamaIndexRAG.md)
-   
+4.  [Langchain & LlamaIndex](https://github.com/harirajeev/learn_LLMS/blob/main/LangchainLlamaIndex.md)
+       - [RAG](https://github.com/harirajeev/learn_LLMS/blob/main/RAG.md)
 5.  [Blogs & Learning Resources](https://github.com/harirajeev/learn_LLMS/blob/main/Blogs&LearningResources.md)
    
 6. [LLM Ecosystem & Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/LLM_Ecosystem&Evalution.md)
