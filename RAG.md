@@ -1,3 +1,5 @@
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0285c2c1-5897-4231-917d-b0475fff8f2e)
+
 - [RAG CHALLENGES](https://github.com/harirajeev/learn_LLMS/blob/main/RAG%20Challenges.md)
 -  [ Chunking Strategies ](https://github.com/harirajeev/learn_LLMS/blob/main/chunking%20strategies.md)
 - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
