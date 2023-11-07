@@ -21,3 +21,4 @@
       -  Establishing connections between sections and paragraphs.
       -  Recognizing tables and associating them with their corresponding sections.
       -  Handling lists and nested list structures with precision.
+- [Chunking Strategies](https://www.linkedin.com/pulse/prompt-engineering-chunking-strategies-ravi-naarla/)
