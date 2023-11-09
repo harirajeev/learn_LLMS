@@ -1,3 +1,9 @@
+- Chunking can interfere with context boundaries
+- Content vectors can differ vastly from question vectors, for this you have to use hypothetical embeddings (they generate artificial questions and store them)
+- Instead of saving just one embedding per text-chuck you should store various (text chunk, hypothetical embedding questions, meta data)
+- RAG will miserably fail with requests like "summarize the whole document"
+
+- 
 - challenge 1: chunking strategy
     - One solution involves the implementation of knowledge graphs, which I successfully applied for one of my clients, yielding highly effective results.
     - created an ontology for the documents for the company and then used LLM and code to convert that document into knowledge graph. I used neo4j as database
