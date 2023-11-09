@@ -104,7 +104,9 @@ companies
       - PACIFIC - March 2023
         - [PACIFIC: Towards Proactive Conversational Question Answering over Tabular and Textual Data in Finance](https://arxiv.org/pdf/2210.08817.pdf)
         - https://github.com/dengyang17/PACIFIC/
-        - https://github.com/dengyang17/PACIFIC/tree/main/data 
+        - https://github.com/dengyang17/PACIFIC/tree/main/data
+      - [Phrasebank(FSB)](https://huggingface.co/datasets/financial_phrasebank)
+      - [Headline](https://paperswithcode.com/dataset/headlines-dataset)
 15. Hardware
       -   NVIDIA also announced its next generation of GPUs, the GH200, which is going to offer 141 GB of RAM (as opposed to 80 GB in the H100)
       -   Maybe another way of solving the LLM long-context problem with brute (hardware) force
