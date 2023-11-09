@@ -1,3 +1,4 @@
+- Retrieval Augmented Generation (RAG), and it suffers a simple problem: there is no reason for a question to be semantically similar to its answer. RAG can lead to many irrelevant documents being fed to the LLM without being provided the right context for an answer. 
 - Chunking can interfere with context boundaries
 - Content vectors can differ vastly from question vectors, for this you have to use hypothetical embeddings (they generate artificial questions and store them)
 - Instead of saving just one embedding per text-chuck you should store various (text chunk, hypothetical embedding questions, meta data)
