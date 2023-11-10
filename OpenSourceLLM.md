@@ -1,3 +1,6 @@
+- [Zephyr 7B from HF](https://www.linkedin.com/posts/thom-wolf_there-is-a-beautiful-story-that-just-happened-activity-7126266738584797184-YxgC/)
+- [Mistrallite](https://huggingface.co/amazon/MistralLite)
+
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/6a49827a-f2e8-4e00-a0dd-9dd1db9bac32)
 
 
