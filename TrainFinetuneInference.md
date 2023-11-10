@@ -11,8 +11,7 @@ Training
 -  
 Fine Tuning
 -  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
-- Finetuning pre-trained large language models (LLMs) is an effective method to tailor these models to suit specific business requirements and align them with target domain data.
-    - This process involves adjusting the model parameters using a smaller dataset relevant to the desired domain, which enables the model to learn domain-specific knowledge and vocabulary.
+-  [Alignment - Align LLM with human preferences](https://github.com/huggingface/alignment-handbook)
 - However, as LLMs are “large,” updating multiple layers in a transformer model can be very expensive, so researchers started developing parameter-efficient alternatives.
   1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
   2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
@@ -51,4 +50,3 @@ Fine Tuning
    <b>LLM Inference optimization techniques</b>
    ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/8abda650-a576-4a44-aa60-cd523dd5d4e7)
 
-- [Open Source LLM](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
