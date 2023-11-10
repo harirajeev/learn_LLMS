@@ -27,7 +27,8 @@ Fine Tuning
 - BLOOM-176B
    - to fine-tune BLOOM-176B, one would require almost 3 TB of GPU memory (approximately 72 80GB A100 GPUs).
    - In addition to the model weights, the cost of storing intermediate computation outputs (optimizer states and gradients) is typically even higher
-- [LLaMa](https://github.com/harirajeev/learn_LLMS/blob/main/Llama.md)         
+- [LLaMa](https://github.com/harirajeev/learn_LLMS/blob/main/Llama.md)
+- [Other Open Source LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/OpenSourceLLM.md)
 - More data is not always better when finetuning LLMs
    -  LIMA
    -  AlpaGasus
