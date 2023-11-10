@@ -18,3 +18,7 @@
   - [Does your LLM application hallucinate?](https://medium.com/@saptarshichaudhuri/does-your-llm-application-hallucinate-e06eb3868a88)
   - [Measuring Hallucinations in RAG Systems](https://vectara.com/measuring-hallucinations-in-rag-systems/?utm_source=LinkedIn&utm_medium=social&utm_campaign=GaggleAMP&utm_content=do-models-like-openais-gpt4-and-googles-palm-produce-inaccura-4232853&activity_id=4232853)
   - [Cut the Bull…. Detecting Hallucinations in Large Language Models](https://vectara.com/cut-the-bull-detecting-hallucinations-in-large-language-models/)
+  - you can hook it up to a vectordb and ask the llm to check itself with zero temperature.
+
+
+
