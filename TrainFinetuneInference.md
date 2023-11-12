@@ -16,6 +16,12 @@ Fine Tuning
    -   𝗗𝗶𝗿𝗲𝗰𝘁 𝗽𝗿𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 (𝗗𝗣𝗢) - an alternative to RLHF to better align LLMs
        - DPO is a promising technique that allows us to incorporate human feedback directly into the training process to steer models toward helpfulness and safety.
        - This stands in contrast to supervised fine-tuning, which relies solely on static datasets.   
+- <b>Optimization techniques</b>
+   -   [NEFTune: Noisy Embeddings Improve Instruction Finetuning](https://arxiv.org/pdf/2310.05914.pdf)
+       -   NEFTune is a simple trick that can improve the finetuning process for language models with only a few lines of code.
+       -   NEFTune just adds random (uniform) noise to an LLM’s input word embeddings
+       -   To generate the random noise , we can independently sample values in the range [-1, 1], then scale these values according to the sequence length L, embedding dimension d, and two tunable parameters—α and ɛ.
+       -   This approach is already implemented in TRL, so it can be used by simply setting a parameter in the SFTTrainer package.
 - However, as LLMs are “large,” updating multiple layers in a transformer model can be very expensive, so researchers started developing parameter-efficient alternatives.
   1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
   2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
