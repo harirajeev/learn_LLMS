@@ -23,7 +23,7 @@ Fine Tuning
        -   To generate the random noise , we can independently sample values in the range [-1, 1], then scale these values according to the sequence length L, embedding dimension d, and two tunable parameters—α and ɛ.
        -   This approach is already implemented in TRL, so it can be used by simply setting a parameter in the SFTTrainer package.
 - <b> Embeddings </b>
-       -    [Utilizing Transformer Representations Efficiently](https://www.kaggle.com/code/rhtsingh/utilizing-transformer-representations-efficiently)
+   -  [Utilizing Transformer Representations Efficiently](https://www.kaggle.com/code/rhtsingh/utilizing-transformer-representations-efficiently)
 - However, as LLMs are “large,” updating multiple layers in a transformer model can be very expensive, so researchers started developing parameter-efficient alternatives.
   1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
   2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
