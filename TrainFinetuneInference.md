@@ -12,6 +12,10 @@ Training
 Fine Tuning
 -  [Fine tuning LLMs](https://magazine.sebastianraschka.com/p/finetuning-large-language-models)
 -  [Alignment - Align LLM with human preferences](https://github.com/huggingface/alignment-handbook)
+   -   𝗦𝘂𝗽𝗲𝗿𝘃𝗶𝘀𝗲𝗱 𝗳𝗶𝗻𝗲-𝘁𝘂𝗻𝗶𝗻𝗴 (𝗦𝗙𝗧) - teach models to follow instructions
+   -   𝗗𝗶𝗿𝗲𝗰𝘁 𝗽𝗿𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲 𝗼𝗽𝘁𝗶𝗺𝗶𝘇𝗮𝘁𝗶𝗼𝗻 (𝗗𝗣𝗢) - an alternative to RLHF to better align LLMs
+       - DPO is a promising technique that allows us to incorporate human feedback directly into the training process to steer models toward helpfulness and safety.
+       - This stands in contrast to supervised fine-tuning, which relies solely on static datasets.   
 - However, as LLMs are “large,” updating multiple layers in a transformer model can be very expensive, so researchers started developing parameter-efficient alternatives.
   1. [Parameter-Efficient Finetuning - PEFT](https://github.com/harirajeev/learn_LLMS/blob/main/PEFT.md)           
   2. [Mixed Precision & Quantization](https://github.com/harirajeev/learn_LLMS/blob/main/MixedPrecision&Quantization.md)
