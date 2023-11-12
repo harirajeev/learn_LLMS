@@ -4,27 +4,13 @@
 -  [ Chunking Strategies ](https://github.com/harirajeev/learn_LLMS/blob/main/chunking%20strategies.md)
 - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 - [Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/Evaluation.md)
+-  <b> Two stage retrieval process </b>
+   -   The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
+       -   Maximize recall while accepting a lower precision
+       -   
+   -   Second stage uses a slightly more computationally expensive process that is higher precision and lower recall (for instance with BM25) to “rerank” the existing retrieved candidates.
+       -   higher precision and lower recall    
 - [Maximizing LLM performance](https://blog.ankitsanghvi.in/maximizing-llm-performace/)
-
-🧠Fine-Tuning vs 🔍RAG: A short comparison
-
-- The AI landscape is ever evolving, and adapting language models to cater to specific tasks or domains is crucial. 
-- Two primary approaches that can be employed in this context are Fine-Tuning and Retrieval Augmented Generation (RAG). 
-- Customers ask this all the time, when to employe which approach. In this post, we will delve deeper into the benefits of each method and provide insights on when to employ which approach.
-
-- 🎯 Fine-Tuning (or Retraining):
-    * Fine-Tuning is ideal when you need to train large language models (LLMs) for a completely different task, such as generating code or translating languages.
-    * The main challenge of this approach is the resource-intensive nature of collecting and labeling training data, as well as the computational power required to train the model.
-    * Fine-Tuning demands professional data science skills to optimize the objective function, making it more suitable for experienced practitioners or teams with dedicated resources.
-
-- 🌐 Retrieval Augmented Generation (RAG):
-    * RAG is perfect for adapting LLMs to a new domain while constraining the model to an existing knowledge base, such as company data, document stores, or other structured/unstructured sources.
-    * This method is more cost-efficient compared to fine-tuning, as it leverages pre-existing knowledge bases and requires fewer resources to implement.
-    * RAG is more accessible and user-friendly, as it can be employed using low-code or no-code skills, making it ideal for teams with diverse skill sets.
-
-- In conclusion, the choice between Fine-Tuning and RAG depends on the specific goals and resources of your project. 
-- If you aim to teach the model an entirely new task and have the necessary data science expertise, Fine-Tuning could be a suitable choice. 
-- On the other hand, if the focus is on adapting the model to a new domain with constraints and a limited budget, RAG could offer a more efficient and accessible solution.
 - [RAG Paper](https://arxiv.org/pdf/2005.11401.pdf)
 - [RETRO Paper](https://arxiv.org/pdf/2112.04426.pdf)
 - [Augmented Language Models: a Survey](https://arxiv.org/pdf/2302.07842.pdf)
