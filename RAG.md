@@ -5,11 +5,11 @@
 - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
 - [Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/Evaluation.md)
 -  <b> Two stage retrieval process </b>
-   -   The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
+   -   Retrieval stage - The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
        -   Maximize recall while accepting a lower precision
        -   High recall means that an algorithm returns most of the relevant results (whether or not irrelevant ones are also returned).
        -   Initial high-recall stage handle the variations in the ways humans speak and write,
-   -   Second stage uses a slightly more computationally expensive process that is higher precision and lower recall (for instance with BM25) to “rerank” the existing retrieved candidates.
+   -   [Reranking Stage](https://www.pinecone.io/learn/series/rag/rerankers/) - Second stage uses a slightly more computationally expensive process that is higher precision and lower recall (for instance with BM25) to “rerank” the existing retrieved candidates.
        -   Higher precision and lower recall
        -   Higher precision means that an algorithm returns more relevant results than irrelevant ones
        -   High-precision stage to accurately reflect the importance of relevance from things like phrases.
