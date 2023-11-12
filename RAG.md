@@ -7,9 +7,10 @@
 -  <b> Two stage retrieval process </b>
    -   The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
        -   Maximize recall while accepting a lower precision
-       -   
+       -   High recall means that an algorithm returns most of the relevant results (whether or not irrelevant ones are also returned).
    -   Second stage uses a slightly more computationally expensive process that is higher precision and lower recall (for instance with BM25) to “rerank” the existing retrieved candidates.
-       -   higher precision and lower recall    
+       -   Higher precision and lower recall
+       -   Higher precision means that an algorithm returns more relevant results than irrelevant ones
 - [Maximizing LLM performance](https://blog.ankitsanghvi.in/maximizing-llm-performace/)
 - [RAG Paper](https://arxiv.org/pdf/2005.11401.pdf)
 - [RETRO Paper](https://arxiv.org/pdf/2112.04426.pdf)
