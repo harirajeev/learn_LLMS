@@ -8,9 +8,11 @@
    -   The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
        -   Maximize recall while accepting a lower precision
        -   High recall means that an algorithm returns most of the relevant results (whether or not irrelevant ones are also returned).
+       -   Initial high-recall stage handle the variations in the ways humans speak and write,
    -   Second stage uses a slightly more computationally expensive process that is higher precision and lower recall (for instance with BM25) to “rerank” the existing retrieved candidates.
        -   Higher precision and lower recall
        -   Higher precision means that an algorithm returns more relevant results than irrelevant ones
+       -   High-precision stage to accurately reflect the importance of relevance from things like phrases.
    -  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/7022df94-6da8-4b6c-904f-b13e539da98f)
 
 - [Maximizing LLM performance](https://blog.ankitsanghvi.in/maximizing-llm-performace/)
