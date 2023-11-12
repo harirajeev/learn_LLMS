@@ -1,5 +1,5 @@
 - [<b>Risk</b>](https://github.com/harirajeev/learn_LLMS/blob/main/risk.md)
-- <b>Hallicination</b>
+- <b>Hallucination</b>
    - [A Survey on Hallucination in Large Language Models:Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311.05232.pdf)     
    - 
 
