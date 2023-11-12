@@ -1,7 +1,7 @@
 - [<b>Risk</b>](https://github.com/harirajeev/learn_LLMS/blob/main/risk.md)
 - <b>Hallucination</b>
    - [A Survey on Hallucination in Large Language Models:Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311.05232.pdf)     
-   - 
+   - [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%88+How+DeepL+monitors+ML+in+production+%26+ML+observability+course+notes%20-%2012074149)
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/a4ace62b-760e-4600-8979-09e98385f951)
 [source](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4_)
