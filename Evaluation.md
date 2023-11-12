@@ -13,6 +13,13 @@
 
 - F1 Score/Precision/Recall. A classic way of measuring model quality. Evaluates the balance between precision and recall.
 
+- <b> Retrieval Evaluation </b>
+  -  To gauge the efficacy of our retrieval system, we primarily relied on two widely accepted metrics: Hit Rate and Mean Reciprocal Rank (MRR)
+  -  Hit rate : calculates the fraction of queries where the correct answer is found within the top-k retrieved documents.
+  -  Mean Reciprocal Rank (MRR) :
+     - For each query, MRR evaluates the system’s accuracy by looking at the rank of the highest-placed relevant document.
+     - Specifically, it’s the average of the reciprocals of these ranks across all the queries.
+     - So, if the first relevant document is the top result, the reciprocal rank is 1; if it’s second, the reciprocal rank is 1/2, and so on 
 - Evaluate Hallucination
   - [HaluEval: A Hallucination Evaluation Benchmark for LLMs](https://github.com/RUCAIBox/HaluEval)
   - [Does your LLM application hallucinate?](https://medium.com/@saptarshichaudhuri/does-your-llm-application-hallucinate-e06eb3868a88)
