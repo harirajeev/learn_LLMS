@@ -11,6 +11,8 @@
    -   Second stage uses a slightly more computationally expensive process that is higher precision and lower recall (for instance with BM25) to “rerank” the existing retrieved candidates.
        -   Higher precision and lower recall
        -   Higher precision means that an algorithm returns more relevant results than irrelevant ones
+   -  ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/7022df94-6da8-4b6c-904f-b13e539da98f)
+
 - [Maximizing LLM performance](https://blog.ankitsanghvi.in/maximizing-llm-performace/)
 - [RAG Paper](https://arxiv.org/pdf/2005.11401.pdf)
 - [RETRO Paper](https://arxiv.org/pdf/2112.04426.pdf)
