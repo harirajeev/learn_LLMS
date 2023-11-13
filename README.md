@@ -63,6 +63,7 @@ Pretrained transformers and large language models (LLMs) like GPT and BERT can b
         3. [Open LLM-Perf Leaderboard ](https://huggingface.co/spaces/optimum/llm-perf-leaderboard)
         4. [Evaluating LLM Outputs](https://txt.cohere.com/evaluating-llm-outputs/#:~:text=Evaluating%20LLM%20outputs%20is%20especially,ensuring%20a%20great%20user%20experience.)
         5. [Evaluating LLMs is a minefield](https://www.cs.princeton.edu/~arvindn/talks/evaluating_llms_minefield/)
+        6. [How to Evaluate LLMs: A Complete Metric Framework](https://www.microsoft.com/en-us/research/group/experimentation-platform-exp/articles/how-to-evaluate-llms-a-complete-metric-framework/)
     - [Evaluation Metric](https://github.com/harirajeev/learn_LLMS/blob/main/Evaluation.md)
 8. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
 9. [LLM Metric](https://github.com/ray-project/llm-numbers)
