@@ -25,6 +25,7 @@ Learning Resources
  8. [State of Open Source AI Book - 2023 Edition](https://book.premai.io/state-of-open-source-ai/)
  9. [Do Machine Learning Models Memorize or Generalize?](https://pair.withgoogle.com/explorables/grokking/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%88+How+DeepL+monitors+ML+in+production+%26+ML+observability+course+notes%20-%2012074149)
  10. [Open-source ML observability course notes](https://learn.evidentlyai.com/ml-observability-course/module-1-introduction)
+ 11. [Understanding Deep Learning Simon J.D. Prince](https://udlbook.github.io/udlbook/)
 
 
 To Read
