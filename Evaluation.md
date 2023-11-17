@@ -1,4 +1,4 @@
-- Cosine Similarity
+- Cosine Similarity - customize OpenAI embeddings to a particular task
   -  But there’s a core problem with this approach: there’s a hidden assumption here that text chunks close in embedding space to the question contain the right answer. However, this isn't always true. For example, the question “How old are you?” and the answer “27” might be far apart in embedding space, even though “27” is the correct answer.
   -  To solve this problem, you can improve retrieval by fine-tuning the embeddings.
   -   In a nutshell, you create a small dataset where each pair of embeddings (like the embedding for “How old are you?” and “27”) is labeled with 1 if they should be close (i.e., they are a relevant question-answer pair), and -1 if not.
