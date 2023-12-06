@@ -15,6 +15,24 @@
       - Research shows that LLM recall degrades as we put more tokens in the context window
       - The solution to this issue is to maximize retrieval recall by retrieving plenty of documents and then maximize LLM recall by minimizing the number of documents that make it to the LLM.
       - To do that, we reorder retrieved documents and keep just the most relevant for our LLM — to do that, we use reranking.
+  - Reranking
+      - A reranking model — also known as a cross-encoder — is a type of model that, given a query and document pair, will output a similarity score.
+      - We use this score to reorder the documents by relevance to our query.
+      - rerankers are slow, and retrievers are fast
+      - rerankers are much more accurate than embedding models.
+      - The intuition behind a bi-encoder's inferior accuracy is that bi-encoders must compress all of the possible meanings of a document into a single vector — meaning we lose information
+      - bi-encoders have no context on the query because we don't know the query until we receive it (we create embeddings before user query time).
+      - a reranker can receive the raw information directly into the large transformer computation, meaning less information loss
+      - we have the added benefit of analyzing our document's meaning specific to the user query — rather than trying to produce a generic, averaged meaning.
+      - Rerankers avoid the information loss of bi-encoders — but they come with a different penalty — time.
+      - With rerankers, we are not pre-computing anything
+      - Instead, we're feeding our query and a single other document into the transformer, running a whole transformer inference step, and outputting a single similarity score.
+   
+    ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/14fb5ca6-0809-4b80-bcdf-594c82d7d762)
+
+    ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/dc508386-c0f4-4078-8b07-bab53c033890)
+
+
 -  <b> Two stage retrieval process </b>
    -   Retrieval stage - The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
        -   Maximize recall while accepting a lower precision
