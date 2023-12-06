@@ -32,6 +32,7 @@
 
     ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/dc508386-c0f4-4078-8b07-bab53c033890)
 
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/bf3b2b45-bae3-42f5-a3e1-013717578dce)
 
 -  <b> Two stage retrieval process </b>
    -   Retrieval stage - The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
