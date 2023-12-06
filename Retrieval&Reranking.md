@@ -20,6 +20,7 @@
       - We use this score to reorder the documents by relevance to our query.
       - rerankers are slow, and retrievers are fast
       - rerankers are much more accurate than embedding models.
+      - Bi-Encoder models are fast, but less accurate. while Cross-Encoders are more accurate, but slow.
       - The intuition behind a bi-encoder's inferior accuracy is that bi-encoders must compress all of the possible meanings of a document into a single vector — meaning we lose information
       - bi-encoders have no context on the query because we don't know the query until we receive it (we create embeddings before user query time).
       - a reranker can receive the raw information directly into the large transformer computation, meaning less information loss
@@ -27,6 +28,10 @@
       - Rerankers avoid the information loss of bi-encoders — but they come with a different penalty — time.
       - With rerankers, we are not pre-computing anything
       - Instead, we're feeding our query and a single other document into the transformer, running a whole transformer inference step, and outputting a single similarity score.
+      - Cross-Encoder models do not produce vector embeddings for data, but use a classification mechanism for data pairs instead.
+      - The input of the model always consists of a data pair, for example two sentences, and outputs a value between 0 and 1 indicating the similarity between these two sentences
+      - So, individual sentences cannot be passed to a Cross-Encoder model, it always needs a pair of "items".
+      - In terms of search, you need to use the Cross-Encoder with each data item and the search query, to calculate the similarity between the query and data object.
    
     ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/14fb5ca6-0809-4b80-bcdf-594c82d7d762)
 
