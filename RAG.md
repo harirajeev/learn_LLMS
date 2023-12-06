@@ -3,6 +3,7 @@
 - [RAG CHALLENGES](https://github.com/harirajeev/learn_LLMS/blob/main/RAG%20Challenges.md)
 -  [ Chunking Strategies ](https://github.com/harirajeev/learn_LLMS/blob/main/chunking%20strategies.md)
 - [Building RAG-based LLM Applications for Production](https://www.anyscale.com/blog/a-comprehensive-guide-for-building-rag-based-llm-applications-part-1)
+- [Retrival & Reranking](https://github.com/harirajeev/learn_LLMS/blob/main/Retrieval%26Reranking.md)
 - [Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/Evaluation.md)
 -  <b> Two stage retrieval process </b>
    -   Retrieval stage - The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
