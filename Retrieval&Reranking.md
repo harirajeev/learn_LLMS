@@ -1,4 +1,20 @@
-
+- [Rerankers and Two-Stage Retrieval](https://www.pinecone.io/learn/series/rag/rerankers/)
+  - Retrival
+    - Vector search
+      - vectors are essentially compressions of the "meaning" behind some text into (typically) 768 or 1536-dimensional vectors
+      - There is some information loss because we're compressing this information into a single vector.
+      - Because of this information loss, we often see that the top three (for example) vector search documents will miss relevant information.
+      - Unfortunately, the retrieval may return relevant information below our top_k cutoff.
+      - What do we do if relevant information at a lower position would help our LLM formulate a better response?
+      - The metric we would measure here is recall — meaning "how many of the relevant documents are we retrieving".
+      - Recall (retrieval recall ) does not consider the total number of retrieved documents — so we can hack the metric and get perfect recall by returning everything.
+      - Unfortunately, we cannot return everything. LLMs have limits on how much text we can pass to them — we call this limit the context window.
+      - We cannot use context stuffing because this reduces the LLM's recall performance
+      - When storing information in the middle of a context window, an LLM's ability to recall that information becomes worse than had it not been provided in the first place
+      - LLM recall refers to the ability of an LLM to find information from the text placed within its context window.
+      - Research shows that LLM recall degrades as we put more tokens in the context window
+      - The solution to this issue is to maximize retrieval recall by retrieving plenty of documents and then maximize LLM recall by minimizing the number of documents that make it to the LLM.
+      - To do that, we reorder retrieved documents and keep just the most relevant for our LLM — to do that, we use reranking.
 -  <b> Two stage retrieval process </b>
    -   Retrieval stage - The first stage uses embedding-based retrieval with a high top-k value to maximize recall while accepting a lower precision.
        -   Maximize recall while accepting a lower precision
