@@ -1,3 +1,7 @@
+[Link to documentation](https://docs.google.com/presentation/d/1IJ1bpoLmHfFzKM3Ef6OoWGwvrwDwLV7EcoOHxLZzizE/edit)
+
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/3617133e-e623-4572-ba19-dfc8dbe9b954)
+
 - Retrieval Augmented Generation (RAG), and it suffers a simple problem: there is no reason for a question to be semantically similar to its answer. RAG can lead to many irrelevant documents being fed to the LLM without being provided the right context for an answer. 
 - Chunking can interfere with context boundaries
 - Content vectors can differ vastly from question vectors, for this you have to use hypothetical embeddings (they generate artificial questions and store them)
