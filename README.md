@@ -87,7 +87,8 @@ Tülu contains models from 7-65B that are *full-parameter* finetuned from LLaMa 
     - PIXIU
       - [paper](https://arxiv.org/abs/2306.05443)
       - [code](https://github.com/chancefocus/PIXIU)
-    - [BloombergGPT](https://github.com/harirajeev/learn_LLMS/blob/main/bloombergGPT.md)         
+    - [BloombergGPT](https://github.com/harirajeev/learn_LLMS/blob/main/bloombergGPT.md)
+    - [DOCLLM: A LAYOUT-AWARE GENERATIVE LANGUAGE MODEL FOR MULTIMODAL DOCUMENT UNDERSTANDING](https://arxiv.org/pdf/2401.00908.pdf)
 
 13A. [Closed Domain QA](https://github.com/harirajeev/learn_LLMS/blob/main/CDQA.md)
 
