@@ -74,6 +74,7 @@ Pretrained transformers and large language models (LLMs) like GPT and BERT can b
     -  [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
     -  [ESG](https://github.com/harirajeev/learn_LLMS/blob/main/ESG.md)
     -  [computational resources](https://github.com/harirajeev/learn_LLMS/blob/main/computationalresources.md)
+    -  [build-a-knowledge-assistant-at-scale](https://mlops.community/how-to-build-a-knowledge-assistant-at-scale/)
 12. Generating dataset
     - [SELF-INSTRUCT: Aligning Language Models with Self-Generated Instructions 25/5/23 - Yizhong Wang](https://arxiv.org/pdf/2212.10560.pdf)
     - [Principle-Driven Self-Alignment of Language Models from Scratch with Minimal Human Supervision - 4/5/23](https://arxiv.org/pdf/2305.03047v1.pdf)
