@@ -1,3 +1,18 @@
+Below is a must-read survey papers on LLMs:
+
+- A Survey of 𝐋𝐚𝐫𝐠𝐞 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐌𝐨𝐝𝐞𝐥𝐬 - https://lnkd.in/d5WHWCak
+- A Survey of 𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐋𝐋𝐌𝐬 - https://lnkd.in/dT7BXnzh
+- A Complete Survey on 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐯𝐞 𝐀𝐈 - https://lnkd.in/ddJ7VVMe
+- A Survey on 𝐈𝐧-𝐜𝐨𝐧𝐭𝐞𝐱𝐭 𝐋𝐞𝐚𝐫𝐧𝐢𝐧𝐠 - https://lnkd.in/dqCSBbAX
+- A Systematic Survey of 𝐏𝐫𝐨𝐦𝐩𝐭𝐢𝐧𝐠 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 in NLP - https://lnkd.in/dNJS2zqc
+- A Survey on 𝐇𝐚𝐥𝐥𝐮𝐜𝐢𝐧𝐚𝐭𝐢𝐨𝐧 in LLMs - https://lnkd.in/dY-hKaNW
+- A Survey of LLM 𝐄𝐯𝐚𝐥𝐮𝐚𝐭𝐢𝐨𝐧 - https://lnkd.in/du5CxmeR
+- A Survey of LLM 𝐄𝐱𝐩𝐥𝐚𝐢𝐧𝐚𝐛𝐢𝐥𝐢𝐭𝐲 - https://lnkd.in/dqGDf_jv
+- A Survey of LLM Based 𝐀𝐠𝐞𝐧𝐭𝐬 - https://lnkd.in/dBvnVu3T
+- A Survey of 𝐏𝐫𝐨𝐦𝐩𝐭𝐢𝐧𝐠 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤𝐬 for LLMs - https://lnkd.in/dTfGt-K3
+- A Survey of 𝐑𝐞𝐚𝐬𝐨𝐧𝐢𝐧𝐠 with Foundation Models - https://lnkd.in/dNe9c8SQ
+- A Survey of 𝐑𝐞𝐭𝐫𝐢𝐞𝐯𝐚𝐥-𝐀𝐮𝐠𝐦𝐞𝐧𝐭𝐞𝐝 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐢𝐨𝐧 for LLMs - https://lnkd.in/dgE3qSVh
+
 Blogs
 
  1. [Jason Wei](https://www.jasonwei.net/)
