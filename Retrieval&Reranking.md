@@ -1,5 +1,7 @@
 - [Rerankers and Two-Stage Retrieval](https://www.pinecone.io/learn/series/rag/rerankers/)
   - Retrival
+    - [semantic chunking](https://llamahub.ai/l/llama_packs-node_parser-semantic_chunking?from=all)
+    - [5 levels of text splitting](https://github.com/FullStackRetrieval-com/RetrievalTutorials/blob/main/5_Levels_Of_Text_Splitting.ipynb) 
     - Vector search
       - vectors are essentially compressions of the "meaning" behind some text into (typically) 768 or 1536-dimensional vectors
       - There is some information loss because we're compressing this information into a single vector.
