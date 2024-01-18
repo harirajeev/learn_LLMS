@@ -58,6 +58,7 @@ Pretrained transformers and large language models (LLMs) like GPT and BERT can b
     - [chatbot-arena-leaderboard](https://huggingface.co/spaces/lmsys/chatbot-arena-leaderboard)
     - [Weight watcher LLM Leaderboard](https://weightwatcher.ai/leaderboard.html)
     - [Can foundation models label data like humans? From HF](https://huggingface.co/blog/llm-leaderboard)
+    - [OpenAI Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/OpenAIEvaluation.md)
     - [LLM Evaluation](https://github.com/harirajeev/learn_LLMS/blob/main/Evaluation.md)
         1. [EleutherAI - LM Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness)
         2. [Optimum benchmarking utility](https://github.com/huggingface/optimum-benchmark)
