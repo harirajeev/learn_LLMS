@@ -1,1 +1,3 @@
-
+- OpenAI Evals
+  - [OpenAI Evals](https://github.com/openai/evals)
+  - [Decoding OpenAI Evals](https://portkey.ai/blog/decoding-openai-evals/)
