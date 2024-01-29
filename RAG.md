@@ -1,7 +1,8 @@
 (https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/3299fc2a-0f0a-44c8-a685-f0c2657c81e1)
 
-![Uploading image.png…]()
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/b5f114c9-24db-47f0-9d47-3ee6ffc2ef21)
+
 
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/0285c2c1-5897-4231-917d-b0475fff8f2e)
