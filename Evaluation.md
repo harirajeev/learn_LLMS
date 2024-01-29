@@ -1,3 +1,12 @@
+- Custom evaluation
+Encoders may not consistently deliver optimal performance, especially when handling sensitive information. Custom evaluation methods become crucial in such scenarios. Here are three approaches to performing custom evaluations.
+  - Evaluation by annotation
+    - Generate a dedicated dataset and set up annotations to obtain gold labels. After annotation, leverage retrieval metrics like Mean Reciprocal Rank (MRR) and Normalized Discounted Cumulative Gain (NDCG) to assess the performance of different encoders quantitatively.
+  - Evaluation by model
+    - Follow a data generation process similar to the annotation approach, but use an LLM or a cross-encoder as the evaluator. This allows the establishment of a relative ranking among all encoders. Subsequently, manual assessment of the top three encoders can yield precise performance metrics.
+  - Evaluation by clustering
+    - Employ diverse clustering techniques and analyze the coverage (quantity of data clustered) at distinct Silhouette scores, indicating vector similarity within clusters. Experiment with algorithms like HDBSCAN, adjusting their parameters for optimal performance selection. This clustering-based evaluation provides valuable insights into the distribution and grouping of data points, aiding in selecting encoders that align with specific metrics.
+
 - Cosine Similarity - customize OpenAI embeddings to a particular task
   -  But there’s a core problem with this approach: there’s a hidden assumption here that text chunks close in embedding space to the question contain the right answer. However, this isn't always true. For example, the question “How old are you?” and the answer “27” might be far apart in embedding space, even though “27” is the correct answer.
   -  To solve this problem, you can improve retrieval by fine-tuning the embeddings.
