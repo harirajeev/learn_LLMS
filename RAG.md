@@ -1,3 +1,11 @@
+- promptingguide
+     - https://www.promptingguide.ai/research/rag
+     - https://www.promptingguide.ai/research/trustworthiness-in-llms
+     - https://www.promptingguide.ai/papers
+     - https://www.promptingguide.ai/notebooks
+     - https://www.promptingguide.ai/readings
+     - https://www.promptingguide.ai/risks
+
 (https://www.rungalileo.io/blog/mastering-rag-how-to-architect-an-enterprise-rag-system)
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/3299fc2a-0f0a-44c8-a685-f0c2657c81e1)
 
