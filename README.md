@@ -71,7 +71,7 @@ Pretrained transformers and large language models (LLMs) like GPT and BERT can b
 8. [Responsible LLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)         
 9. [LLM Metric](https://github.com/ray-project/llm-numbers)
 10. [Knowledge Graphs & LLMS](https://github.com/harirajeev/learn_LLMS/blob/main/KnowledgeGraphs%26LLMS.md)
-11. LLM Ops 
+11. [LLM Ops](https://github.com/harirajeev/learn_LLMS/blob/main/LLMOps.md) 
     -  [LLM Ops](https://home.mlops.community/home/content)
     -  [Emerging Architectures for LLM Applications](https://a16z.com/2023/06/20/emerging-architectures-for-llm-applications/)
     -  [ESG](https://github.com/harirajeev/learn_LLMS/blob/main/ESG.md)
