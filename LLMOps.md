@@ -4,4 +4,5 @@
     -  Call all LLM APIs using the OpenAI format
 -   [Monolithic vs. Microservice Architectural Patterns](https://towardsdatascience.com/anatomy-of-llm-based-chatbot-applications-monolithic-vs-microservice-architectural-patterns-77796216903e)
 -   [A practical guide to building a headless ChatGPT application with Streamlit, FastAPI, and the OpenAI API](https://towardsdatascience.com/decoupled-frontend-backend-microservices-architecture-for-chatgpt-based-llm-chatbot-61637dc5c7ea)
+-   [What Is OAuth2?](https://medium.com/fintechexplained/what-is-oauth2-cdf2cfd69309)
   
