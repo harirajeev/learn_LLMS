@@ -50,3 +50,5 @@
          - So a better solution is to chunk documents and store them with smaller context-length models. You could save on storage costs and retrieval time.
      - When dealing with a vast corpus, beyond the embedding retrievals, a retrieval and re-ranking method is generally recommended and or maximal marginal relevance (MMR) criterion on all the document candidates.
      - [TOP MISCONCEPTIONS OF RAG](https://media.licdn.com/dms/document/media/D561FAQFslxFrkRRp9A/feedshare-document-pdf-analyzed/0/1694709823484?e=1696464000&v=beta&t=6peZ0-W0TFFpnYaz3nh6TlvHuEOyB2i1p_aLHNzJFk4)
+
+- [RAG Cheatsheet](https://media.licdn.com/dms/image/D4D22AQEgjWxKXokOPA/feedshare-shrink_1280/0/1708498751086?e=1711584000&v=beta&t=HHI2VL6rKpAYg4USNcR_B0q-9ZhST7ZodB3-4sg79p0)
