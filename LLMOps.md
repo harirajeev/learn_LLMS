@@ -7,4 +7,7 @@
 -   [What Is OAuth2?](https://medium.com/fintechexplained/what-is-oauth2-cdf2cfd69309)
 -   [Auth0 + Python + FastAPI API Seed - Github](https://github.com/auth0-blog/auth0-python-fastapi-sample/tree/main)
 -   [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
+-   Serving Options
+      -    [TGI - HuggingFace](https://github.com/huggingface/text-generation-inference)
+      -    [vLLM](https://github.com/vllm-project/vllm)
   
