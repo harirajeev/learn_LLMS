@@ -10,4 +10,5 @@
 -   Serving Options
       -    [TGI - HuggingFace](https://github.com/huggingface/text-generation-inference)
       -    [vLLM](https://github.com/vllm-project/vllm)
+      -    [Lorax](https://github.com/predibase/lorax)
   
