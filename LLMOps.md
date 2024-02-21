@@ -6,4 +6,5 @@
 -   [A practical guide to building a headless ChatGPT application with Streamlit, FastAPI, and the OpenAI API](https://towardsdatascience.com/decoupled-frontend-backend-microservices-architecture-for-chatgpt-based-llm-chatbot-61637dc5c7ea)
 -   [What Is OAuth2?](https://medium.com/fintechexplained/what-is-oauth2-cdf2cfd69309)
 -   [Auth0 + Python + FastAPI API Seed - Github](https://github.com/auth0-blog/auth0-python-fastapi-sample/tree/main)
+-   [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
   
