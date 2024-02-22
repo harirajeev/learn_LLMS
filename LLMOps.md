@@ -13,6 +13,9 @@
       -    [vLLM](https://github.com/vllm-project/vllm)
       -    [Lorax](https://github.com/predibase/lorax)
  
+        ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/b331f71c-4bb8-47d2-b911-3eb31cd14b4c)
+
+ 
 - Metrics that Matter for LLM Serving , So here are four key metrics for LLM serving:
     1. Time to First Token (TTFT): Measure the time it takes for the model to generate the first token after a user query. Lower TTFT means a more responsive user experience.
     2. Time Per Output Token (TPOT): Calculate the time required for the model to generate one token for a specific query. Faster TPOT means a quicker model perceived by users.
