@@ -13,7 +13,7 @@
       -    [vLLM](https://github.com/vllm-project/vllm)
       -    [Lorax](https://github.com/predibase/lorax)
  
-        ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/b331f71c-4bb8-47d2-b911-3eb31cd14b4c)
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/6dd6726e-2dc3-4d1f-9476-6e4abfd308d9)
 
  
 - Metrics that Matter for LLM Serving , So here are four key metrics for LLM serving:
