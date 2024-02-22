@@ -11,4 +11,10 @@
       -    [TGI - HuggingFace Interface Tool](https://github.com/huggingface/text-generation-inference)
       -    [vLLM](https://github.com/vllm-project/vllm)
       -    [Lorax](https://github.com/predibase/lorax)
+ 
+- Metrics that Matter for LLM Serving , So here are four key metrics for LLM serving:
+    1. Time to First Token (TTFT): Measure the time it takes for the model to generate the first token after a user query. Lower TTFT means a more responsive user experience.
+    2. Time Per Output Token (TPOT): Calculate the time required for the model to generate one token for a specific query. Faster TPOT means a quicker model perceived by users.
+    3. Latency: Sum the TTFT and total token generation time multiplied by TPOT to measure the overall time taken for the model to provide a response.
+    4. Throughput: Measure the number of output tokens the server generates per second for all users and queries. Optimize for maximum throughput to improve the server's capacity and user experience.
   
