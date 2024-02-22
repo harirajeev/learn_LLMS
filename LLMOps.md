@@ -11,6 +11,7 @@
 -   Serving Options
       -    [TGI - HuggingFace Interface Tool](https://github.com/huggingface/text-generation-inference)
       -    [vLLM](https://github.com/vllm-project/vllm)
+            -    vLLM only works with NVIDIA hardware
       -    [Lorax](https://github.com/predibase/lorax)
  
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/6dd6726e-2dc3-4d1f-9476-6e4abfd308d9)
