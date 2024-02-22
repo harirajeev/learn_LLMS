@@ -5,6 +5,7 @@
 -   [Monolithic vs. Microservice Architectural Patterns](https://towardsdatascience.com/anatomy-of-llm-based-chatbot-applications-monolithic-vs-microservice-architectural-patterns-77796216903e)
 -   [A practical guide to building a headless ChatGPT application with Streamlit, FastAPI, and the OpenAI API](https://towardsdatascience.com/decoupled-frontend-backend-microservices-architecture-for-chatgpt-based-llm-chatbot-61637dc5c7ea)
 -   [What Is OAuth2?](https://medium.com/fintechexplained/what-is-oauth2-cdf2cfd69309)
+    -   [RS256 vs HS256: What's The Difference?](https://auth0.com/blog/rs256-vs-hs256-whats-the-difference/)
 -   [Auth0 + Python + FastAPI API Seed - Github](https://github.com/auth0-blog/auth0-python-fastapi-sample/tree/main)
 -   [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
 -   Serving Options
