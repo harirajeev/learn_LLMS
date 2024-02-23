@@ -1,3 +1,15 @@
+- LLM Caching
+  -    Measuring latency for same input request for the second time using text only caching or semantic caching.
+  -    This is server side LLM caching, so the latency would consists of only network API call latency.
+  -    There are below LLM caching integrations which are available with Langchain and LLM:
+        -    In Memory cache
+        -    SQLite cache
+        -    Redis cache
+        -    GPT cache
+        -    Redis and GPT cache provides two options:
+             - Exact text based cache
+             - Semantic similarity cache(Interesting to evaluate)
+  -    All cache integrations provide similar performance benefits for LLM inference API, reducing latency to 0.1–0.2 second. LLM cache reduces tp50 latency of LLM API significantly.  
 - [Guardrails Hub](https://hub.guardrailsai.com/)
     -  https://www.guardrailsai.com/blog/the-future-of-ai-reliability
 -  [LLMLite](https://github.com/BerriAI/litellm)
