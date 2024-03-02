@@ -1,3 +1,9 @@
+- Retrieval
+  -  [Advanced RAG series: Indexing](https://div.beehiiv.com/p/advanced-rag-series-indexing)
+  -  [Fine tune embedding model](https://betterprogramming.pub/fine-tuning-your-embedding-model-to-maximize-relevance-retrieval-in-rag-pipeline-2ea3fa231149)
+  -  [Fine tune adapter layer](https://medium.com/llamaindex-blog/fine-tuning-a-linear-adapter-for-any-embedding-model-8dd0a142d383)
+  -  
+
 - [Rerankers and Two-Stage Retrieval](https://www.pinecone.io/learn/series/rag/rerankers/)
   - Retrival
     - [semantic chunking](https://llamahub.ai/l/llama_packs-node_parser-semantic_chunking?from=all)
