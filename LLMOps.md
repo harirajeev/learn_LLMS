@@ -22,10 +22,18 @@
 -   [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
 -   Serving Options
       -    [TGI - HuggingFace Interface Tool](https://github.com/huggingface/text-generation-inference)
-      -    [vLLM](https://github.com/vllm-project/vllm)
+      -    [vLLM - 𝐕𝐞𝐫𝐬𝐚𝐭𝐢𝐥𝐞 𝐥𝐚𝐫𝐠𝐞 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐦𝐨𝐝𝐞𝐥](https://github.com/vllm-project/vllm)
+            -    is an open source framework designed to enhance the inference and serving speed of LLMs.
+            -    It has demonstrated remarkable performance improvements compared to mainstream frameworks like Hugging Face’s Transformers, primarily because of a highly innovative new algorithm at its core.
             -    vLLM only works with NVIDIA hardware
             -    Currently vLLM framework provides excellent latency and throughput performance for LLM with paged attention:
             -    this is best LLM serving framework as of now which provides excellent latency performance
+            -    One key reason behind vLLM’s speed during inference is its use of the 𝐏𝐚𝐠𝐞𝐝 𝐀𝐭𝐭𝐞𝐧𝐭𝐢𝐨𝐧 𝐭𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞.
+                  -  In traditional attention mechanisms, the keys and values computed are stored in GPU memory as a KV cache.
+                  -  This cache stores attention keys and values for previous tokens, which can consume a significant amount of memory,
+                  -  especially for large models and long sequences.
+                  -  These keys and values are also stored in a contiguous manner.
+                  -  VLLM achieves better performance than TGI and the Hugging Face transformer library, with up to 24x higher throughput compared to Hugging Face and up to 3.5x higher throughput than TGI.
       -    [Lorax](https://github.com/predibase/lorax)
  
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/6dd6726e-2dc3-4d1f-9476-6e4abfd308d9)
