@@ -1,4 +1,4 @@
-Hidden technical Debt in GenAI Systems
+Hidden technical Debt in GenAI Systems [Eduardo Ordax](https://www.linkedin.com/in/eordax/)
 - technical debt refers to the implied cost of additional rework caused by choosing a quick and potentially dirty solution now instead of using a better approach that would take longer.
 - It’s the trade-off between speed and perfection.
 - While it might be tempting to cut corners to meet deadlines or achieve short-term goals, the long-term consequences can be significant. 
