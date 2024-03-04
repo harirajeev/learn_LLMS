@@ -1,3 +1,4 @@
+- Technical Debt
 - LLM Caching
   -    Measuring latency for same input request for the second time using text only caching or semantic caching.
   -    This is server side LLM caching, so the latency would consists of only network API call latency.
