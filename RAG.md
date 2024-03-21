@@ -1,3 +1,5 @@
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f39e0532-ffbe-411f-b86a-53fd4f489d60)
+
 - promptingguide
      - https://www.promptingguide.ai/research/rag
      - https://www.promptingguide.ai/research/trustworthiness-in-llms
