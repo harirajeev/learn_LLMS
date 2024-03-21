@@ -1,3 +1,6 @@
+- Opensource Evaluation - HF
+  - [LLM as Judge](https://github.com/huggingface/cookbook/blob/main/notebooks/en/llm_judge.ipynb)
+  - [RAG Evaluation](https://github.com/huggingface/cookbook/blob/main/notebooks/en/rag_evaluation.ipynb)
 - Custom evaluation
 Encoders may not consistently deliver optimal performance, especially when handling sensitive information. Custom evaluation methods become crucial in such scenarios. Here are three approaches to performing custom evaluations.
   - Evaluation by annotation
