@@ -1,3 +1,4 @@
+
 - [European data compliance network](https://eadpp.insightz.io/overview)
 - [<b>Risk</b>](https://github.com/harirajeev/learn_LLMS/blob/main/risk.md)
 - <b>Hallucination</b>
@@ -6,6 +7,7 @@
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/a4ace62b-760e-4600-8979-09e98385f951)
 [source](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4_)
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/d7db63ec-2ea1-480f-98f0-970292ef475e)
 
 <b>Literature Survey:</b>
 -  [Security and Privacy Challenges of Large Language Models: A Survey](https://arxiv.org/pdf/2402.00888.pdf)
