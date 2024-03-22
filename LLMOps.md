@@ -1,3 +1,4 @@
+- [Awesome Production Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Hidden Technical Debt in GenAI systems](https://github.com/harirajeev/learn_LLMS/blob/main/TechnicalDebt.md)
 - LLM Caching
   -    Measuring latency for same input request for the second time using text only caching or semantic caching.
