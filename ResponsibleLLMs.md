@@ -8,6 +8,7 @@
 [source](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4_)
 
 <b>Literature Survey:</b>
+-  [Security and Privacy Challenges of Large Language Models: A Survey](https://arxiv.org/pdf/2402.00888.pdf)
 -  [Machine Unlearning](https://ai.googleblog.com/2023/06/announcing-first-machine-unlearning.html)
       - Significant privacy challenges arise when parts of training data for ML models is supposed to be deleted, e.g. because of the right to be forgotten. Even after an individual's data is deleted from a database, the trained model will still benefit from the use of the personal data having been part of the training set.
       - Additionally, it can be possible to infer the use of personal data in model training with membership inference attacks.
