@@ -27,7 +27,8 @@
 - [Challenges and Applications of Large Language Models](https://arxiv.org/pdf/2307.10169.pdf)
 - [Identifying and Mitigating the Security Risks of Generative AI](https://arxiv.org/pdf/2308.14840.pdf)
 - [Generative AI meets Responsible AI (Tutorial)](https://sites.google.com/view/responsible-gen-ai-tutorial/home?authuser=0)
-- 
+- ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f5868d1d-6fe7-40b4-ae8a-4a1d2007122c)
+
 <b>Read on :</b>
 
 1. [red Teaming](https://huggingface.co/blog/red-teaming)
