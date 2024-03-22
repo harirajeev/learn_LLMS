@@ -8,9 +8,10 @@
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/a4ace62b-760e-4600-8979-09e98385f951)
 [source](https://ksankar.medium.com/part-2-chatgpt-threat-vectors-guardrails-for-llmops-dbca8e0e68d4_)
 
-<b>OVERVIEW OF LLM VULNERABILITIES</b>
+<b>OVERVIEW OF LLM VULNERABILITIES</b> -> [Security and Privacy Challenges of Large Language Models: A Survey](https://arxiv.org/pdf/2402.00888.pdf)
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/d7db63ec-2ea1-480f-98f0-970292ef475e)
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/fa6287ba-b704-4947-a04c-14ea702ff30f)
+![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/946afa32-03b4-4547-b707-8b7b278a7f7a)
 
 <b>Literature Survey:</b>
 -  [Security and Privacy Challenges of Large Language Models: A Survey](https://arxiv.org/pdf/2402.00888.pdf)
