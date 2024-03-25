@@ -46,4 +46,5 @@
     2. Time Per Output Token (TPOT): Calculate the time required for the model to generate one token for a specific query. Faster TPOT means a quicker model perceived by users.
     3. Latency: Sum the TTFT and total token generation time multiplied by TPOT to measure the overall time taken for the model to provide a response.
     4. Throughput: Measure the number of output tokens the server generates per second for all users and queries. Optimize for maximum throughput to improve the server's capacity and user experience.
-  
+
+- [ML Ops Training](https://github.com/harirajeev/learn_LLMS/blob/main/ML%20Ops%20Learning.md)
