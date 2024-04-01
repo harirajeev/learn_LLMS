@@ -23,6 +23,7 @@
 -   [Auth0 + Python + FastAPI API Seed - Github](https://github.com/auth0-blog/auth0-python-fastapi-sample/tree/main)
 -   [A Watermark for Large Language Models](https://arxiv.org/abs/2301.10226)
 -   Serving Options
+      -    [NVIDIA Triton Inference Server](https://github.com/harirajeev/learn_LLMS/blob/main/Triton%20Inference%20Server.md)
       -    [TGI - HuggingFace Interface Tool](https://github.com/huggingface/text-generation-inference)
       -    [vLLM - 𝐕𝐞𝐫𝐬𝐚𝐭𝐢𝐥𝐞 𝐥𝐚𝐫𝐠𝐞 𝐥𝐚𝐧𝐠𝐮𝐚𝐠𝐞 𝐦𝐨𝐝𝐞𝐥](https://github.com/vllm-project/vllm)
             -    is an open source framework designed to enhance the inference and serving speed of LLMs.
