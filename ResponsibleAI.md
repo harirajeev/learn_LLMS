@@ -11,6 +11,7 @@
           - global prediction explanation - partial dependency plots / global feaure importance / global decision rules
       - build an interpretable model - logistic regression / decision trees / GAMs
       - LIME (local interpretable model - agmostic explanations) / SHAP (Shapley Additive exPlanations) shapley values
+      - GradCAM (Gradient weighted class activation mapping)
   -  Robustness
   -  Privacy
   -  Security
