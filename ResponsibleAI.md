@@ -14,7 +14,17 @@
       - GradCAM (Gradient weighted class activation mapping)
   -  Robustness
       - model behaving differentialy under different setting - shift in the distribution of data
+      - representative data
+      - monitoring
+      - adversarial training
   -  Privacy
+      - private data should remain private
+      - de-identification
+      - anonymization
+      - Re-identifiction risk, model inversion attacks
+      - differential privacy
+      - k-anonymity
+      - federated learning 
   -  Security
   -  Transparency
   -  Accountability
