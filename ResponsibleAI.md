@@ -1,5 +1,5 @@
-Key aspects of responsible AI
-  Fairness / Bias
+- Key aspects of responsible AI
+  - Fairness / Bias
     -  mitigation
       - preprocessing (re-weighting)
       - Inprocessing (Adversarial debiasing)
