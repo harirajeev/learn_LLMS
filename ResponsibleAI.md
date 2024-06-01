@@ -13,6 +13,7 @@
       - LIME (local interpretable model - agmostic explanations) / SHAP (Shapley Additive exPlanations) shapley values
       - GradCAM (Gradient weighted class activation mapping)
   -  Robustness
+      - model behaving differentialy under different setting - shift in the distribution of data
   -  Privacy
   -  Security
   -  Transparency
