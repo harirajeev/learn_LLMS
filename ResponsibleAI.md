@@ -5,3 +5,9 @@
       - Inprocessing (Adversarial debiasing)
       - Postprocessing (Decision Threshold, Rejection option classification)
       - Fairness thru unawareness
+  -  Explainability / Interpretability
+  -  Robustness
+  -  Privacy
+  -  Security
+  -  Transparency
+  -  Accountability
