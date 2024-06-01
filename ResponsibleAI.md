@@ -26,5 +26,10 @@
       - k-anonymity
       - federated learning 
   -  Security
+      - how is sensitive data protected ?
+      - effective cyber security techniques
+      - adversarial attacks / adversarial training / gradient masking  
   -  Transparency
+      -  model cards - how was the model built / data used etc
+      -  data cards - how was the data created
   -  Accountability
