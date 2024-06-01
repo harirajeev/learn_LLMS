@@ -6,10 +6,10 @@
       - Postprocessing (Decision Threshold, Rejection option classification)
       - Fairness thru unawareness
   -  Explainability / Interpretability
-    -  Post-hoc - explain a given AI model
+      -  Post-hoc - explain a given AI model
         - individual prediction explaination of input features / influentual examples / concepts / local decision rules
         - global prediction explanation - partial dependency plots / global feaure importance / global decision rules
-    - build an interpretable model - logistic regression / decision trees / GAMs
+      - build an interpretable model - logistic regression / decision trees / GAMs
   -  Robustness
   -  Privacy
   -  Security
