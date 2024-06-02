@@ -59,6 +59,7 @@
       -  In the absence of overarching regulation in the United States, AI is currently governed by a mix of the federal government, state governments, industry itself, and the courts. 
       -  National institute of standards and technology - risk assessment in AI
       -  Artificial Intelligence Safety Institute Consortium (AISIC) - https://www.nist.gov/aisi/artificial-intelligence-safety-institute-consortium-aisic
+      -  The Consortium brings together more than 200 organizations to develop science-based and empirically backed guidelines and standards for AI measurement and policy, laying the foundation for AI safety across the world.
   -  Ethical approvals
   -  Informed consent
   -  participatory design - 4 c's - consultation / contribution / collaboration / co-design
