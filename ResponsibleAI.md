@@ -35,7 +35,15 @@
   -  Accountability
 - Regulations
   -  DPDP Act
+      -  Digital privacy data protection ACT 2023
+      -  data principal / consent manager / data protection board (DPB) / data processor / data fiduciary / significant data fiduciary
+        
   -  GDPR
+      -  General data protection regulation
+      -  European economic area , switzerland, UK
+      -  prohits processing of personal data / cannot scrap personal data
+      -  DPIA - data protection impact assessments / article 35/36
+      -  Data protection officer    
   -  EU AI Act
   -  US Regulation
   -  Ethical approvals
