@@ -33,3 +33,13 @@
       -  model cards - how was the model built / data used etc
       -  data cards - how was the data created
   -  Accountability
+-  Regulations
+  -  DPDP Act
+  -  GDPR
+  -  EU AI Act
+  -  US Regulation
+  -  Ethical approvals
+  -  Informed consent
+  -  participatory design
+  -  Future of work 
+  -  
