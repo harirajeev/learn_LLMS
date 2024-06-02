@@ -45,9 +45,14 @@
       -  DPIA - data protection impact assessments / article 35/36
       -  Data protection officer    
   -  EU AI Act
+      - fines
+        - on-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to 35 000 000 EUR
+        - or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
   -  US Regulation
+      -  not act as of now. Policy formulation in process.
+      -  National institute of standards and technology - risk assessment in AI        
   -  Ethical approvals
   -  Informed consent
-  -  participatory design
+  -  participatory design - 4 c's - consultation / contribution / collaboration / co-design
   -  Future of work 
   -  
