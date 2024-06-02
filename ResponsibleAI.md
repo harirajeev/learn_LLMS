@@ -45,10 +45,15 @@
       -  DPIA - data protection impact assessments / article 35/36
       -  Data protection officer    
   -  EU AI Act
+      -  https://www2.deloitte.com/nl/nl/pages/legal/articles/political-agreement-on-the-EU-AI-act.html
       -  AI Act is heavily inspired by the GDPR with similar features such as principles, user rights, transparency obligations and self-assessments
       -  fines
-        - on-compliance with the prohibition of the AI practices referred to in Article 5 shall be subject to administrative fines of up to 35 000 000 EUR
-        - or, if the offender is an undertaking, up to 7 % of its total worldwide annual turnover for the preceding financial year, whichever is higher.
+          - The AI Act provides for huge fines, almost two times higher than under the GDPR.
+          - For the most severe violations of the prohibited applications, fines can go up to 7% of the global turnover or
+          - €35 million (GDPR: 4%/€20 million), and up to 1.5% for failing to cooperate with authorities and/or to provide accurate information.
+      -  excemptions
+          -  The Act sets out a few exemptions from its scope, such as AI systems exclusively used for military, defence or national security purposes,
+          -  or AI systems and AI models specifically developed and put into service for the sole purpose of scientific research and development.
   -  US Regulation
       -  not act as of now. Policy formulation in process.
       -  National institute of standards and technology - risk assessment in AI        
