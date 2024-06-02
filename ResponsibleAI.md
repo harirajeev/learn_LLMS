@@ -33,7 +33,7 @@
       -  model cards - how was the model built / data used etc
       -  data cards - how was the data created
   -  Accountability
--  Regulations
+- Regulations
   -  DPDP Act
   -  GDPR
   -  EU AI Act
