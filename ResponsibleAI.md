@@ -56,7 +56,9 @@
           -  or AI systems and AI models specifically developed and put into service for the sole purpose of scientific research and development.
   -  US Regulation
       -  not act as of now. Policy formulation in process.
-      -  National institute of standards and technology - risk assessment in AI        
+      -  In the absence of overarching regulation in the United States, AI is currently governed by a mix of the federal government, state governments, industry itself, and the courts. 
+      -  National institute of standards and technology - risk assessment in AI
+      -  Artificial Intelligence Safety Institute Consortium (AISIC) - https://www.nist.gov/aisi/artificial-intelligence-safety-institute-consortium-aisic
   -  Ethical approvals
   -  Informed consent
   -  participatory design - 4 c's - consultation / contribution / collaboration / co-design
