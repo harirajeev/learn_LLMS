@@ -51,7 +51,7 @@
           - The AI Act provides for huge fines, almost two times higher than under the GDPR.
           - For the most severe violations of the prohibited applications, fines can go up to 7% of the global turnover or
           - €35 million (GDPR: 4%/€20 million), and up to 1.5% for failing to cooperate with authorities and/or to provide accurate information.
-      -  excemptions
+      -  exemptions
           -  The Act sets out a few exemptions from its scope, such as AI systems exclusively used for military, defence or national security purposes,
           -  or AI systems and AI models specifically developed and put into service for the sole purpose of scientific research and development.
   -  US Regulation
