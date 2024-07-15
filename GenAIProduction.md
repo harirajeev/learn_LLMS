@@ -4,3 +4,7 @@ What We Learned from a Year of Building with LLMs - Eugene Yan, Bryan Bischof, C
     -  [Instructor](https://github.com/jxnl/instructor) and [Outlines](https://github.com/outlines-dev/outlines) are the de facto standards for coaxing structured output from LLMs.
     -  If you’re using an LLM API (e.g., Anthropic, OpenAI), use Instructor; if you’re working with a self-hosted model (e.g., Hugging Face), use Outlines.
   - [Part 3](https://www.oreilly.com/radar/what-we-learned-from-a-year-of-building-with-llms-part-iii-strategy/)
+
+
+Responsible AI
+- [ResponsibleLLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)
