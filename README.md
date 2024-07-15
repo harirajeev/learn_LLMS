@@ -1,4 +1,4 @@
-[GenAIProduction]()
+[GenAIProduction](https://github.com/harirajeev/learn_LLMS/blob/main/GenAIProduction.md)
 
 [The architecture nomenclature for LLMs is somewhat confusing and unfortunate.](https://www.linkedin.com/posts/yann-lecun_a-survey-of-llms-with-a-practical-guide-and-activity-7057527966540386304-M4_2?utm_source=share&utm_medium=member_desktop)
 - What's called "encoder only" actually has an encoder and a decoder (just not an auto-regressive decoder).
