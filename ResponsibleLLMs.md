@@ -1,4 +1,5 @@
 - Microsoft
+   - [Responsible AI Transparency Report](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RW1l5BO)
    - [Microsoft’s Perspectives on Responsible AI in Financial Services](https://aka.ms/AA6ezp5)
    - [Responsible AI in Financial Services : Governance and Risk Management](https://aka.ms/AA6ezp7)
 - [Scaling gen AI in banking: Choosing the best operating model -mckinsey](https://www.mckinsey.com/industries/financial-services/our-insights/scaling-gen-ai-in-banking-choosing-the-best-operating-model#/)
