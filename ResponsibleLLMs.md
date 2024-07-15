@@ -8,6 +8,7 @@
 - Metrics
    - [Catalogue of Tools & Metrics for Trustworthy AI - list of technical metrices](https://oecd.ai/en/catalogue/metrics?page=2)
 - <b>Hallucination</b>
+   - [Extrinsic Hallucinations in LLMs - Lilian Weng](https://lilianweng.github.io/posts/2024-07-07-hallucination/_)  
    - [A Survey on Hallucination in Large Language Models:Principles, Taxonomy, Challenges, and Open Questions](https://arxiv.org/pdf/2311.05232.pdf)     
    - [Evaluation & Hallucination Detection for Abstractive Summaries](https://eugeneyan.com/writing/abstractive/?utm_source=convertkit&utm_medium=email&utm_campaign=%F0%9F%93%88+How+DeepL+monitors+ML+in+production+%26+ML+observability+course+notes%20-%2012074149)
    - [Hallucination-Free? Assessing the Reliability of Leading AI Legal Research Tools -stanford](https://dho.stanford.edu/wp-content/uploads/Legal_RAG_Hallucinations.pdf)
