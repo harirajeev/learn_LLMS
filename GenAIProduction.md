@@ -10,4 +10,4 @@ Responsible AI
 - [ResponsibleLLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)
 
 RAG
--  
+-  https://github.com/harirajeev/learn_LLMS/blob/main/RAG.md
