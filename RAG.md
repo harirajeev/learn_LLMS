@@ -3,6 +3,7 @@
 ![image](https://github.com/user-attachments/assets/51a7da26-b01b-4fff-96ba-4fbb8e9bacb5)
 
 ![image](https://github.com/user-attachments/assets/83f03905-24b8-4e06-a30a-e21aa3ee770a)
+https://d3ddy8balm3goa.cloudfront.net/llamaindex/rag-cheat-sheet-final.svg
 
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f39e0532-ffbe-411f-b86a-53fd4f489d60)
 
