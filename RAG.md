@@ -1,3 +1,7 @@
+![image](https://github.com/user-attachments/assets/b3b3f9cc-e875-4013-9223-f1ab51f0bf1b)
+
+![image](https://github.com/user-attachments/assets/51a7da26-b01b-4fff-96ba-4fbb8e9bacb5)
+
 ![image](https://github.com/harirajeev/learn_LLMS/assets/13446418/f39e0532-ffbe-411f-b86a-53fd4f489d60)
 
 - promptingguide
