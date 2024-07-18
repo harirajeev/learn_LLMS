@@ -8,3 +8,6 @@ What We Learned from a Year of Building with LLMs - Eugene Yan, Bryan Bischof, C
 
 Responsible AI
 - [ResponsibleLLMs](https://github.com/harirajeev/learn_LLMS/blob/main/ResponsibleLLMs.md)
+
+RAG
+-  
